@@ -1,7 +1,8 @@
-# NFHS-6 District-Level Data (India) — Independent Compilation
+# NFHS-6 Provisional District-Level Data (India) — Independent Compilation
 
 District-level indicators from India's **National Family Health Survey-6 (NFHS-6, 2023–24)**, parsed from the **official IIPS State and District Fact Sheet PDFs** into CSV format.
 
+> ⚠️ **Provisional Data:** The NFHS-6 fact sheets used in this repository contain provisional results shared by IIPS on their official website.
 This repository is an **independent, unofficial compilation** and is **not produced or endorsed by the International Institute for Population Sciences (IIPS) or the Ministry of Health and Family Welfare (MoHFW).**
 
 ## What's included
@@ -35,11 +36,13 @@ https://iipsindia.ac.in/content/nfhs-projects
 | `small_sample_flag`            | Small-sample flag from the source                                             |
 | `boundary_change_single_round` | Indicates districts without a valid NFHS-5 comparison due to boundary changes |
 
-## Provisional data
+## Provisional data notice
 
-The NFHS-6 fact sheets used in this repository contain **provisional results**. IIPS cautions users regarding interpretation and comparison of some indicators, particularly those affected by small sample sizes.
+The NFHS-6 State/District Fact Sheets used for this compilation contain **provisional results**.
 
-For important research or publication, please verify values against the original IIPS fact sheets.
+IIPS cautions users regarding the interpretation and comparison of some indicators, particularly where sample sizes are small.
+
+Therefore, this repository should be treated as a **provisional, parsed representation of the published fact sheets** and not as the final NFHS-6 dataset.
 
 ## Citation
 
@@ -51,7 +54,7 @@ Please cite both the original source and this repository when using the data.
 
 ### Parsed dataset
 
-> Patra, N. K. (2026). *NFHS-6 District-Level Data (India): Independent Compilation*. GitHub.
+> Patra, N. K. (2026). *NFHS-6 Provisional District-Level Data (India): Independent Compilation*. GitHub.
 
 ## License
 

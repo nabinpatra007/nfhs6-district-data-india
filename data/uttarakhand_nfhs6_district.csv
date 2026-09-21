@@ -1,0 +1,1210 @@
+state,district,category,indicator_no,indicator,nfhs6_value,nfhs5_value,small_sample_flag,boundary_change_single_round
+Uttarakhand,Almora,Population and Household Profile,1,Population below age 5 years (%),6.5,6.1,False,False
+Uttarakhand,Almora,Population and Household Profile,2,Population below age 15 years (%),21.4,23.2,False,False
+Uttarakhand,Almora,Population and Household Profile,3,Population age 60 years and above (%),20.6,19.5,False,False
+Uttarakhand,Almora,Population and Household Profile,4,Population living in households with electricity (%),99.9,99.9,False,False
+Uttarakhand,Almora,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),93.2,93.3,False,False
+Uttarakhand,Almora,Population and Household Profile,6,Households using iodized salt (%),91.6,88.1,False,False
+Uttarakhand,Almora,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),73.7,66.0,False,False
+Uttarakhand,Almora,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.9,97.6,False,False
+Uttarakhand,Almora,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),71.5,72.3,False,False
+Uttarakhand,Almora,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),25.6,24.8,False,False
+Uttarakhand,Almora,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),70.5,66.5,False,False
+Uttarakhand,Almora,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),57.5,48.0,False,False
+Uttarakhand,Almora,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),64.3,74.0,False,False
+Uttarakhand,Almora,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),65.3,36.6,False,False
+Uttarakhand,Almora,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),83.2,68.7,False,False
+Uttarakhand,Almora,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),4.9,1.5,False,False
+Uttarakhand,Almora,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Uttarakhand,Almora,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.7,2.3,False,False
+Uttarakhand,Almora,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),1.4,1.7,False,False
+Uttarakhand,Almora,Marriage and Fertility,20,Any method2 (%),75.1,78.6,False,False
+Uttarakhand,Almora,Marriage and Fertility,21,Any modern method2 (%),61.7,70.5,False,False
+Uttarakhand,Almora,Marriage and Fertility,22,Any traditional method (%),13.4,8.1,False,False
+Uttarakhand,Almora,Marriage and Fertility,23,Female sterilization (%),36.2,37.9,False,False
+Uttarakhand,Almora,Marriage and Fertility,24,Male sterilization (%),2.6,1.8,False,False
+Uttarakhand,Almora,Marriage and Fertility,25,Total unmet need3 (%),9.4,6.4,False,False
+Uttarakhand,Almora,Marriage and Fertility,26,Unmet need for spacing3 (%),5.1,2.6,False,False
+Uttarakhand,Almora,Marriage and Fertility,27,Unmet need for limiting3 (%),4.3,3.8,False,False
+Uttarakhand,Almora,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),80.5,52.3,False,False
+Uttarakhand,Almora,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,94.3,False,False
+Uttarakhand,Almora,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),75.4,44.3,False,False
+Uttarakhand,Almora,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),94.9,87.7,False,False
+Uttarakhand,Almora,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),58.1,38.6,False,False
+Uttarakhand,Almora,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),30.4,20.9,False,False
+Uttarakhand,Almora,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,99.4,False,False
+Uttarakhand,Almora,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),90.5,80.1,False,False
+Uttarakhand,Almora,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),73.1,69.4,False,False
+Uttarakhand,Almora,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),92.7,85.4,False,False
+Uttarakhand,Almora,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),21.7,16.3,False,False
+Uttarakhand,Almora,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),68.5,*,True,False
+Uttarakhand,Almora,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),13.4,13.7,False,False
+Uttarakhand,Almora,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,85.5,78.1,False,False
+Uttarakhand,Almora,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,6.7,True,False
+Uttarakhand,Almora,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,88.9,79.6,False,False
+Uttarakhand,Almora,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,82.0,85.1,True,False
+Uttarakhand,Almora,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),100.0,96.3,True,False
+Uttarakhand,Almora,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),97.7,96.3,True,False
+Uttarakhand,Almora,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),97.7,96.3,True,False
+Uttarakhand,Almora,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),84.6,85.1,True,False
+Uttarakhand,Almora,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),90.0,85.1,True,False
+Uttarakhand,Almora,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),94.7,96.3,True,False
+Uttarakhand,Almora,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),80.0,72.9,True,False
+Uttarakhand,Almora,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),92.3,85.3,True,False
+Uttarakhand,Almora,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),92.1,19.6,True,False
+Uttarakhand,Almora,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),65.3,51.6,False,False
+Uttarakhand,Almora,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,100.0,True,False
+Uttarakhand,Almora,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,True,False
+Uttarakhand,Almora,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.1,6.2,False,False
+Uttarakhand,Almora,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.4,4.0,False,False
+Uttarakhand,Almora,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,55.9,55.2,True,False
+Uttarakhand,Almora,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),53.7,30.2,False,False
+Uttarakhand,Almora,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,63.0,True,False
+Uttarakhand,Almora,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,96.9,True,False
+Uttarakhand,Almora,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,81.4,True,False
+Uttarakhand,Almora,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Uttarakhand,Almora,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",37.4,20.1,True,False
+Uttarakhand,Almora,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Uttarakhand,Almora,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",33.5,18.1,False,False
+Uttarakhand,Almora,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),14.8,26.0,False,False
+Uttarakhand,Almora,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),7.0,17.0,False,False
+Uttarakhand,Almora,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),2.8,6.1,False,False
+Uttarakhand,Almora,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),9.9,22.9,False,False
+Uttarakhand,Almora,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.0,4.4,False,False
+Uttarakhand,Almora,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),18.5,15.6,False,False
+Uttarakhand,Almora,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),20.2,19.5,False,False
+Uttarakhand,Almora,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),10.5,5.3,False,False
+Uttarakhand,Almora,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),7.8,3.7,False,False
+Uttarakhand,Almora,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),18.7,9.5,False,False
+Uttarakhand,Almora,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),11.0,6.9,False,False
+Uttarakhand,Almora,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),13.5,5.9,False,False
+Uttarakhand,Almora,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),24.9,14.0,False,False
+Uttarakhand,Almora,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.0,13.5,False,False
+Uttarakhand,Almora,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,8.0,8.2,False,False
+Uttarakhand,Almora,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,24.2,24.6,False,False
+Uttarakhand,Almora,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.4,19.6,False,False
+Uttarakhand,Almora,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,13.0,12.2,False,False
+Uttarakhand,Almora,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,36.5,33.2,False,False
+Uttarakhand,Almora,Men,87,Women having a bank or savings account that they themselves use (%),96.7,89.9,False,False
+Uttarakhand,Almora,Men,88,Women having a mobile phone that they themselves use (%),82.1,85.7,False,False
+Uttarakhand,Almora,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),97.2,88.6,False,False
+Uttarakhand,Almora,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),3.5,5.5,False,False
+Uttarakhand,Almora,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),42.2,44.3,False,False
+Uttarakhand,Almora,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.1,0.1,False,False
+Uttarakhand,Almora,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),33.6,31.8,False,False
+Uttarakhand,Bageshwar,Population and Household Profile,1,Population below age 5 years (%),6.5,6.8,False,False
+Uttarakhand,Bageshwar,Population and Household Profile,2,Population below age 15 years (%),24.0,24.6,False,False
+Uttarakhand,Bageshwar,Population and Household Profile,3,Population age 60 years and above (%),16.4,16.4,False,False
+Uttarakhand,Bageshwar,Population and Household Profile,4,Population living in households with electricity (%),97.5,99.8,False,False
+Uttarakhand,Bageshwar,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),93.7,92.0,False,False
+Uttarakhand,Bageshwar,Population and Household Profile,6,Households using iodized salt (%),95.6,98.6,False,False
+Uttarakhand,Bageshwar,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),77.2,71.9,False,False
+Uttarakhand,Bageshwar,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.2,96.5,False,False
+Uttarakhand,Bageshwar,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),75.9,73.9,False,False
+Uttarakhand,Bageshwar,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),24.9,20.4,False,False
+Uttarakhand,Bageshwar,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),67.4,42.7,False,False
+Uttarakhand,Bageshwar,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),55.6,52.2,False,False
+Uttarakhand,Bageshwar,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),67.2,81.5,False,False
+Uttarakhand,Bageshwar,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),69.4,54.7,False,False
+Uttarakhand,Bageshwar,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),87.5,63.5,False,False
+Uttarakhand,Bageshwar,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),14.3,12.9,False,False
+Uttarakhand,Bageshwar,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Uttarakhand,Bageshwar,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.4,0.7,False,False
+Uttarakhand,Bageshwar,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),3.0,1.7,False,False
+Uttarakhand,Bageshwar,Marriage and Fertility,20,Any method2 (%),69.2,78.8,False,False
+Uttarakhand,Bageshwar,Marriage and Fertility,21,Any modern method2 (%),51.4,66.4,False,False
+Uttarakhand,Bageshwar,Marriage and Fertility,22,Any traditional method (%),17.8,12.4,False,False
+Uttarakhand,Bageshwar,Marriage and Fertility,23,Female sterilization (%),30.6,33.4,False,False
+Uttarakhand,Bageshwar,Marriage and Fertility,24,Male sterilization (%),4.1,4.2,False,False
+Uttarakhand,Bageshwar,Marriage and Fertility,25,Total unmet need3 (%),8.6,8.4,False,False
+Uttarakhand,Bageshwar,Marriage and Fertility,26,Unmet need for spacing3 (%),3.2,2.8,False,False
+Uttarakhand,Bageshwar,Marriage and Fertility,27,Unmet need for limiting3 (%),5.4,5.6,False,False
+Uttarakhand,Bageshwar,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),76.2,63.8,False,False
+Uttarakhand,Bageshwar,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),98.5,97.0,False,False
+Uttarakhand,Bageshwar,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),75.7,67.9,False,False
+Uttarakhand,Bageshwar,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),93.7,94.8,False,False
+Uttarakhand,Bageshwar,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),32.4,42.4,False,False
+Uttarakhand,Bageshwar,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),15.8,25.1,False,False
+Uttarakhand,Bageshwar,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.4,99.4,False,False
+Uttarakhand,Bageshwar,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),88.0,82.0,False,False
+Uttarakhand,Bageshwar,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),80.7,75.1,False,False
+Uttarakhand,Bageshwar,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),90.2,85.0,False,False
+Uttarakhand,Bageshwar,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),19.7,12.4,False,False
+Uttarakhand,Bageshwar,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),*,*,True,False
+Uttarakhand,Bageshwar,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),16.8,9.9,False,False
+Uttarakhand,Bageshwar,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,82.5,78.1,False,False
+Uttarakhand,Bageshwar,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,0.0,True,False
+Uttarakhand,Bageshwar,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,84.9,79.8,False,False
+Uttarakhand,Bageshwar,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,76.0,86.9,True,False
+Uttarakhand,Bageshwar,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),86.5,91.0,True,False
+Uttarakhand,Bageshwar,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),95.9,97.8,True,False
+Uttarakhand,Bageshwar,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),90.5,95.3,True,False
+Uttarakhand,Bageshwar,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),81.4,88.8,True,False
+Uttarakhand,Bageshwar,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),90.9,93.8,True,False
+Uttarakhand,Bageshwar,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),90.9,93.2,True,False
+Uttarakhand,Bageshwar,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),67.5,48.3,False,False
+Uttarakhand,Bageshwar,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),64.3,67.0,True,False
+Uttarakhand,Bageshwar,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),90.9,41.9,True,False
+Uttarakhand,Bageshwar,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),70.3,37.0,False,False
+Uttarakhand,Bageshwar,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),94.7,95.5,True,False
+Uttarakhand,Bageshwar,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,True,False
+Uttarakhand,Bageshwar,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),11.5,4.0,False,False
+Uttarakhand,Bageshwar,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.5,1.8,False,False
+Uttarakhand,Bageshwar,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,62.4,*,True,False
+Uttarakhand,Bageshwar,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),38.0,37.0,False,False
+Uttarakhand,Bageshwar,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Uttarakhand,Bageshwar,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Uttarakhand,Bageshwar,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Uttarakhand,Bageshwar,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Uttarakhand,Bageshwar,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",16.6,6.4,False,False
+Uttarakhand,Bageshwar,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Uttarakhand,Bageshwar,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",15.8,7.2,False,False
+Uttarakhand,Bageshwar,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),15.4,23.6,False,False
+Uttarakhand,Bageshwar,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),6.7,7.7,False,False
+Uttarakhand,Bageshwar,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),2.1,3.7,False,False
+Uttarakhand,Bageshwar,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),12.9,11.9,False,False
+Uttarakhand,Bageshwar,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.4,3.5,False,False
+Uttarakhand,Bageshwar,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),19.6,17.2,False,False
+Uttarakhand,Bageshwar,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),22.2,17.6,False,False
+Uttarakhand,Bageshwar,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),8.3,3.8,False,False
+Uttarakhand,Bageshwar,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),5.4,3.8,False,False
+Uttarakhand,Bageshwar,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),14.0,7.9,False,False
+Uttarakhand,Bageshwar,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),9.2,4.6,False,False
+Uttarakhand,Bageshwar,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),11.4,6.0,False,False
+Uttarakhand,Bageshwar,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),20.9,12.0,False,False
+Uttarakhand,Bageshwar,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),5.8,13.0,False,False
+Uttarakhand,Bageshwar,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.3,5.7,False,False
+Uttarakhand,Bageshwar,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,12.1,20.2,False,False
+Uttarakhand,Bageshwar,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.0,20.8,False,False
+Uttarakhand,Bageshwar,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,7.8,11.9,False,False
+Uttarakhand,Bageshwar,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,22.9,34.9,False,False
+Uttarakhand,Bageshwar,Men,87,Women having a bank or savings account that they themselves use (%),95.8,88.8,False,False
+Uttarakhand,Bageshwar,Men,88,Women having a mobile phone that they themselves use (%),79.9,72.8,False,False
+Uttarakhand,Bageshwar,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),93.8,91.2,False,False
+Uttarakhand,Bageshwar,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),6.5,7.7,False,False
+Uttarakhand,Bageshwar,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),40.0,43.7,False,False
+Uttarakhand,Bageshwar,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.2,0.5,False,False
+Uttarakhand,Bageshwar,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),33.9,39.5,False,False
+Uttarakhand,Chamoli,Population and Household Profile,1,Population below age 5 years (%),7.9,7.2,False,False
+Uttarakhand,Chamoli,Population and Household Profile,2,Population below age 15 years (%),26.6,26.1,False,False
+Uttarakhand,Chamoli,Population and Household Profile,3,Population age 60 years and above (%),14.0,12.6,False,False
+Uttarakhand,Chamoli,Population and Household Profile,4,Population living in households with electricity (%),99.5,99.5,False,False
+Uttarakhand,Chamoli,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),97.5,94.4,False,False
+Uttarakhand,Chamoli,Population and Household Profile,6,Households using iodized salt (%),91.7,93.8,False,False
+Uttarakhand,Chamoli,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),85.4,71.1,False,False
+Uttarakhand,Chamoli,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.9,96.1,False,False
+Uttarakhand,Chamoli,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),78.2,79.1,False,False
+Uttarakhand,Chamoli,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),26.8,14.6,False,False
+Uttarakhand,Chamoli,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),68.9,48.8,False,False
+Uttarakhand,Chamoli,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),61.5,59.0,False,False
+Uttarakhand,Chamoli,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),75.5,78.3,False,False
+Uttarakhand,Chamoli,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),81.7,50.3,False,False
+Uttarakhand,Chamoli,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),88.5,75.9,False,False
+Uttarakhand,Chamoli,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),5.6,3.4,False,False
+Uttarakhand,Chamoli,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Uttarakhand,Chamoli,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),1.9,1.4,False,False
+Uttarakhand,Chamoli,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),1.8,3.0,False,False
+Uttarakhand,Chamoli,Marriage and Fertility,20,Any method2 (%),73.9,73.7,False,False
+Uttarakhand,Chamoli,Marriage and Fertility,21,Any modern method2 (%),62.5,64.0,False,False
+Uttarakhand,Chamoli,Marriage and Fertility,22,Any traditional method (%),11.4,9.7,False,False
+Uttarakhand,Chamoli,Marriage and Fertility,23,Female sterilization (%),46.1,49.0,False,False
+Uttarakhand,Chamoli,Marriage and Fertility,24,Male sterilization (%),2.4,1.2,False,False
+Uttarakhand,Chamoli,Marriage and Fertility,25,Total unmet need3 (%),11.6,9.3,False,False
+Uttarakhand,Chamoli,Marriage and Fertility,26,Unmet need for spacing3 (%),4.8,3.6,False,False
+Uttarakhand,Chamoli,Marriage and Fertility,27,Unmet need for limiting3 (%),6.8,5.7,False,False
+Uttarakhand,Chamoli,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),76.3,58.6,False,False
+Uttarakhand,Chamoli,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,97.9,False,False
+Uttarakhand,Chamoli,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),62.2,52.2,False,False
+Uttarakhand,Chamoli,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),98.0,94.6,False,False
+Uttarakhand,Chamoli,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),28.8,40.8,False,False
+Uttarakhand,Chamoli,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),18.2,18.8,False,False
+Uttarakhand,Chamoli,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.1,100.0,False,False
+Uttarakhand,Chamoli,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),75.3,73.9,False,False
+Uttarakhand,Chamoli,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),68.3,67.3,False,False
+Uttarakhand,Chamoli,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),79.3,75.3,False,False
+Uttarakhand,Chamoli,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),12.1,8.8,False,False
+Uttarakhand,Chamoli,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),*,*,True,False
+Uttarakhand,Chamoli,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),14.8,7.1,False,False
+Uttarakhand,Chamoli,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,74.1,72.1,False,False
+Uttarakhand,Chamoli,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,2.0,True,False
+Uttarakhand,Chamoli,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,74.5,67.8,False,False
+Uttarakhand,Chamoli,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,87.2,85.0,True,False
+Uttarakhand,Chamoli,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),92.3,91.1,True,False
+Uttarakhand,Chamoli,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,100.0,True,False
+Uttarakhand,Chamoli,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),97.9,100.0,True,False
+Uttarakhand,Chamoli,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),89.3,87.9,True,False
+Uttarakhand,Chamoli,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),97.6,92.0,True,False
+Uttarakhand,Chamoli,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),97.6,92.0,True,False
+Uttarakhand,Chamoli,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),93.2,65.2,True,False
+Uttarakhand,Chamoli,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),85.8,78.0,True,False
+Uttarakhand,Chamoli,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),95.8,21.4,True,False
+Uttarakhand,Chamoli,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),65.1,49.9,False,False
+Uttarakhand,Chamoli,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),94.2,98.4,True,False
+Uttarakhand,Chamoli,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.1,0.0,True,False
+Uttarakhand,Chamoli,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),10.4,5.7,False,False
+Uttarakhand,Chamoli,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.5,1.5,False,False
+Uttarakhand,Chamoli,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,79.9,*,True,False
+Uttarakhand,Chamoli,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),56.1,63.1,False,False
+Uttarakhand,Chamoli,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),65.4,*,True,False
+Uttarakhand,Chamoli,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),96.6,*,True,False
+Uttarakhand,Chamoli,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,82.3,*,True,False
+Uttarakhand,Chamoli,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Uttarakhand,Chamoli,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",26.6,9.8,False,False
+Uttarakhand,Chamoli,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Uttarakhand,Chamoli,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",21.1,10.3,False,False
+Uttarakhand,Chamoli,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),17.4,34.1,False,False
+Uttarakhand,Chamoli,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),10.2,16.2,False,False
+Uttarakhand,Chamoli,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),0.8,5.0,False,False
+Uttarakhand,Chamoli,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),15.3,21.6,False,False
+Uttarakhand,Chamoli,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.9,7.5,False,False
+Uttarakhand,Chamoli,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),11.3,9.6,False,False
+Uttarakhand,Chamoli,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),30.4,24.2,False,False
+Uttarakhand,Chamoli,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),8.8,3.4,False,False
+Uttarakhand,Chamoli,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),6.8,2.9,False,False
+Uttarakhand,Chamoli,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),15.8,6.8,False,False
+Uttarakhand,Chamoli,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),11.5,3.6,False,False
+Uttarakhand,Chamoli,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),8.9,5.0,False,False
+Uttarakhand,Chamoli,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),20.8,9.8,False,False
+Uttarakhand,Chamoli,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),3.8,15.0,False,False
+Uttarakhand,Chamoli,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,1.8,3.7,False,False
+Uttarakhand,Chamoli,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,8.0,19.7,False,False
+Uttarakhand,Chamoli,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.8,19.4,False,False
+Uttarakhand,Chamoli,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,5.2,8.2,False,False
+Uttarakhand,Chamoli,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,16.5,28.5,False,False
+Uttarakhand,Chamoli,Men,87,Women having a bank or savings account that they themselves use (%),95.4,77.8,False,False
+Uttarakhand,Chamoli,Men,88,Women having a mobile phone that they themselves use (%),84.4,67.1,False,False
+Uttarakhand,Chamoli,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),93.3,96.8,False,False
+Uttarakhand,Chamoli,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),3.8,2.2,False,False
+Uttarakhand,Chamoli,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),40.0,38.4,False,False
+Uttarakhand,Chamoli,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.0,0.2,False,False
+Uttarakhand,Chamoli,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),42.4,37.7,False,False
+Uttarakhand,Champawat,Population and Household Profile,1,Population below age 5 years (%),8.1,7.5,False,False
+Uttarakhand,Champawat,Population and Household Profile,2,Population below age 15 years (%),26.4,27.6,False,False
+Uttarakhand,Champawat,Population and Household Profile,3,Population age 60 years and above (%),14.9,12.0,False,False
+Uttarakhand,Champawat,Population and Household Profile,4,Population living in households with electricity (%),99.7,99.6,False,False
+Uttarakhand,Champawat,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),95.0,95.4,False,False
+Uttarakhand,Champawat,Population and Household Profile,6,Households using iodized salt (%),90.2,97.1,False,False
+Uttarakhand,Champawat,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),81.0,65.7,False,False
+Uttarakhand,Champawat,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.2,97.5,False,False
+Uttarakhand,Champawat,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),74.5,75.9,False,False
+Uttarakhand,Champawat,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),25.2,18.6,False,False
+Uttarakhand,Champawat,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),63.3,34.8,False,False
+Uttarakhand,Champawat,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),56.6,51.0,False,False
+Uttarakhand,Champawat,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),65.5,76.6,False,False
+Uttarakhand,Champawat,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),76.2,50.3,False,False
+Uttarakhand,Champawat,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),90.1,81.3,False,False
+Uttarakhand,Champawat,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),17.7,11.7,False,False
+Uttarakhand,Champawat,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Uttarakhand,Champawat,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),2.5,0.8,False,False
+Uttarakhand,Champawat,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.7,1.9,False,False
+Uttarakhand,Champawat,Marriage and Fertility,20,Any method2 (%),72.5,66.7,False,False
+Uttarakhand,Champawat,Marriage and Fertility,21,Any modern method2 (%),53.7,57.7,False,False
+Uttarakhand,Champawat,Marriage and Fertility,22,Any traditional method (%),18.8,9.0,False,False
+Uttarakhand,Champawat,Marriage and Fertility,23,Female sterilization (%),29.3,38.0,False,False
+Uttarakhand,Champawat,Marriage and Fertility,24,Male sterilization (%),0.1,0.1,False,False
+Uttarakhand,Champawat,Marriage and Fertility,25,Total unmet need3 (%),10.3,10.4,False,False
+Uttarakhand,Champawat,Marriage and Fertility,26,Unmet need for spacing3 (%),4.5,3.6,False,False
+Uttarakhand,Champawat,Marriage and Fertility,27,Unmet need for limiting3 (%),5.8,6.8,False,False
+Uttarakhand,Champawat,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),83.3,72.3,False,False
+Uttarakhand,Champawat,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),99.0,98.8,False,False
+Uttarakhand,Champawat,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),68.4,62.0,False,False
+Uttarakhand,Champawat,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),93.7,96.6,False,False
+Uttarakhand,Champawat,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),45.1,57.7,False,False
+Uttarakhand,Champawat,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),20.4,30.7,False,False
+Uttarakhand,Champawat,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.9,100.0,False,False
+Uttarakhand,Champawat,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),84.2,79.8,False,False
+Uttarakhand,Champawat,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),51.7,51.8,False,False
+Uttarakhand,Champawat,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),86.1,80.7,False,False
+Uttarakhand,Champawat,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),16.3,16.3,False,False
+Uttarakhand,Champawat,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),36.6,45.1,False,False
+Uttarakhand,Champawat,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),8.6,6.9,False,False
+Uttarakhand,Champawat,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,80.4,80.8,False,False
+Uttarakhand,Champawat,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),2.3,1.8,True,False
+Uttarakhand,Champawat,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,81.5,80.5,False,False
+Uttarakhand,Champawat,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,75.1,91.9,False,False
+Uttarakhand,Champawat,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),85.8,91.6,True,False
+Uttarakhand,Champawat,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),98.0,100.0,False,False
+Uttarakhand,Champawat,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),98.0,98.0,False,False
+Uttarakhand,Champawat,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),77.5,93.9,False,False
+Uttarakhand,Champawat,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),89.2,97.2,False,False
+Uttarakhand,Champawat,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),91.7,98.7,False,False
+Uttarakhand,Champawat,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),72.0,77.2,False,False
+Uttarakhand,Champawat,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),82.7,67.8,False,False
+Uttarakhand,Champawat,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),91.3,46.7,False,False
+Uttarakhand,Champawat,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),63.0,56.9,False,False
+Uttarakhand,Champawat,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,97.0,False,False
+Uttarakhand,Champawat,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,3.0,False,False
+Uttarakhand,Champawat,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),9.5,4.2,False,False
+Uttarakhand,Champawat,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.6,0.0,False,False
+Uttarakhand,Champawat,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,70.5,*,True,False
+Uttarakhand,Champawat,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),51.7,46.3,False,False
+Uttarakhand,Champawat,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,57.2,True,False
+Uttarakhand,Champawat,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,94.5,True,False
+Uttarakhand,Champawat,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,90.1,True,False
+Uttarakhand,Champawat,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Uttarakhand,Champawat,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",19.7,9.9,False,False
+Uttarakhand,Champawat,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Uttarakhand,Champawat,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",18.3,9.0,False,False
+Uttarakhand,Champawat,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),19.4,24.9,False,False
+Uttarakhand,Champawat,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),13.7,12.4,False,False
+Uttarakhand,Champawat,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),3.8,5.8,False,False
+Uttarakhand,Champawat,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),19.3,15.3,False,False
+Uttarakhand,Champawat,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.4,4.7,False,False
+Uttarakhand,Champawat,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),18.8,14.6,False,False
+Uttarakhand,Champawat,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),27.8,17.9,False,False
+Uttarakhand,Champawat,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),10.6,3.3,False,False
+Uttarakhand,Champawat,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),8.2,3.7,False,False
+Uttarakhand,Champawat,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),19.2,7.9,False,False
+Uttarakhand,Champawat,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),10.0,3.8,False,False
+Uttarakhand,Champawat,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),10.9,6.8,False,False
+Uttarakhand,Champawat,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),22.4,11.3,False,False
+Uttarakhand,Champawat,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),4.1,12.7,False,False
+Uttarakhand,Champawat,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,3.9,5.0,False,False
+Uttarakhand,Champawat,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,11.5,19.9,False,False
+Uttarakhand,Champawat,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.5,20.7,False,False
+Uttarakhand,Champawat,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.4,7.9,False,False
+Uttarakhand,Champawat,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,18.7,29.7,False,False
+Uttarakhand,Champawat,Men,87,Women having a bank or savings account that they themselves use (%),93.1,87.4,False,False
+Uttarakhand,Champawat,Men,88,Women having a mobile phone that they themselves use (%),77.8,70.4,False,False
+Uttarakhand,Champawat,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),89.6,94.4,False,False
+Uttarakhand,Champawat,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),4.8,4.9,False,False
+Uttarakhand,Champawat,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),38.2,38.7,False,False
+Uttarakhand,Champawat,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.2,0.2,False,False
+Uttarakhand,Champawat,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),29.6,33.1,False,False
+Uttarakhand,Dehradun,Population and Household Profile,1,Population below age 5 years (%),6.5,6.6,False,False
+Uttarakhand,Dehradun,Population and Household Profile,2,Population below age 15 years (%),21.9,23.1,False,False
+Uttarakhand,Dehradun,Population and Household Profile,3,Population age 60 years and above (%),12.5,11.7,False,False
+Uttarakhand,Dehradun,Population and Household Profile,4,Population living in households with electricity (%),99.6,99.7,False,False
+Uttarakhand,Dehradun,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),99.5,99.0,False,False
+Uttarakhand,Dehradun,Population and Household Profile,6,Households using iodized salt (%),94.2,92.3,False,False
+Uttarakhand,Dehradun,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),84.7,67.3,False,False
+Uttarakhand,Dehradun,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.1,97.6,False,False
+Uttarakhand,Dehradun,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),84.2,82.9,False,False
+Uttarakhand,Dehradun,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),22.8,13.0,False,False
+Uttarakhand,Dehradun,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),66.0,30.7,False,False
+Uttarakhand,Dehradun,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),67.6,62.6,False,False
+Uttarakhand,Dehradun,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),66.9,65.5,False,False
+Uttarakhand,Dehradun,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),91.1,64.1,False,False
+Uttarakhand,Dehradun,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),93.3,88.5,False,False
+Uttarakhand,Dehradun,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),4.6,6.6,False,False
+Uttarakhand,Dehradun,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Uttarakhand,Dehradun,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),1.5,1.0,False,False
+Uttarakhand,Dehradun,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),1.2,0.4,False,False
+Uttarakhand,Dehradun,Marriage and Fertility,20,Any method2 (%),71.1,75.0,False,False
+Uttarakhand,Dehradun,Marriage and Fertility,21,Any modern method2 (%),50.8,59.1,False,False
+Uttarakhand,Dehradun,Marriage and Fertility,22,Any traditional method (%),20.3,15.9,False,False
+Uttarakhand,Dehradun,Marriage and Fertility,23,Female sterilization (%),17.4,19.2,False,False
+Uttarakhand,Dehradun,Marriage and Fertility,24,Male sterilization (%),0.6,0.5,False,False
+Uttarakhand,Dehradun,Marriage and Fertility,25,Total unmet need3 (%),8.6,6.5,False,False
+Uttarakhand,Dehradun,Marriage and Fertility,26,Unmet need for spacing3 (%),3.0,2.7,False,False
+Uttarakhand,Dehradun,Marriage and Fertility,27,Unmet need for limiting3 (%),5.6,3.8,False,False
+Uttarakhand,Dehradun,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),89.9,83.5,False,False
+Uttarakhand,Dehradun,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,98.2,False,False
+Uttarakhand,Dehradun,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),76.4,75.3,False,False
+Uttarakhand,Dehradun,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),97.4,98.4,False,False
+Uttarakhand,Dehradun,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),57.3,57.7,False,False
+Uttarakhand,Dehradun,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),37.5,33.2,False,False
+Uttarakhand,Dehradun,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.7,98.0,False,False
+Uttarakhand,Dehradun,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),95.7,91.7,False,False
+Uttarakhand,Dehradun,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),46.6,49.4,False,False
+Uttarakhand,Dehradun,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),96.1,92.7,False,False
+Uttarakhand,Dehradun,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),33.6,25.9,False,False
+Uttarakhand,Dehradun,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),46.0,34.5,False,False
+Uttarakhand,Dehradun,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),23.6,22.8,False,False
+Uttarakhand,Dehradun,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,95.0,82.4,False,False
+Uttarakhand,Dehradun,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Uttarakhand,Dehradun,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,95.6,84.2,False,False
+Uttarakhand,Dehradun,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,88.5,76.0,True,False
+Uttarakhand,Dehradun,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),88.1,83.0,True,False
+Uttarakhand,Dehradun,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,95.4,True,False
+Uttarakhand,Dehradun,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),100.0,95.4,True,False
+Uttarakhand,Dehradun,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),88.5,76.0,True,False
+Uttarakhand,Dehradun,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),90.5,87.8,True,False
+Uttarakhand,Dehradun,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),90.5,86.2,True,False
+Uttarakhand,Dehradun,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),89.0,74.6,True,False
+Uttarakhand,Dehradun,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),90.1,80.2,True,False
+Uttarakhand,Dehradun,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),90.5,38.9,True,False
+Uttarakhand,Dehradun,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),59.9,61.0,False,False
+Uttarakhand,Dehradun,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),77.8,96.0,True,False
+Uttarakhand,Dehradun,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),12.6,4.0,True,False
+Uttarakhand,Dehradun,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),10.2,1.7,False,False
+Uttarakhand,Dehradun,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.1,1.4,False,False
+Uttarakhand,Dehradun,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,57.2,*,True,False
+Uttarakhand,Dehradun,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),33.5,55.4,False,False
+Uttarakhand,Dehradun,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,55.4,True,False
+Uttarakhand,Dehradun,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,92.6,True,False
+Uttarakhand,Dehradun,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,90.1,True,False
+Uttarakhand,Dehradun,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Uttarakhand,Dehradun,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",23.2,14.4,True,False
+Uttarakhand,Dehradun,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Uttarakhand,Dehradun,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",27.1,13.3,False,False
+Uttarakhand,Dehradun,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),15.6,20.9,False,False
+Uttarakhand,Dehradun,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),14.9,10.1,False,False
+Uttarakhand,Dehradun,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),1.3,2.4,False,False
+Uttarakhand,Dehradun,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),21.6,19.1,False,False
+Uttarakhand,Dehradun,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.2,3.8,False,False
+Uttarakhand,Dehradun,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),12.8,13.1,False,False
+Uttarakhand,Dehradun,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),40.6,39.8,False,False
+Uttarakhand,Dehradun,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),9.4,4.5,False,False
+Uttarakhand,Dehradun,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),9.9,8.2,False,False
+Uttarakhand,Dehradun,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),21.0,13.8,False,False
+Uttarakhand,Dehradun,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),9.2,5.8,False,False
+Uttarakhand,Dehradun,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),13.3,10.6,False,False
+Uttarakhand,Dehradun,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),23.4,17.8,False,False
+Uttarakhand,Dehradun,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),3.5,12.7,False,False
+Uttarakhand,Dehradun,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,2.9,6.0,False,False
+Uttarakhand,Dehradun,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,14.5,23.7,False,False
+Uttarakhand,Dehradun,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),4.6,17.9,False,False
+Uttarakhand,Dehradun,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,2.5,10.2,False,False
+Uttarakhand,Dehradun,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,13.1,31.9,False,False
+Uttarakhand,Dehradun,Men,87,Women having a bank or savings account that they themselves use (%),90.4,82.2,False,False
+Uttarakhand,Dehradun,Men,88,Women having a mobile phone that they themselves use (%),82.3,66.5,False,False
+Uttarakhand,Dehradun,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),95.1,94.1,False,False
+Uttarakhand,Dehradun,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),2.8,2.4,False,False
+Uttarakhand,Dehradun,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),27.7,25.6,False,False
+Uttarakhand,Dehradun,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.8,0.2,False,False
+Uttarakhand,Dehradun,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),26.8,21.6,False,False
+Uttarakhand,Haridwar,Population and Household Profile,1,Population below age 5 years (%),9.5,8.8,False,False
+Uttarakhand,Haridwar,Population and Household Profile,2,Population below age 15 years (%),28.8,31.0,False,False
+Uttarakhand,Haridwar,Population and Household Profile,3,Population age 60 years and above (%),9.2,9.8,False,False
+Uttarakhand,Haridwar,Population and Household Profile,4,Population living in households with electricity (%),99.1,99.7,False,False
+Uttarakhand,Haridwar,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),99.5,99.6,False,False
+Uttarakhand,Haridwar,Population and Household Profile,6,Households using iodized salt (%),88.9,89.8,False,False
+Uttarakhand,Haridwar,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),72.0,46.6,False,False
+Uttarakhand,Haridwar,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.7,94.8,False,False
+Uttarakhand,Haridwar,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),78.4,73.9,False,False
+Uttarakhand,Haridwar,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),20.7,13.3,False,False
+Uttarakhand,Haridwar,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),44.6,42.7,False,False
+Uttarakhand,Haridwar,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),40.9,40.3,False,False
+Uttarakhand,Haridwar,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),39.7,37.5,False,False
+Uttarakhand,Haridwar,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),65.2,33.0,False,False
+Uttarakhand,Haridwar,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),79.4,66.4,False,False
+Uttarakhand,Haridwar,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),8.9,9.9,False,False
+Uttarakhand,Haridwar,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Uttarakhand,Haridwar,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),3.1,3.9,False,False
+Uttarakhand,Haridwar,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.1,2.3,False,False
+Uttarakhand,Haridwar,Marriage and Fertility,20,Any method2 (%),70.7,63.6,False,False
+Uttarakhand,Haridwar,Marriage and Fertility,21,Any modern method2 (%),42.5,50.9,False,False
+Uttarakhand,Haridwar,Marriage and Fertility,22,Any traditional method (%),28.2,12.7,False,False
+Uttarakhand,Haridwar,Marriage and Fertility,23,Female sterilization (%),11.0,12.8,False,False
+Uttarakhand,Haridwar,Marriage and Fertility,24,Male sterilization (%),0.1,0.1,False,False
+Uttarakhand,Haridwar,Marriage and Fertility,25,Total unmet need3 (%),7.5,11.8,False,False
+Uttarakhand,Haridwar,Marriage and Fertility,26,Unmet need for spacing3 (%),3.3,4.1,False,False
+Uttarakhand,Haridwar,Marriage and Fertility,27,Unmet need for limiting3 (%),4.2,7.7,False,False
+Uttarakhand,Haridwar,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),75.4,57.4,False,False
+Uttarakhand,Haridwar,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),95.2,75.4,False,False
+Uttarakhand,Haridwar,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),60.0,48.5,False,False
+Uttarakhand,Haridwar,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),97.4,89.7,False,False
+Uttarakhand,Haridwar,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),37.9,38.2,False,False
+Uttarakhand,Haridwar,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),22.8,21.8,False,False
+Uttarakhand,Haridwar,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.4,93.2,False,False
+Uttarakhand,Haridwar,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),85.0,79.8,False,False
+Uttarakhand,Haridwar,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),27.1,37.9,False,False
+Uttarakhand,Haridwar,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),85.9,83.2,False,False
+Uttarakhand,Haridwar,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),29.0,22.1,False,False
+Uttarakhand,Haridwar,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),43.8,37.3,False,False
+Uttarakhand,Haridwar,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),13.5,17.0,False,False
+Uttarakhand,Haridwar,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,83.8,74.2,False,False
+Uttarakhand,Haridwar,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,1.8,True,False
+Uttarakhand,Haridwar,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,83.5,76.6,False,False
+Uttarakhand,Haridwar,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,90.3,76.5,False,False
+Uttarakhand,Haridwar,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),94.1,93.7,True,False
+Uttarakhand,Haridwar,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),97.7,95.7,False,False
+Uttarakhand,Haridwar,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),96.6,92.6,False,False
+Uttarakhand,Haridwar,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),92.5,84.1,False,False
+Uttarakhand,Haridwar,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),94.6,86.2,False,False
+Uttarakhand,Haridwar,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),97.7,89.4,False,False
+Uttarakhand,Haridwar,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),87.1,68.7,False,False
+Uttarakhand,Haridwar,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),68.0,60.2,False,False
+Uttarakhand,Haridwar,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),94.1,23.2,False,False
+Uttarakhand,Haridwar,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),49.9,50.8,False,False
+Uttarakhand,Haridwar,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,87.6,False,False
+Uttarakhand,Haridwar,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,9.1,False,False
+Uttarakhand,Haridwar,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),7.9,6.4,False,False
+Uttarakhand,Haridwar,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.9,3.9,False,False
+Uttarakhand,Haridwar,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,81.0,77.8,False,False
+Uttarakhand,Haridwar,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),26.9,30.6,False,False
+Uttarakhand,Haridwar,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),46.1,42.4,True,False
+Uttarakhand,Haridwar,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),84.1,85.1,True,False
+Uttarakhand,Haridwar,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,93.5,81.9,True,False
+Uttarakhand,Haridwar,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Uttarakhand,Haridwar,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",13.5,14.5,False,False
+Uttarakhand,Haridwar,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",7.4,*,True,False
+Uttarakhand,Haridwar,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",12.1,15.5,False,False
+Uttarakhand,Haridwar,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),23.5,31.1,False,False
+Uttarakhand,Haridwar,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),7.9,16.4,False,False
+Uttarakhand,Haridwar,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),1.2,6.4,False,False
+Uttarakhand,Haridwar,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),18.0,27.0,False,False
+Uttarakhand,Haridwar,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.0,4.0,False,False
+Uttarakhand,Haridwar,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),16.4,15.9,False,False
+Uttarakhand,Haridwar,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),34.4,29.8,False,False
+Uttarakhand,Haridwar,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),7.9,2.6,False,False
+Uttarakhand,Haridwar,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),7.5,5.5,False,False
+Uttarakhand,Haridwar,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),16.2,9.9,False,False
+Uttarakhand,Haridwar,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),6.8,4.5,False,False
+Uttarakhand,Haridwar,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),6.1,6.9,False,False
+Uttarakhand,Haridwar,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),13.3,12.3,False,False
+Uttarakhand,Haridwar,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.2,14.9,False,False
+Uttarakhand,Haridwar,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.3,6.9,False,False
+Uttarakhand,Haridwar,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,18.7,26.2,False,False
+Uttarakhand,Haridwar,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.0,22.5,False,False
+Uttarakhand,Haridwar,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,7.8,9.5,False,False
+Uttarakhand,Haridwar,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,22.8,33.9,False,False
+Uttarakhand,Haridwar,Men,87,Women having a bank or savings account that they themselves use (%),85.0,70.0,False,False
+Uttarakhand,Haridwar,Men,88,Women having a mobile phone that they themselves use (%),57.8,49.5,False,False
+Uttarakhand,Haridwar,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),82.3,85.4,False,False
+Uttarakhand,Haridwar,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),5.6,5.7,False,False
+Uttarakhand,Haridwar,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),30.9,31.8,False,False
+Uttarakhand,Haridwar,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.0,0.4,False,False
+Uttarakhand,Haridwar,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),18.4,17.6,False,False
+Uttarakhand,Nainital,Population and Household Profile,1,Population below age 5 years (%),5.7,8.0,False,False
+Uttarakhand,Nainital,Population and Household Profile,2,Population below age 15 years (%),22.7,25.8,False,False
+Uttarakhand,Nainital,Population and Household Profile,3,Population age 60 years and above (%),13.5,11.7,False,False
+Uttarakhand,Nainital,Population and Household Profile,4,Population living in households with electricity (%),98.0,99.1,False,False
+Uttarakhand,Nainital,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),96.4,93.0,False,False
+Uttarakhand,Nainital,Population and Household Profile,6,Households using iodized salt (%),92.2,97.4,False,False
+Uttarakhand,Nainital,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),79.5,60.8,False,False
+Uttarakhand,Nainital,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.6,96.1,False,False
+Uttarakhand,Nainital,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),83.0,80.3,False,False
+Uttarakhand,Nainital,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),22.4,16.3,False,False
+Uttarakhand,Nainital,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),54.2,60.5,False,False
+Uttarakhand,Nainital,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),64.2,55.2,False,False
+Uttarakhand,Nainital,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),55.3,62.7,False,False
+Uttarakhand,Nainital,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),78.8,44.8,False,False
+Uttarakhand,Nainital,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),84.8,76.7,False,False
+Uttarakhand,Nainital,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),7.4,11.3,False,False
+Uttarakhand,Nainital,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Uttarakhand,Nainital,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),1.8,1.4,False,False
+Uttarakhand,Nainital,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.0,2.0,False,False
+Uttarakhand,Nainital,Marriage and Fertility,20,Any method2 (%),79.1,74.7,False,False
+Uttarakhand,Nainital,Marriage and Fertility,21,Any modern method2 (%),57.1,64.4,False,False
+Uttarakhand,Nainital,Marriage and Fertility,22,Any traditional method (%),22.0,10.3,False,False
+Uttarakhand,Nainital,Marriage and Fertility,23,Female sterilization (%),23.7,26.7,False,False
+Uttarakhand,Nainital,Marriage and Fertility,24,Male sterilization (%),1.9,1.1,False,False
+Uttarakhand,Nainital,Marriage and Fertility,25,Total unmet need3 (%),5.2,6.5,False,False
+Uttarakhand,Nainital,Marriage and Fertility,26,Unmet need for spacing3 (%),2.5,2.0,False,False
+Uttarakhand,Nainital,Marriage and Fertility,27,Unmet need for limiting3 (%),2.7,4.5,False,False
+Uttarakhand,Nainital,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),79.5,70.0,False,False
+Uttarakhand,Nainital,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),97.5,94.1,False,False
+Uttarakhand,Nainital,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),75.7,59.7,False,False
+Uttarakhand,Nainital,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),94.4,88.8,False,False
+Uttarakhand,Nainital,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),49.8,45.7,False,False
+Uttarakhand,Nainital,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),33.0,29.4,False,False
+Uttarakhand,Nainital,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.4,97.8,False,False
+Uttarakhand,Nainital,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),90.5,81.2,False,False
+Uttarakhand,Nainital,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),60.0,56.4,False,False
+Uttarakhand,Nainital,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),91.3,83.9,False,False
+Uttarakhand,Nainital,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),33.8,30.1,False,False
+Uttarakhand,Nainital,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),71.5,69.0,False,False
+Uttarakhand,Nainital,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),19.9,23.0,False,False
+Uttarakhand,Nainital,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,87.8,75.9,False,False
+Uttarakhand,Nainital,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,0.0,True,False
+Uttarakhand,Nainital,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,84.9,76.3,False,False
+Uttarakhand,Nainital,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,74.2,74.1,True,False
+Uttarakhand,Nainital,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),85.3,73.5,True,False
+Uttarakhand,Nainital,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,98.5,True,False
+Uttarakhand,Nainital,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),100.0,97.4,True,False
+Uttarakhand,Nainital,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),74.2,84.8,True,False
+Uttarakhand,Nainital,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),90.9,87.7,True,False
+Uttarakhand,Nainital,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),93.3,84.4,True,False
+Uttarakhand,Nainital,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),82.5,72.4,True,False
+Uttarakhand,Nainital,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),87.4,68.5,True,False
+Uttarakhand,Nainital,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),86.3,20.3,True,False
+Uttarakhand,Nainital,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),69.3,45.8,False,False
+Uttarakhand,Nainital,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),91.5,94.5,True,False
+Uttarakhand,Nainital,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),4.2,1.7,True,False
+Uttarakhand,Nainital,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.9,5.0,False,False
+Uttarakhand,Nainital,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),5.3,2.4,False,False
+Uttarakhand,Nainital,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,60.0,62.0,True,False
+Uttarakhand,Nainital,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),35.9,24.0,False,False
+Uttarakhand,Nainital,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),40.6,41.2,True,False
+Uttarakhand,Nainital,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),90.9,89.0,True,False
+Uttarakhand,Nainital,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,82.2,74.0,True,False
+Uttarakhand,Nainital,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Uttarakhand,Nainital,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",21.5,19.0,True,False
+Uttarakhand,Nainital,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Uttarakhand,Nainital,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",30.1,19.2,False,False
+Uttarakhand,Nainital,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),15.4,23.2,False,False
+Uttarakhand,Nainital,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),5.6,14.0,False,False
+Uttarakhand,Nainital,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),0.6,5.9,False,False
+Uttarakhand,Nainital,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),14.3,14.8,False,False
+Uttarakhand,Nainital,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.0,7.5,False,False
+Uttarakhand,Nainital,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),14.6,12.7,False,False
+Uttarakhand,Nainital,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),36.9,33.3,False,False
+Uttarakhand,Nainital,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),9.7,4.6,False,False
+Uttarakhand,Nainital,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),8.0,6.0,False,False
+Uttarakhand,Nainital,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),18.6,11.5,False,False
+Uttarakhand,Nainital,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),9.0,6.3,False,False
+Uttarakhand,Nainital,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),12.8,6.7,False,False
+Uttarakhand,Nainital,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),23.4,14.6,False,False
+Uttarakhand,Nainital,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.0,14.2,False,False
+Uttarakhand,Nainital,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,3.7,5.9,False,False
+Uttarakhand,Nainital,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,17.2,24.0,False,False
+Uttarakhand,Nainital,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.6,19.8,False,False
+Uttarakhand,Nainital,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.6,7.8,False,False
+Uttarakhand,Nainital,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,21.7,30.4,False,False
+Uttarakhand,Nainital,Men,87,Women having a bank or savings account that they themselves use (%),92.9,81.3,False,False
+Uttarakhand,Nainital,Men,88,Women having a mobile phone that they themselves use (%),76.2,66.2,False,False
+Uttarakhand,Nainital,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),96.5,90.7,False,False
+Uttarakhand,Nainital,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),3.6,5.2,False,False
+Uttarakhand,Nainital,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),31.1,34.8,False,False
+Uttarakhand,Nainital,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.4,0.4,False,False
+Uttarakhand,Nainital,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),27.0,29.5,False,False
+Uttarakhand,Pauri Garhwal,Population and Household Profile,1,Population below age 5 years (%),6.1,6.3,False,False
+Uttarakhand,Pauri Garhwal,Population and Household Profile,2,Population below age 15 years (%),22.5,23.0,False,False
+Uttarakhand,Pauri Garhwal,Population and Household Profile,3,Population age 60 years and above (%),18.7,16.1,False,False
+Uttarakhand,Pauri Garhwal,Population and Household Profile,4,Population living in households with electricity (%),99.3,99.4,False,False
+Uttarakhand,Pauri Garhwal,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),92.1,83.5,False,False
+Uttarakhand,Pauri Garhwal,Population and Household Profile,6,Households using iodized salt (%),96.5,92.3,False,False
+Uttarakhand,Pauri Garhwal,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),87.5,62.7,False,False
+Uttarakhand,Pauri Garhwal,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.0,95.6,False,False
+Uttarakhand,Pauri Garhwal,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),77.6,75.5,False,False
+Uttarakhand,Pauri Garhwal,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),33.0,23.9,False,False
+Uttarakhand,Pauri Garhwal,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),60.8,51.6,False,False
+Uttarakhand,Pauri Garhwal,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),67.1,56.2,False,False
+Uttarakhand,Pauri Garhwal,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),78.5,75.2,False,False
+Uttarakhand,Pauri Garhwal,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),84.6,52.9,False,False
+Uttarakhand,Pauri Garhwal,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),94.1,69.0,False,False
+Uttarakhand,Pauri Garhwal,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),4.7,8.6,False,False
+Uttarakhand,Pauri Garhwal,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Uttarakhand,Pauri Garhwal,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.7,2.6,False,False
+Uttarakhand,Pauri Garhwal,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.0,1.3,False,False
+Uttarakhand,Pauri Garhwal,Marriage and Fertility,20,Any method2 (%),72.2,78.0,False,False
+Uttarakhand,Pauri Garhwal,Marriage and Fertility,21,Any modern method2 (%),53.3,64.0,False,False
+Uttarakhand,Pauri Garhwal,Marriage and Fertility,22,Any traditional method (%),18.9,14.0,False,False
+Uttarakhand,Pauri Garhwal,Marriage and Fertility,23,Female sterilization (%),33.5,33.9,False,False
+Uttarakhand,Pauri Garhwal,Marriage and Fertility,24,Male sterilization (%),0.8,0.6,False,False
+Uttarakhand,Pauri Garhwal,Marriage and Fertility,25,Total unmet need3 (%),11.0,9.9,False,False
+Uttarakhand,Pauri Garhwal,Marriage and Fertility,26,Unmet need for spacing3 (%),3.7,3.2,False,False
+Uttarakhand,Pauri Garhwal,Marriage and Fertility,27,Unmet need for limiting3 (%),7.3,6.7,False,False
+Uttarakhand,Pauri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),79.8,49.0,False,False
+Uttarakhand,Pauri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),99.3,75.0,False,False
+Uttarakhand,Pauri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),78.9,39.6,False,False
+Uttarakhand,Pauri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),98.5,90.5,False,False
+Uttarakhand,Pauri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),48.6,40.2,False,False
+Uttarakhand,Pauri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),32.2,14.9,False,False
+Uttarakhand,Pauri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.4,96.8,False,False
+Uttarakhand,Pauri Garhwal,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),85.9,76.0,False,False
+Uttarakhand,Pauri Garhwal,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),59.8,59.4,False,False
+Uttarakhand,Pauri Garhwal,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),89.8,76.9,False,False
+Uttarakhand,Pauri Garhwal,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),22.6,9.4,False,False
+Uttarakhand,Pauri Garhwal,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),54.6,33.6,True,False
+Uttarakhand,Pauri Garhwal,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),13.9,6.4,False,False
+Uttarakhand,Pauri Garhwal,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,84.1,64.0,False,False
+Uttarakhand,Pauri Garhwal,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,0.0,True,False
+Uttarakhand,Pauri Garhwal,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,85.5,70.7,False,False
+Uttarakhand,Pauri Garhwal,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,80.7,76.0,True,False
+Uttarakhand,Pauri Garhwal,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),94.0,80.4,True,False
+Uttarakhand,Pauri Garhwal,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),97.8,93.7,True,False
+Uttarakhand,Pauri Garhwal,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),97.8,90.6,True,False
+Uttarakhand,Pauri Garhwal,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),80.7,81.7,True,False
+Uttarakhand,Pauri Garhwal,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),92.7,81.8,True,False
+Uttarakhand,Pauri Garhwal,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),97.8,90.2,True,False
+Uttarakhand,Pauri Garhwal,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),78.1,64.5,True,False
+Uttarakhand,Pauri Garhwal,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),77.3,63.0,True,False
+Uttarakhand,Pauri Garhwal,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),89.4,13.9,True,False
+Uttarakhand,Pauri Garhwal,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),54.0,48.3,False,False
+Uttarakhand,Pauri Garhwal,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),94.8,96.1,True,False
+Uttarakhand,Pauri Garhwal,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.4,3.9,True,False
+Uttarakhand,Pauri Garhwal,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),10.6,6.1,False,False
+Uttarakhand,Pauri Garhwal,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,1.6,False,False
+Uttarakhand,Pauri Garhwal,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,*,True,False
+Uttarakhand,Pauri Garhwal,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),53.6,36.0,False,False
+Uttarakhand,Pauri Garhwal,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,75.2,True,False
+Uttarakhand,Pauri Garhwal,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,97.5,True,False
+Uttarakhand,Pauri Garhwal,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,92.5,True,False
+Uttarakhand,Pauri Garhwal,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Uttarakhand,Pauri Garhwal,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",23.2,9.0,True,False
+Uttarakhand,Pauri Garhwal,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Uttarakhand,Pauri Garhwal,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",18.3,12.1,True,False
+Uttarakhand,Pauri Garhwal,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),17.7,30.0,False,False
+Uttarakhand,Pauri Garhwal,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),15.6,12.0,False,False
+Uttarakhand,Pauri Garhwal,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),4.7,5.0,False,False
+Uttarakhand,Pauri Garhwal,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),22.0,18.8,False,False
+Uttarakhand,Pauri Garhwal,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.9,4.7,False,False
+Uttarakhand,Pauri Garhwal,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),14.6,16.1,False,False
+Uttarakhand,Pauri Garhwal,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),35.1,21.0,False,False
+Uttarakhand,Pauri Garhwal,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),10.6,4.4,False,False
+Uttarakhand,Pauri Garhwal,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),10.1,4.9,False,False
+Uttarakhand,Pauri Garhwal,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),21.7,10.6,False,False
+Uttarakhand,Pauri Garhwal,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),12.2,5.4,False,False
+Uttarakhand,Pauri Garhwal,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),14.7,5.7,False,False
+Uttarakhand,Pauri Garhwal,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),27.6,12.1,False,False
+Uttarakhand,Pauri Garhwal,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),4.5,14.4,False,False
+Uttarakhand,Pauri Garhwal,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,3.6,5.2,False,False
+Uttarakhand,Pauri Garhwal,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,12.3,22.1,False,False
+Uttarakhand,Pauri Garhwal,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),6.7,20.7,False,False
+Uttarakhand,Pauri Garhwal,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,3.8,12.0,False,False
+Uttarakhand,Pauri Garhwal,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,15.1,34.3,False,False
+Uttarakhand,Pauri Garhwal,Men,87,Women having a bank or savings account that they themselves use (%),95.7,74.6,False,False
+Uttarakhand,Pauri Garhwal,Men,88,Women having a mobile phone that they themselves use (%),85.0,65.8,False,False
+Uttarakhand,Pauri Garhwal,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),98.6,86.5,False,False
+Uttarakhand,Pauri Garhwal,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),4.2,6.4,False,False
+Uttarakhand,Pauri Garhwal,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),40.1,42.9,False,False
+Uttarakhand,Pauri Garhwal,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.2,0.7,False,False
+Uttarakhand,Pauri Garhwal,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),40.3,33.6,False,False
+Uttarakhand,Pithoragarh,Population and Household Profile,1,Population below age 5 years (%),7.3,6.4,False,False
+Uttarakhand,Pithoragarh,Population and Household Profile,2,Population below age 15 years (%),22.7,22.2,False,False
+Uttarakhand,Pithoragarh,Population and Household Profile,3,Population age 60 years and above (%),16.1,14.1,False,False
+Uttarakhand,Pithoragarh,Population and Household Profile,4,Population living in households with electricity (%),99.5,99.6,False,False
+Uttarakhand,Pithoragarh,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),95.5,90.9,False,False
+Uttarakhand,Pithoragarh,Population and Household Profile,6,Households using iodized salt (%),94.7,97.7,False,False
+Uttarakhand,Pithoragarh,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),74.3,72.8,False,False
+Uttarakhand,Pithoragarh,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.8,98.3,False,False
+Uttarakhand,Pithoragarh,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),77.2,79.7,False,False
+Uttarakhand,Pithoragarh,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),24.8,19.7,False,False
+Uttarakhand,Pithoragarh,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),68.1,31.7,False,False
+Uttarakhand,Pithoragarh,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),56.2,55.5,False,False
+Uttarakhand,Pithoragarh,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),67.1,73.4,False,False
+Uttarakhand,Pithoragarh,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),73.5,51.3,False,False
+Uttarakhand,Pithoragarh,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),86.0,78.3,False,False
+Uttarakhand,Pithoragarh,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),16.3,16.2,False,False
+Uttarakhand,Pithoragarh,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Uttarakhand,Pithoragarh,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.9,1.2,False,False
+Uttarakhand,Pithoragarh,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.9,3.7,False,False
+Uttarakhand,Pithoragarh,Marriage and Fertility,20,Any method2 (%),71.3,71.2,False,False
+Uttarakhand,Pithoragarh,Marriage and Fertility,21,Any modern method2 (%),58.9,63.6,False,False
+Uttarakhand,Pithoragarh,Marriage and Fertility,22,Any traditional method (%),12.4,7.6,False,False
+Uttarakhand,Pithoragarh,Marriage and Fertility,23,Female sterilization (%),38.1,42.5,False,False
+Uttarakhand,Pithoragarh,Marriage and Fertility,24,Male sterilization (%),0.4,0.7,False,False
+Uttarakhand,Pithoragarh,Marriage and Fertility,25,Total unmet need3 (%),13.3,11.3,False,False
+Uttarakhand,Pithoragarh,Marriage and Fertility,26,Unmet need for spacing3 (%),5.6,4.5,False,False
+Uttarakhand,Pithoragarh,Marriage and Fertility,27,Unmet need for limiting3 (%),7.7,6.8,False,False
+Uttarakhand,Pithoragarh,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),77.0,68.7,False,False
+Uttarakhand,Pithoragarh,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),97.5,99.2,False,False
+Uttarakhand,Pithoragarh,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),66.5,58.7,False,False
+Uttarakhand,Pithoragarh,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),91.0,94.0,False,False
+Uttarakhand,Pithoragarh,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),35.3,52.6,False,False
+Uttarakhand,Pithoragarh,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),16.2,24.3,False,False
+Uttarakhand,Pithoragarh,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.5,97.4,False,False
+Uttarakhand,Pithoragarh,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),81.4,84.9,False,False
+Uttarakhand,Pithoragarh,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),70.7,80.0,False,False
+Uttarakhand,Pithoragarh,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),85.6,83.2,False,False
+Uttarakhand,Pithoragarh,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),19.1,17.0,False,False
+Uttarakhand,Pithoragarh,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),52.1,*,True,False
+Uttarakhand,Pithoragarh,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),19.2,18.4,False,False
+Uttarakhand,Pithoragarh,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,78.1,82.0,False,False
+Uttarakhand,Pithoragarh,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,3.7,True,False
+Uttarakhand,Pithoragarh,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,79.4,82.7,False,False
+Uttarakhand,Pithoragarh,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,76.4,96.0,False,False
+Uttarakhand,Pithoragarh,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),83.3,97.0,True,False
+Uttarakhand,Pithoragarh,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),97.9,100.0,False,False
+Uttarakhand,Pithoragarh,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),97.9,100.0,False,False
+Uttarakhand,Pithoragarh,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),78.5,96.0,False,False
+Uttarakhand,Pithoragarh,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),88.7,100.0,False,False
+Uttarakhand,Pithoragarh,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),90.8,100.0,False,False
+Uttarakhand,Pithoragarh,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),71.2,70.3,True,False
+Uttarakhand,Pithoragarh,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),77.8,89.5,False,False
+Uttarakhand,Pithoragarh,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),81.4,43.4,False,False
+Uttarakhand,Pithoragarh,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),72.2,69.6,False,False
+Uttarakhand,Pithoragarh,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),91.5,97.8,False,False
+Uttarakhand,Pithoragarh,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),4.5,2.2,False,False
+Uttarakhand,Pithoragarh,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),16.6,4.8,False,False
+Uttarakhand,Pithoragarh,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.4,0.5,False,False
+Uttarakhand,Pithoragarh,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,71.5,*,True,False
+Uttarakhand,Pithoragarh,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),43.2,54.1,False,False
+Uttarakhand,Pithoragarh,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,61.8,True,False
+Uttarakhand,Pithoragarh,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,100.0,True,False
+Uttarakhand,Pithoragarh,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,82.8,True,False
+Uttarakhand,Pithoragarh,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Uttarakhand,Pithoragarh,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",22.6,19.3,False,False
+Uttarakhand,Pithoragarh,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Uttarakhand,Pithoragarh,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",25.3,16.9,False,False
+Uttarakhand,Pithoragarh,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),12.8,25.6,False,False
+Uttarakhand,Pithoragarh,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),7.4,12.4,False,False
+Uttarakhand,Pithoragarh,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),0.8,6.9,False,False
+Uttarakhand,Pithoragarh,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),13.8,20.6,False,False
+Uttarakhand,Pithoragarh,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.7,4.4,False,False
+Uttarakhand,Pithoragarh,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),14.7,11.5,False,False
+Uttarakhand,Pithoragarh,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),32.3,21.8,False,False
+Uttarakhand,Pithoragarh,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),6.4,3.5,False,False
+Uttarakhand,Pithoragarh,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),6.9,2.4,False,False
+Uttarakhand,Pithoragarh,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),13.6,6.5,False,False
+Uttarakhand,Pithoragarh,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),7.9,4.5,False,False
+Uttarakhand,Pithoragarh,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),9.4,5.0,False,False
+Uttarakhand,Pithoragarh,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),18.7,10.6,False,False
+Uttarakhand,Pithoragarh,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),6.5,14.7,False,False
+Uttarakhand,Pithoragarh,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.9,6.7,False,False
+Uttarakhand,Pithoragarh,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,14.1,23.3,False,False
+Uttarakhand,Pithoragarh,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.7,21.6,False,False
+Uttarakhand,Pithoragarh,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,7.2,10.3,False,False
+Uttarakhand,Pithoragarh,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,20.8,32.9,False,False
+Uttarakhand,Pithoragarh,Men,87,Women having a bank or savings account that they themselves use (%),90.6,83.4,False,False
+Uttarakhand,Pithoragarh,Men,88,Women having a mobile phone that they themselves use (%),81.9,72.7,False,False
+Uttarakhand,Pithoragarh,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),91.2,94.6,False,False
+Uttarakhand,Pithoragarh,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),5.6,4.3,False,False
+Uttarakhand,Pithoragarh,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),42.7,38.5,False,False
+Uttarakhand,Pithoragarh,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.4,0.3,False,False
+Uttarakhand,Pithoragarh,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),34.6,33.2,False,False
+Uttarakhand,Rudra Prayag,Population and Household Profile,1,Population below age 5 years (%),7.6,8.3,False,False
+Uttarakhand,Rudra Prayag,Population and Household Profile,2,Population below age 15 years (%),24.2,25.0,False,False
+Uttarakhand,Rudra Prayag,Population and Household Profile,3,Population age 60 years and above (%),16.5,15.0,False,False
+Uttarakhand,Rudra Prayag,Population and Household Profile,4,Population living in households with electricity (%),99.4,99.5,False,False
+Uttarakhand,Rudra Prayag,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),90.2,93.9,False,False
+Uttarakhand,Rudra Prayag,Population and Household Profile,6,Households using iodized salt (%),85.4,91.7,False,False
+Uttarakhand,Rudra Prayag,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),81.8,76.6,False,False
+Uttarakhand,Rudra Prayag,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.5,96.5,False,False
+Uttarakhand,Rudra Prayag,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),75.0,73.0,False,False
+Uttarakhand,Rudra Prayag,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),32.1,23.7,False,False
+Uttarakhand,Rudra Prayag,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),69.2,29.2,False,False
+Uttarakhand,Rudra Prayag,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),63.2,56.4,False,False
+Uttarakhand,Rudra Prayag,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),81.5,73.1,False,False
+Uttarakhand,Rudra Prayag,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),82.9,53.1,False,False
+Uttarakhand,Rudra Prayag,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),89.7,78.7,False,False
+Uttarakhand,Rudra Prayag,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),8.1,8.6,False,False
+Uttarakhand,Rudra Prayag,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Uttarakhand,Rudra Prayag,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),1.5,1.7,False,False
+Uttarakhand,Rudra Prayag,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),1.1,1.8,False,False
+Uttarakhand,Rudra Prayag,Marriage and Fertility,20,Any method2 (%),70.8,72.1,False,False
+Uttarakhand,Rudra Prayag,Marriage and Fertility,21,Any modern method2 (%),57.9,61.3,False,False
+Uttarakhand,Rudra Prayag,Marriage and Fertility,22,Any traditional method (%),12.9,10.8,False,False
+Uttarakhand,Rudra Prayag,Marriage and Fertility,23,Female sterilization (%),41.3,47.6,False,False
+Uttarakhand,Rudra Prayag,Marriage and Fertility,24,Male sterilization (%),0.8,0.9,False,False
+Uttarakhand,Rudra Prayag,Marriage and Fertility,25,Total unmet need3 (%),11.4,12.2,False,False
+Uttarakhand,Rudra Prayag,Marriage and Fertility,26,Unmet need for spacing3 (%),3.8,4.5,False,False
+Uttarakhand,Rudra Prayag,Marriage and Fertility,27,Unmet need for limiting3 (%),7.6,7.7,False,False
+Uttarakhand,Rudra Prayag,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),78.6,74.2,False,False
+Uttarakhand,Rudra Prayag,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),98.5,99.1,False,False
+Uttarakhand,Rudra Prayag,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),69.6,76.5,False,False
+Uttarakhand,Rudra Prayag,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),99.1,94.0,False,False
+Uttarakhand,Rudra Prayag,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),35.0,51.9,False,False
+Uttarakhand,Rudra Prayag,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),19.9,28.7,False,False
+Uttarakhand,Rudra Prayag,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.4,99.7,False,False
+Uttarakhand,Rudra Prayag,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),92.5,86.6,False,False
+Uttarakhand,Rudra Prayag,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),88.7,81.0,False,False
+Uttarakhand,Rudra Prayag,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),92.5,85.8,False,False
+Uttarakhand,Rudra Prayag,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),14.3,16.7,False,False
+Uttarakhand,Rudra Prayag,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),*,*,True,False
+Uttarakhand,Rudra Prayag,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),13.1,16.7,False,False
+Uttarakhand,Rudra Prayag,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,90.2,83.6,False,False
+Uttarakhand,Rudra Prayag,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,0.0,True,False
+Uttarakhand,Rudra Prayag,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,91.1,82.2,False,False
+Uttarakhand,Rudra Prayag,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,96.6,91.4,False,False
+Uttarakhand,Rudra Prayag,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),98.1,94.0,False,False
+Uttarakhand,Rudra Prayag,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),98.3,97.1,False,False
+Uttarakhand,Rudra Prayag,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),98.3,97.1,False,False
+Uttarakhand,Rudra Prayag,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),96.6,91.4,False,False
+Uttarakhand,Rudra Prayag,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),98.3,95.7,False,False
+Uttarakhand,Rudra Prayag,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),98.3,95.5,False,False
+Uttarakhand,Rudra Prayag,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),91.8,68.0,False,False
+Uttarakhand,Rudra Prayag,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),88.2,74.7,False,False
+Uttarakhand,Rudra Prayag,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),98.3,43.6,False,False
+Uttarakhand,Rudra Prayag,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),81.4,71.9,False,False
+Uttarakhand,Rudra Prayag,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),98.1,98.6,False,False
+Uttarakhand,Rudra Prayag,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,False,False
+Uttarakhand,Rudra Prayag,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),10.7,3.2,False,False
+Uttarakhand,Rudra Prayag,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.8,0.9,False,False
+Uttarakhand,Rudra Prayag,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,68.9,*,True,False
+Uttarakhand,Rudra Prayag,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),43.4,54.4,False,False
+Uttarakhand,Rudra Prayag,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,59.0,True,False
+Uttarakhand,Rudra Prayag,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,96.6,True,False
+Uttarakhand,Rudra Prayag,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,80.9,True,False
+Uttarakhand,Rudra Prayag,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Uttarakhand,Rudra Prayag,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",15.4,13.2,False,False
+Uttarakhand,Rudra Prayag,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Uttarakhand,Rudra Prayag,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",14.0,10.8,False,False
+Uttarakhand,Rudra Prayag,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),16.5,25.2,False,False
+Uttarakhand,Rudra Prayag,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),7.7,8.0,False,False
+Uttarakhand,Rudra Prayag,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),2.2,2.4,False,False
+Uttarakhand,Rudra Prayag,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),11.0,10.9,False,False
+Uttarakhand,Rudra Prayag,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.3,4.2,False,False
+Uttarakhand,Rudra Prayag,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),14.3,8.8,False,False
+Uttarakhand,Rudra Prayag,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),29.4,25.3,False,False
+Uttarakhand,Rudra Prayag,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),7.2,5.7,False,False
+Uttarakhand,Rudra Prayag,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),6.3,4.2,False,False
+Uttarakhand,Rudra Prayag,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),14.2,10.4,False,False
+Uttarakhand,Rudra Prayag,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),9.3,6.7,False,False
+Uttarakhand,Rudra Prayag,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),10.5,8.7,False,False
+Uttarakhand,Rudra Prayag,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),19.9,16.3,False,False
+Uttarakhand,Rudra Prayag,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),5.8,12.7,False,False
+Uttarakhand,Rudra Prayag,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.3,4.4,False,False
+Uttarakhand,Rudra Prayag,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,12.5,18.7,False,False
+Uttarakhand,Rudra Prayag,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.6,20.6,False,False
+Uttarakhand,Rudra Prayag,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,7.5,9.2,False,False
+Uttarakhand,Rudra Prayag,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,19.4,31.7,False,False
+Uttarakhand,Rudra Prayag,Men,87,Women having a bank or savings account that they themselves use (%),96.4,87.2,False,False
+Uttarakhand,Rudra Prayag,Men,88,Women having a mobile phone that they themselves use (%),85.2,70.4,False,False
+Uttarakhand,Rudra Prayag,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),94.5,96.8,False,False
+Uttarakhand,Rudra Prayag,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),2.7,2.0,False,False
+Uttarakhand,Rudra Prayag,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),40.1,41.0,False,False
+Uttarakhand,Rudra Prayag,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.4,0.2,False,False
+Uttarakhand,Rudra Prayag,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),40.7,38.9,False,False
+Uttarakhand,Tehri Garhwal,Population and Household Profile,1,Population below age 5 years (%),9.0,8.1,False,False
+Uttarakhand,Tehri Garhwal,Population and Household Profile,2,Population below age 15 years (%),27.6,25.7,False,False
+Uttarakhand,Tehri Garhwal,Population and Household Profile,3,Population age 60 years and above (%),14.1,16.0,False,False
+Uttarakhand,Tehri Garhwal,Population and Household Profile,4,Population living in households with electricity (%),99.9,99.9,False,False
+Uttarakhand,Tehri Garhwal,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),91.1,84.1,False,False
+Uttarakhand,Tehri Garhwal,Population and Household Profile,6,Households using iodized salt (%),91.0,92.8,False,False
+Uttarakhand,Tehri Garhwal,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),79.4,71.2,False,False
+Uttarakhand,Tehri Garhwal,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.6,98.1,False,False
+Uttarakhand,Tehri Garhwal,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),69.1,62.2,False,False
+Uttarakhand,Tehri Garhwal,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),27.7,21.8,False,False
+Uttarakhand,Tehri Garhwal,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),58.3,58.3,False,False
+Uttarakhand,Tehri Garhwal,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),54.5,50.8,False,False
+Uttarakhand,Tehri Garhwal,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),57.7,56.7,False,False
+Uttarakhand,Tehri Garhwal,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),80.0,35.2,False,False
+Uttarakhand,Tehri Garhwal,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),86.2,60.9,False,False
+Uttarakhand,Tehri Garhwal,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),8.1,6.3,False,False
+Uttarakhand,Tehri Garhwal,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Uttarakhand,Tehri Garhwal,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),1.2,1.8,False,False
+Uttarakhand,Tehri Garhwal,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.6,1.7,False,False
+Uttarakhand,Tehri Garhwal,Marriage and Fertility,20,Any method2 (%),68.5,67.3,False,False
+Uttarakhand,Tehri Garhwal,Marriage and Fertility,21,Any modern method2 (%),48.0,52.4,False,False
+Uttarakhand,Tehri Garhwal,Marriage and Fertility,22,Any traditional method (%),20.5,14.9,False,False
+Uttarakhand,Tehri Garhwal,Marriage and Fertility,23,Female sterilization (%),33.0,36.5,False,False
+Uttarakhand,Tehri Garhwal,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Uttarakhand,Tehri Garhwal,Marriage and Fertility,25,Total unmet need3 (%),13.6,13.8,False,False
+Uttarakhand,Tehri Garhwal,Marriage and Fertility,26,Unmet need for spacing3 (%),6.4,5.6,False,False
+Uttarakhand,Tehri Garhwal,Marriage and Fertility,27,Unmet need for limiting3 (%),7.2,8.2,False,False
+Uttarakhand,Tehri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),74.8,62.3,False,False
+Uttarakhand,Tehri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),99.2,95.8,False,False
+Uttarakhand,Tehri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),64.5,48.9,False,False
+Uttarakhand,Tehri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),98.9,94.1,False,False
+Uttarakhand,Tehri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),44.1,57.6,False,False
+Uttarakhand,Tehri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),28.4,27.5,False,False
+Uttarakhand,Tehri Garhwal,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.4,93.8,False,False
+Uttarakhand,Tehri Garhwal,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),90.0,82.2,False,False
+Uttarakhand,Tehri Garhwal,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),74.1,59.3,False,False
+Uttarakhand,Tehri Garhwal,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),91.2,77.6,False,False
+Uttarakhand,Tehri Garhwal,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),17.1,15.0,False,False
+Uttarakhand,Tehri Garhwal,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),54.9,40.7,True,False
+Uttarakhand,Tehri Garhwal,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),11.2,9.7,False,False
+Uttarakhand,Tehri Garhwal,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,91.2,78.5,False,False
+Uttarakhand,Tehri Garhwal,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,5.3,True,False
+Uttarakhand,Tehri Garhwal,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,90.2,80.4,False,False
+Uttarakhand,Tehri Garhwal,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,88.1,83.0,False,False
+Uttarakhand,Tehri Garhwal,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),88.6,77.6,True,False
+Uttarakhand,Tehri Garhwal,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,100.0,False,False
+Uttarakhand,Tehri Garhwal,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),100.0,100.0,False,False
+Uttarakhand,Tehri Garhwal,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),88.1,85.0,False,False
+Uttarakhand,Tehri Garhwal,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),99.0,98.6,False,False
+Uttarakhand,Tehri Garhwal,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),99.0,98.0,False,False
+Uttarakhand,Tehri Garhwal,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),86.8,79.2,False,False
+Uttarakhand,Tehri Garhwal,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),88.3,87.0,False,False
+Uttarakhand,Tehri Garhwal,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),98.2,10.4,False,False
+Uttarakhand,Tehri Garhwal,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),55.8,59.5,False,False
+Uttarakhand,Tehri Garhwal,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),98.1,97.3,False,False
+Uttarakhand,Tehri Garhwal,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.4,0.0,False,False
+Uttarakhand,Tehri Garhwal,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),9.6,3.0,False,False
+Uttarakhand,Tehri Garhwal,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.6,2.5,False,False
+Uttarakhand,Tehri Garhwal,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,66.3,79.2,True,False
+Uttarakhand,Tehri Garhwal,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),48.3,41.8,False,False
+Uttarakhand,Tehri Garhwal,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),51.0,64.6,True,False
+Uttarakhand,Tehri Garhwal,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),95.1,96.7,True,False
+Uttarakhand,Tehri Garhwal,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,91.3,91.7,True,False
+Uttarakhand,Tehri Garhwal,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Uttarakhand,Tehri Garhwal,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",19.7,1.8,False,False
+Uttarakhand,Tehri Garhwal,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",10.0,*,True,False
+Uttarakhand,Tehri Garhwal,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",16.5,1.5,False,False
+Uttarakhand,Tehri Garhwal,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),27.0,29.3,False,False
+Uttarakhand,Tehri Garhwal,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),9.8,12.8,False,False
+Uttarakhand,Tehri Garhwal,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),3.1,5.2,False,False
+Uttarakhand,Tehri Garhwal,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),19.5,20.7,False,False
+Uttarakhand,Tehri Garhwal,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),2.2,2.2,False,False
+Uttarakhand,Tehri Garhwal,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),18.6,12.7,False,False
+Uttarakhand,Tehri Garhwal,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),26.6,20.9,False,False
+Uttarakhand,Tehri Garhwal,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),7.2,3.7,False,False
+Uttarakhand,Tehri Garhwal,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),6.3,4.1,False,False
+Uttarakhand,Tehri Garhwal,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),13.9,8.9,False,False
+Uttarakhand,Tehri Garhwal,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),9.3,4.6,False,False
+Uttarakhand,Tehri Garhwal,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),10.5,6.0,False,False
+Uttarakhand,Tehri Garhwal,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),20.4,11.9,False,False
+Uttarakhand,Tehri Garhwal,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),6.8,13.0,False,False
+Uttarakhand,Tehri Garhwal,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.7,5.5,False,False
+Uttarakhand,Tehri Garhwal,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,13.3,20.0,False,False
+Uttarakhand,Tehri Garhwal,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.1,22.0,False,False
+Uttarakhand,Tehri Garhwal,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,8.1,10.4,False,False
+Uttarakhand,Tehri Garhwal,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,23.4,34.0,False,False
+Uttarakhand,Tehri Garhwal,Men,87,Women having a bank or savings account that they themselves use (%),95.7,78.9,False,False
+Uttarakhand,Tehri Garhwal,Men,88,Women having a mobile phone that they themselves use (%),79.8,55.6,False,False
+Uttarakhand,Tehri Garhwal,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),88.3,93.7,False,False
+Uttarakhand,Tehri Garhwal,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),4.2,3.8,False,False
+Uttarakhand,Tehri Garhwal,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),41.9,41.1,False,False
+Uttarakhand,Tehri Garhwal,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.7,0.2,False,False
+Uttarakhand,Tehri Garhwal,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),36.5,35.7,False,False
+Uttarakhand,Udham Singh Nagar,Population and Household Profile,1,Population below age 5 years (%),8.4,8.9,False,False
+Uttarakhand,Udham Singh Nagar,Population and Household Profile,2,Population below age 15 years (%),26.1,27.9,False,False
+Uttarakhand,Udham Singh Nagar,Population and Household Profile,3,Population age 60 years and above (%),10.2,8.8,False,False
+Uttarakhand,Udham Singh Nagar,Population and Household Profile,4,Population living in households with electricity (%),99.6,99.6,False,False
+Uttarakhand,Udham Singh Nagar,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),99.8,99.9,False,False
+Uttarakhand,Udham Singh Nagar,Population and Household Profile,6,Households using iodized salt (%),94.5,95.9,False,False
+Uttarakhand,Udham Singh Nagar,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),78.7,59.0,False,False
+Uttarakhand,Udham Singh Nagar,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.8,98.1,False,False
+Uttarakhand,Udham Singh Nagar,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),73.8,70.5,False,False
+Uttarakhand,Udham Singh Nagar,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),20.2,14.2,False,False
+Uttarakhand,Udham Singh Nagar,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),59.1,28.6,False,False
+Uttarakhand,Udham Singh Nagar,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),50.3,41.1,False,False
+Uttarakhand,Udham Singh Nagar,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),53.6,58.8,False,False
+Uttarakhand,Udham Singh Nagar,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),72.6,40.5,False,False
+Uttarakhand,Udham Singh Nagar,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),86.5,74.6,False,False
+Uttarakhand,Udham Singh Nagar,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),9.6,14.6,False,False
+Uttarakhand,Udham Singh Nagar,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),20.7,*,True,False
+Uttarakhand,Udham Singh Nagar,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),2.1,2.1,False,False
+Uttarakhand,Udham Singh Nagar,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),1.3,5.2,False,False
+Uttarakhand,Udham Singh Nagar,Marriage and Fertility,20,Any method2 (%),65.7,67.2,False,False
+Uttarakhand,Udham Singh Nagar,Marriage and Fertility,21,Any modern method2 (%),43.9,51.9,False,False
+Uttarakhand,Udham Singh Nagar,Marriage and Fertility,22,Any traditional method (%),21.8,15.3,False,False
+Uttarakhand,Udham Singh Nagar,Marriage and Fertility,23,Female sterilization (%),18.1,19.6,False,False
+Uttarakhand,Udham Singh Nagar,Marriage and Fertility,24,Male sterilization (%),0.1,0.2,False,False
+Uttarakhand,Udham Singh Nagar,Marriage and Fertility,25,Total unmet need3 (%),8.5,7.2,False,False
+Uttarakhand,Udham Singh Nagar,Marriage and Fertility,26,Unmet need for spacing3 (%),3.0,2.1,False,False
+Uttarakhand,Udham Singh Nagar,Marriage and Fertility,27,Unmet need for limiting3 (%),5.5,5.1,False,False
+Uttarakhand,Udham Singh Nagar,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),83.8,77.3,False,False
+Uttarakhand,Udham Singh Nagar,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),99.5,99.7,False,False
+Uttarakhand,Udham Singh Nagar,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),66.6,75.9,False,False
+Uttarakhand,Udham Singh Nagar,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),96.5,96.9,False,False
+Uttarakhand,Udham Singh Nagar,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),37.1,45.7,False,False
+Uttarakhand,Udham Singh Nagar,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),17.5,23.2,False,False
+Uttarakhand,Udham Singh Nagar,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.5,98.5,False,False
+Uttarakhand,Udham Singh Nagar,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),93.0,85.1,False,False
+Uttarakhand,Udham Singh Nagar,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),45.9,51.0,False,False
+Uttarakhand,Udham Singh Nagar,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),94.3,81.6,False,False
+Uttarakhand,Udham Singh Nagar,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),27.3,20.4,False,False
+Uttarakhand,Udham Singh Nagar,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),48.7,49.4,False,False
+Uttarakhand,Udham Singh Nagar,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),9.5,6.9,False,False
+Uttarakhand,Udham Singh Nagar,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,86.4,82.0,False,False
+Uttarakhand,Udham Singh Nagar,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,2.1,True,False
+Uttarakhand,Udham Singh Nagar,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,87.1,80.8,False,False
+Uttarakhand,Udham Singh Nagar,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,86.8,83.2,False,False
+Uttarakhand,Udham Singh Nagar,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),89.3,92.2,False,False
+Uttarakhand,Udham Singh Nagar,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),97.1,94.8,False,False
+Uttarakhand,Udham Singh Nagar,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),97.1,94.8,False,False
+Uttarakhand,Udham Singh Nagar,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),86.8,83.2,False,False
+Uttarakhand,Udham Singh Nagar,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),95.2,90.1,False,False
+Uttarakhand,Udham Singh Nagar,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),95.2,90.1,False,False
+Uttarakhand,Udham Singh Nagar,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),74.5,73.0,False,False
+Uttarakhand,Udham Singh Nagar,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),79.1,58.0,False,False
+Uttarakhand,Udham Singh Nagar,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),95.2,43.9,False,False
+Uttarakhand,Udham Singh Nagar,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),65.1,52.1,False,False
+Uttarakhand,Udham Singh Nagar,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),98.6,98.6,False,False
+Uttarakhand,Udham Singh Nagar,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),1.4,0.0,False,False
+Uttarakhand,Udham Singh Nagar,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),13.7,3.4,False,False
+Uttarakhand,Udham Singh Nagar,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.1,1.9,False,False
+Uttarakhand,Udham Singh Nagar,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,87.3,74.6,True,False
+Uttarakhand,Udham Singh Nagar,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),33.8,42.4,False,False
+Uttarakhand,Udham Singh Nagar,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),27.8,52.2,True,False
+Uttarakhand,Udham Singh Nagar,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),97.7,85.2,True,False
+Uttarakhand,Udham Singh Nagar,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,72.4,83.9,True,False
+Uttarakhand,Udham Singh Nagar,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Uttarakhand,Udham Singh Nagar,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",18.5,11.9,False,False
+Uttarakhand,Udham Singh Nagar,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,2.9,True,False
+Uttarakhand,Udham Singh Nagar,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",18.3,9.7,False,False
+Uttarakhand,Udham Singh Nagar,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),21.5,26.8,False,False
+Uttarakhand,Udham Singh Nagar,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),16.3,12.4,False,False
+Uttarakhand,Udham Singh Nagar,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),3.1,3.1,False,False
+Uttarakhand,Udham Singh Nagar,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),27.7,22.0,False,False
+Uttarakhand,Udham Singh Nagar,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.2,2.4,False,False
+Uttarakhand,Udham Singh Nagar,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),16.7,14.1,False,False
+Uttarakhand,Udham Singh Nagar,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),36.6,35.4,False,False
+Uttarakhand,Udham Singh Nagar,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),9.5,5.3,False,False
+Uttarakhand,Udham Singh Nagar,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),9.5,8.1,False,False
+Uttarakhand,Udham Singh Nagar,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),20.0,14.2,False,False
+Uttarakhand,Udham Singh Nagar,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),11.7,7.7,False,False
+Uttarakhand,Udham Singh Nagar,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),13.7,9.8,False,False
+Uttarakhand,Udham Singh Nagar,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),26.5,18.0,False,False
+Uttarakhand,Udham Singh Nagar,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),3.5,12.5,False,False
+Uttarakhand,Udham Singh Nagar,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,3.2,7.2,False,False
+Uttarakhand,Udham Singh Nagar,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,10.1,22.2,False,False
+Uttarakhand,Udham Singh Nagar,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),4.4,19.2,False,False
+Uttarakhand,Udham Singh Nagar,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,3.3,8.7,False,False
+Uttarakhand,Udham Singh Nagar,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,10.9,30.2,False,False
+Uttarakhand,Udham Singh Nagar,Men,87,Women having a bank or savings account that they themselves use (%),89.5,84.3,False,False
+Uttarakhand,Udham Singh Nagar,Men,88,Women having a mobile phone that they themselves use (%),59.6,50.6,False,False
+Uttarakhand,Udham Singh Nagar,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),85.3,93.6,False,False
+Uttarakhand,Udham Singh Nagar,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),5.0,5.3,False,False
+Uttarakhand,Udham Singh Nagar,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),34.1,31.7,False,False
+Uttarakhand,Udham Singh Nagar,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.3,0.4,False,False
+Uttarakhand,Udham Singh Nagar,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),22.3,21.6,False,False
+Uttarakhand,Uttarkashi,Population and Household Profile,1,Population below age 5 years (%),8.2,7.4,False,False
+Uttarakhand,Uttarkashi,Population and Household Profile,2,Population below age 15 years (%),26.1,25.0,False,False
+Uttarakhand,Uttarkashi,Population and Household Profile,3,Population age 60 years and above (%),12.6,12.8,False,False
+Uttarakhand,Uttarkashi,Population and Household Profile,4,Population living in households with electricity (%),99.4,99.6,False,False
+Uttarakhand,Uttarkashi,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),94.3,96.1,False,False
+Uttarakhand,Uttarkashi,Population and Household Profile,6,Households using iodized salt (%),85.8,87.2,False,False
+Uttarakhand,Uttarkashi,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),83.7,80.3,False,False
+Uttarakhand,Uttarkashi,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.2,97.1,False,False
+Uttarakhand,Uttarkashi,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),70.5,69.0,False,False
+Uttarakhand,Uttarkashi,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),20.6,12.8,False,False
+Uttarakhand,Uttarkashi,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),62.0,26.5,False,False
+Uttarakhand,Uttarkashi,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),54.6,53.6,False,False
+Uttarakhand,Uttarkashi,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),66.2,66.2,False,False
+Uttarakhand,Uttarkashi,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),76.2,39.1,False,False
+Uttarakhand,Uttarkashi,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),88.1,76.0,False,False
+Uttarakhand,Uttarkashi,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),13.8,5.7,False,False
+Uttarakhand,Uttarkashi,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,5.3,True,False
+Uttarakhand,Uttarkashi,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),2.9,2.5,False,False
+Uttarakhand,Uttarkashi,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),6.3,4.8,False,False
+Uttarakhand,Uttarkashi,Marriage and Fertility,20,Any method2 (%),75.3,73.8,False,False
+Uttarakhand,Uttarkashi,Marriage and Fertility,21,Any modern method2 (%),58.3,60.2,False,False
+Uttarakhand,Uttarkashi,Marriage and Fertility,22,Any traditional method (%),17.0,13.6,False,False
+Uttarakhand,Uttarkashi,Marriage and Fertility,23,Female sterilization (%),39.9,42.3,False,False
+Uttarakhand,Uttarkashi,Marriage and Fertility,24,Male sterilization (%),2.9,2.7,False,False
+Uttarakhand,Uttarkashi,Marriage and Fertility,25,Total unmet need3 (%),8.4,7.7,False,False
+Uttarakhand,Uttarkashi,Marriage and Fertility,26,Unmet need for spacing3 (%),4.3,3.9,False,False
+Uttarakhand,Uttarkashi,Marriage and Fertility,27,Unmet need for limiting3 (%),4.1,3.8,False,False
+Uttarakhand,Uttarkashi,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),77.1,77.1,False,False
+Uttarakhand,Uttarkashi,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),99.0,97.0,False,False
+Uttarakhand,Uttarkashi,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),66.9,66.8,False,False
+Uttarakhand,Uttarkashi,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),98.8,95.3,False,False
+Uttarakhand,Uttarkashi,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),42.3,46.9,False,False
+Uttarakhand,Uttarkashi,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),23.8,18.9,False,False
+Uttarakhand,Uttarkashi,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.6,99.6,False,False
+Uttarakhand,Uttarkashi,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),84.4,85.9,False,False
+Uttarakhand,Uttarkashi,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),71.9,77.0,False,False
+Uttarakhand,Uttarkashi,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),86.5,84.5,False,False
+Uttarakhand,Uttarkashi,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),6.4,6.2,False,False
+Uttarakhand,Uttarkashi,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),13.2,28.7,True,False
+Uttarakhand,Uttarkashi,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),6.6,4.8,False,False
+Uttarakhand,Uttarkashi,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,84.2,72.0,False,False
+Uttarakhand,Uttarkashi,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),2.7,0.0,True,False
+Uttarakhand,Uttarkashi,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,83.9,72.4,False,False
+Uttarakhand,Uttarkashi,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,85.6,81.8,False,False
+Uttarakhand,Uttarkashi,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),93.0,91.5,False,False
+Uttarakhand,Uttarkashi,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,95.8,False,False
+Uttarakhand,Uttarkashi,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),100.0,89.9,False,False
+Uttarakhand,Uttarkashi,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),85.6,86.2,False,False
+Uttarakhand,Uttarkashi,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),95.4,94.3,False,False
+Uttarakhand,Uttarkashi,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),98.0,95.8,False,False
+Uttarakhand,Uttarkashi,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),89.0,74.1,False,False
+Uttarakhand,Uttarkashi,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),96.0,60.4,False,False
+Uttarakhand,Uttarkashi,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),93.8,44.4,False,False
+Uttarakhand,Uttarkashi,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),57.3,55.6,False,False
+Uttarakhand,Uttarkashi,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,100.0,False,False
+Uttarakhand,Uttarkashi,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,False,False
+Uttarakhand,Uttarkashi,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.4,4.8,False,False
+Uttarakhand,Uttarkashi,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.9,1.7,False,False
+Uttarakhand,Uttarkashi,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,72.5,*,True,False
+Uttarakhand,Uttarkashi,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),49.6,61.7,False,False
+Uttarakhand,Uttarkashi,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),60.3,52.4,True,False
+Uttarakhand,Uttarkashi,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),97.3,83.9,True,False
+Uttarakhand,Uttarkashi,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,97.2,83.7,True,False
+Uttarakhand,Uttarkashi,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Uttarakhand,Uttarkashi,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",11.9,7.4,False,False
+Uttarakhand,Uttarkashi,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Uttarakhand,Uttarkashi,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",13.7,7.6,False,False
+Uttarakhand,Uttarkashi,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),30.8,34.1,False,False
+Uttarakhand,Uttarkashi,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),4.7,10.6,False,False
+Uttarakhand,Uttarkashi,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),1.6,5.4,False,False
+Uttarakhand,Uttarkashi,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),18.1,23.5,False,False
+Uttarakhand,Uttarkashi,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.3,2.7,False,False
+Uttarakhand,Uttarkashi,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),15.2,12.9,False,False
+Uttarakhand,Uttarkashi,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),27.2,21.5,False,False
+Uttarakhand,Uttarkashi,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),6.8,4.5,False,False
+Uttarakhand,Uttarkashi,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),6.4,3.5,False,False
+Uttarakhand,Uttarkashi,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),13.5,8.2,False,False
+Uttarakhand,Uttarkashi,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),8.6,4.4,False,False
+Uttarakhand,Uttarkashi,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),6.5,6.0,False,False
+Uttarakhand,Uttarkashi,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),15.7,10.9,False,False
+Uttarakhand,Uttarkashi,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),6.2,12.4,False,False
+Uttarakhand,Uttarkashi,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.0,5.0,False,False
+Uttarakhand,Uttarkashi,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,12.6,19.0,False,False
+Uttarakhand,Uttarkashi,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.9,16.5,False,False
+Uttarakhand,Uttarkashi,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,5.7,6.3,False,False
+Uttarakhand,Uttarkashi,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,18.0,24.4,False,False
+Uttarakhand,Uttarkashi,Men,87,Women having a bank or savings account that they themselves use (%),94.5,80.8,False,False
+Uttarakhand,Uttarkashi,Men,88,Women having a mobile phone that they themselves use (%),72.6,55.4,False,False
+Uttarakhand,Uttarkashi,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),85.3,90.2,False,False
+Uttarakhand,Uttarkashi,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),2.8,2.5,False,False
+Uttarakhand,Uttarkashi,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),33.5,35.1,False,False
+Uttarakhand,Uttarkashi,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.3,0.5,False,False
+Uttarakhand,Uttarkashi,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),31.5,26.9,False,False

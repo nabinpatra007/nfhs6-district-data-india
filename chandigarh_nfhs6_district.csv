@@ -1,0 +1,102 @@
+state,district,category,indicator_no,indicator,nfhs6_value,nfhs5_value,small_sample_flag,boundary_change_single_round
+Chandigarh,Chandigarh,Population and Household Profile,1,Population below age 5 years (%),6.1,5.9,False,False
+Chandigarh,Chandigarh,Population and Household Profile,2,Population below age 15 years (%),20.7,23.3,False,False
+Chandigarh,Chandigarh,Population and Household Profile,3,Population age 60 years and above (%),10.9,10.9,False,False
+Chandigarh,Chandigarh,Population and Household Profile,4,Population living in households with electricity (%),99.6,99.9,False,False
+Chandigarh,Chandigarh,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),99.9,99.1,False,False
+Chandigarh,Chandigarh,Population and Household Profile,6,Households using iodized salt (%),96.5,96.8,False,False
+Chandigarh,Chandigarh,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),42.8,32.2,False,False
+Chandigarh,Chandigarh,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),96.9,96.9,False,False
+Chandigarh,Chandigarh,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),87.8,86.7,False,False
+Chandigarh,Chandigarh,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with,13.7,6.7,False,False
+Chandigarh,Chandigarh,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),52.6,26.5,False,False
+Chandigarh,Chandigarh,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),70.1,59.6,False,False
+Chandigarh,Chandigarh,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),88.4,64.5,False,False
+Chandigarh,Chandigarh,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),83.9,75.2,False,False
+Chandigarh,Chandigarh,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),94.3,91.9,False,False
+Chandigarh,Chandigarh,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),5.2,9.7,False,False
+Chandigarh,Chandigarh,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Chandigarh,Chandigarh,Marriage and Fertility,18,Total fertility rate (children per woman),1.8,1.4,False,False
+Chandigarh,Chandigarh,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.0,0.8,False,False
+Chandigarh,Chandigarh,Marriage and Fertility,20,Any method2 (%),70.9,77.4,False,False
+Chandigarh,Chandigarh,Marriage and Fertility,21,Any modern method2 (%),48.1,55.6,False,False
+Chandigarh,Chandigarh,Marriage and Fertility,22,Any traditional method (%),22.8,21.8,False,False
+Chandigarh,Chandigarh,Marriage and Fertility,23,Female sterilization (%),16.7,19.0,False,False
+Chandigarh,Chandigarh,Marriage and Fertility,24,Male sterilization (%),0.3,0.3,False,False
+Chandigarh,Chandigarh,Marriage and Fertility,25,Total unmet need3 (%),7.6,6.9,False,False
+Chandigarh,Chandigarh,Marriage and Fertility,26,Unmet need for spacing3 (%),3.3,2.5,False,False
+Chandigarh,Chandigarh,Marriage and Fertility,27,Unmet need for limiting3 (%),4.3,4.4,False,False
+Chandigarh,Chandigarh,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),75.0,82.3,False,False
+Chandigarh,Chandigarh,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),87.7,99.4,False,False
+Chandigarh,Chandigarh,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),55.8,79.4,False,False
+Chandigarh,Chandigarh,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),97.2,93.1,False,False
+Chandigarh,Chandigarh,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),77.8,73.9,False,False
+Chandigarh,Chandigarh,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),60.0,64.5,False,False
+Chandigarh,Chandigarh,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP),96.5,97.2,False,False
+Chandigarh,Chandigarh,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),95.8,96.9,False,False
+Chandigarh,Chandigarh,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),80.2,83.2,False,False
+Chandigarh,Chandigarh,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),97.0,97.0,False,False
+Chandigarh,Chandigarh,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),36.1,31.3,False,False
+Chandigarh,Chandigarh,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),65.0,44.3,True,False
+Chandigarh,Chandigarh,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),32.3,30.4,False,False
+Chandigarh,Chandigarh,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health,87.9,90.6,False,False
+Chandigarh,Chandigarh,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of,*,*,True,False
+Chandigarh,Chandigarh,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/ other health,90.6,89.3,False,False
+Chandigarh,Chandigarh,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card,82.1,80.9,True,False
+Chandigarh,Chandigarh,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card,85.9,82.8,True,False
+Chandigarh,Chandigarh,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,96.8,True,False
+Chandigarh,Chandigarh,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),100.0,96.8,True,False
+Chandigarh,Chandigarh,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),84.6,80.9,True,False
+Chandigarh,Chandigarh,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),93.6,87.9,True,False
+Chandigarh,Chandigarh,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing,90.7,87.9,True,False
+Chandigarh,Chandigarh,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing,91.8,75.5,True,False
+Chandigarh,Chandigarh,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),99.0,87.3,True,False
+Chandigarh,Chandigarh,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),93.6,84.9,True,False
+Chandigarh,Chandigarh,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),75.6,72.6,False,False
+Chandigarh,Chandigarh,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health,93.2,92.9,True,False
+Chandigarh,Chandigarh,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health,6.8,7.1,True,False
+Chandigarh,Chandigarh,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.3,4.3,False,False
+Chandigarh,Chandigarh,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of severe diarrhoea in the 2 weeks preceding the survey (%),0.5,0.0,False,False
+Chandigarh,Chandigarh,Treatment of Childhood Diseases (children under age 5 years),59,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the,1.0,0.3,False,False
+Chandigarh,Chandigarh,Treatment of Childhood Diseases (children under age 5 years),60,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health,92.1,*,True,False
+Chandigarh,Chandigarh,Child Feeding Practices and Nutritional Status of Children,61,Children under age 3 years breastfed within one hour of birth9 (%),41.6,63.7,False,False
+Chandigarh,Chandigarh,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Chandigarh,Chandigarh,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Chandigarh,Chandigarh,Child Feeding Practices and Nutritional Status of Children,64,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain,*,*,True,False
+Chandigarh,Chandigarh,Child Feeding Practices and Nutritional Status of Children,65,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Chandigarh,Chandigarh,Child Feeding Practices and Nutritional Status of Children,66,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",7.4,22.7,True,False
+Chandigarh,Chandigarh,Child Feeding Practices and Nutritional Status of Children,67,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Chandigarh,Chandigarh,Child Feeding Practices and Nutritional Status of Children,68,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",13.9,19.0,True,False
+Chandigarh,Chandigarh,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are stunted (height-for-age)12 (%),19.0,25.3,False,False
+Chandigarh,Chandigarh,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are wasted (weight-for-height)12 (%),19.5,8.4,False,False
+Chandigarh,Chandigarh,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are severely wasted (weight-for-height)13 (%),3.3,2.3,False,False
+Chandigarh,Chandigarh,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are underweight (weight-for-age)12 (%),31.6,20.6,False,False
+Chandigarh,Chandigarh,Child Feeding Practices and Nutritional Status of Children,73,Children under 5 years who are overweight (weight-for-height)14 (%),4.1,1.8,False,False
+Chandigarh,Chandigarh,Nutritional Status of Adults (age 15-49 years),74,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),10.2,13.0,False,False
+Chandigarh,Chandigarh,Nutritional Status of Adults (age 15-49 years),75,Men whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2) (%),7.0,15.1,False,False
+Chandigarh,Chandigarh,Nutritional Status of Adults (age 15-49 years),76,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),41.9,44.0,False,False
+Chandigarh,Chandigarh,Nutritional Status of Adults (age 15-49 years),77,Men who are overweight or obese (BMI ≥25.0 kg/m2) (%),48.5,34.4,False,False
+Chandigarh,Chandigarh,Women,78,Blood sugar level - high (141-160 mg/dl)16 (%),6.7,6.0,False,False
+Chandigarh,Chandigarh,Women,79,Blood sugar level - very high (>160 mg/dl)16 (%),10.0,12.0,False,False
+Chandigarh,Chandigarh,Women,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood,17.8,19.0,False,False
+Chandigarh,Chandigarh,Men,81,Blood sugar level - high (141-160 mg/dl)16 (%),6.0,7.1,False,False
+Chandigarh,Chandigarh,Men,82,Blood sugar level - very high (>160 mg/dl)16 (%),9.8,8.8,False,False
+Chandigarh,Chandigarh,Men,83,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood,17.1,16.6,False,False
+Chandigarh,Chandigarh,Women,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or,11.0,14.5,False,False
+Chandigarh,Chandigarh,Women,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or,4.4,5.6,False,False
+Chandigarh,Chandigarh,Women,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking,22.4,25.0,False,False
+Chandigarh,Chandigarh,Men,87,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or,13.2,18.6,False,False
+Chandigarh,Chandigarh,Men,88,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or,4.6,8.7,False,False
+Chandigarh,Chandigarh,Men,89,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking,24.4,30.6,False,False
+Chandigarh,Chandigarh,Men,90,Currently married women who usually participate in three household decisions17 (%),96.0,94.6,False,False
+Chandigarh,Chandigarh,Men,91,Women who worked in the last 12 months and were paid in cash (%),29.7,22.0,False,False
+Chandigarh,Chandigarh,Men,92,Women having a bank or savings account that they themselves use (%),87.7,87.1,False,False
+Chandigarh,Chandigarh,Men,93,Women having a mobile phone that they themselves use (%),84.4,70.0,False,False
+Chandigarh,Chandigarh,Men,94,Women age 15-24 years who use hygienic methods of protection during their menstrual,98.8,94.5,False,False
+Chandigarh,Chandigarh,Gender Based Violence (age 18-49 years),95,Ever-married women age 18-49 years who have ever experienced spousal violence19 (%),8.5,9.7,False,False
+Chandigarh,Chandigarh,Gender Based Violence (age 18-49 years),96,Ever-married women age 18-49 years who have experienced physical violence during any,3.0,0.0,False,False
+Chandigarh,Chandigarh,Gender Based Violence (age 18-49 years),97,Young women age 18-29 years who experienced sexual violence by age 18 (%),0.0,*,True,False
+Chandigarh,Chandigarh,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),98,Women age 15 years and above who use any kind of tobacco (%),0.5,0.6,False,False
+Chandigarh,Chandigarh,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),99,Men age 15 years and above who use any kind of tobacco (%),15.1,11.9,False,False
+Chandigarh,Chandigarh,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),100,Women age 15 years and above who consume alcohol (%),1.1,0.3,False,False
+Chandigarh,Chandigarh,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),101,Men age 15 years and above who consume alcohol (%),21.6,18.6,False,False

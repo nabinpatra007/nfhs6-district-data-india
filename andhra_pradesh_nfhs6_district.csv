@@ -1,0 +1,1210 @@
+state,district,category,indicator_no,indicator,nfhs6_value,nfhs5_value,small_sample_flag,boundary_change_single_round
+Andhra Pradesh,Anantapur,Population and Household Profile,1,Population below age 5 years (%),8.8,7.5,False,False
+Andhra Pradesh,Anantapur,Population and Household Profile,2,Population below age 15 years (%),24.2,24.3,False,False
+Andhra Pradesh,Anantapur,Population and Household Profile,3,Population age 60 years and above (%),13.9,13.3,False,False
+Andhra Pradesh,Anantapur,Population and Household Profile,4,Population living in households with electricity (%),100.0,99.6,False,False
+Andhra Pradesh,Anantapur,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),98.9,98.8,False,False
+Andhra Pradesh,Anantapur,Population and Household Profile,6,Households using iodized salt (%),98.3,88.6,False,False
+Andhra Pradesh,Anantapur,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),94.4,84.4,False,False
+Andhra Pradesh,Anantapur,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.3,96.6,False,False
+Andhra Pradesh,Anantapur,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),66.0,59.5,False,False
+Andhra Pradesh,Anantapur,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),45.7,30.6,False,False
+Andhra Pradesh,Anantapur,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),67.4,66.1,False,False
+Andhra Pradesh,Anantapur,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),42.6,31.3,False,False
+Andhra Pradesh,Anantapur,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),54.5,45.4,False,False
+Andhra Pradesh,Anantapur,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),59.7,19.4,False,False
+Andhra Pradesh,Anantapur,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),91.0,57.5,False,False
+Andhra Pradesh,Anantapur,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),40.3,37.3,False,False
+Andhra Pradesh,Anantapur,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),13.0,*,True,False
+Andhra Pradesh,Anantapur,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),1.5,2.0,False,False
+Andhra Pradesh,Anantapur,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),17.9,13.6,False,False
+Andhra Pradesh,Anantapur,Marriage and Fertility,20,Any method2 (%),66.3,67.6,False,False
+Andhra Pradesh,Anantapur,Marriage and Fertility,21,Any modern method2 (%),65.6,67.6,False,False
+Andhra Pradesh,Anantapur,Marriage and Fertility,22,Any traditional method (%),0.7,0.0,False,False
+Andhra Pradesh,Anantapur,Marriage and Fertility,23,Female sterilization (%),63.2,67.2,False,False
+Andhra Pradesh,Anantapur,Marriage and Fertility,24,Male sterilization (%),0.2,0.0,False,False
+Andhra Pradesh,Anantapur,Marriage and Fertility,25,Total unmet need3 (%),7.9,6.4,False,False
+Andhra Pradesh,Anantapur,Marriage and Fertility,26,Unmet need for spacing3 (%),5.0,3.7,False,False
+Andhra Pradesh,Anantapur,Marriage and Fertility,27,Unmet need for limiting3 (%),2.9,2.7,False,False
+Andhra Pradesh,Anantapur,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),92.5,80.3,False,False
+Andhra Pradesh,Anantapur,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,100.0,False,False
+Andhra Pradesh,Anantapur,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),93.0,66.6,False,False
+Andhra Pradesh,Anantapur,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),94.6,97.5,False,False
+Andhra Pradesh,Anantapur,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),87.2,72.0,False,False
+Andhra Pradesh,Anantapur,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),45.4,38.5,False,False
+Andhra Pradesh,Anantapur,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.7,100.0,False,False
+Andhra Pradesh,Anantapur,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),98.5,94.7,False,False
+Andhra Pradesh,Anantapur,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),43.1,60.3,False,False
+Andhra Pradesh,Anantapur,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),98.4,98.3,False,False
+Andhra Pradesh,Anantapur,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),45.0,22.2,False,False
+Andhra Pradesh,Anantapur,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),54.9,37.0,False,False
+Andhra Pradesh,Anantapur,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),34.0,15.7,False,False
+Andhra Pradesh,Anantapur,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,97.7,89.1,False,False
+Andhra Pradesh,Anantapur,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Andhra Pradesh,Anantapur,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,98.7,87.3,False,False
+Andhra Pradesh,Anantapur,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,92.0,81.8,True,False
+Andhra Pradesh,Anantapur,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),93.3,96.6,True,False
+Andhra Pradesh,Anantapur,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,97.7,True,False
+Andhra Pradesh,Anantapur,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),98.3,95.7,True,False
+Andhra Pradesh,Anantapur,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),93.7,81.8,True,False
+Andhra Pradesh,Anantapur,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),97.7,90.2,True,False
+Andhra Pradesh,Anantapur,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),97.7,92.9,True,False
+Andhra Pradesh,Anantapur,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),87.6,69.1,True,False
+Andhra Pradesh,Anantapur,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),96.3,74.2,True,False
+Andhra Pradesh,Anantapur,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),97.7,75.0,True,False
+Andhra Pradesh,Anantapur,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),94.7,75.7,False,False
+Andhra Pradesh,Anantapur,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),94.6,91.8,True,False
+Andhra Pradesh,Anantapur,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),5.4,8.2,True,False
+Andhra Pradesh,Anantapur,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.7,2.5,False,False
+Andhra Pradesh,Anantapur,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.8,2.6,False,False
+Andhra Pradesh,Anantapur,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,84.1,True,False
+Andhra Pradesh,Anantapur,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),69.6,54.7,False,False
+Andhra Pradesh,Anantapur,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),79.1,71.6,True,False
+Andhra Pradesh,Anantapur,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),100.0,91.0,True,False
+Andhra Pradesh,Anantapur,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,92.3,86.9,True,False
+Andhra Pradesh,Anantapur,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Andhra Pradesh,Anantapur,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",14.1,3.9,False,False
+Andhra Pradesh,Anantapur,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Andhra Pradesh,Anantapur,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",13.1,2.9,False,False
+Andhra Pradesh,Anantapur,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),32.6,36.0,False,False
+Andhra Pradesh,Anantapur,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),9.5,19.3,False,False
+Andhra Pradesh,Anantapur,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),1.0,4.0,False,False
+Andhra Pradesh,Anantapur,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),29.7,40.6,False,False
+Andhra Pradesh,Anantapur,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.8,0.3,False,False
+Andhra Pradesh,Anantapur,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),13.7,21.9,False,False
+Andhra Pradesh,Anantapur,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),37.8,29.3,False,False
+Andhra Pradesh,Anantapur,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),6.4,5.4,False,False
+Andhra Pradesh,Anantapur,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),8.5,7.8,False,False
+Andhra Pradesh,Anantapur,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),17.1,14.2,False,False
+Andhra Pradesh,Anantapur,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),8.9,7.5,False,False
+Andhra Pradesh,Anantapur,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),14.3,8.3,False,False
+Andhra Pradesh,Anantapur,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),25.1,16.8,False,False
+Andhra Pradesh,Anantapur,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),6.7,12.1,False,False
+Andhra Pradesh,Anantapur,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.6,8.5,False,False
+Andhra Pradesh,Anantapur,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,16.6,23.4,False,False
+Andhra Pradesh,Anantapur,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.6,16.2,False,False
+Andhra Pradesh,Anantapur,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,5.0,7.7,False,False
+Andhra Pradesh,Anantapur,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,18.7,26.7,False,False
+Andhra Pradesh,Anantapur,Men,87,Women having a bank or savings account that they themselves use (%),94.8,89.1,False,False
+Andhra Pradesh,Anantapur,Men,88,Women having a mobile phone that they themselves use (%),59.2,48.1,False,False
+Andhra Pradesh,Anantapur,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),96.1,95.0,False,False
+Andhra Pradesh,Anantapur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),5.8,5.0,False,False
+Andhra Pradesh,Anantapur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),17.6,20.5,False,False
+Andhra Pradesh,Anantapur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.3,0.6,False,False
+Andhra Pradesh,Anantapur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),16.5,16.8,False,False
+Andhra Pradesh,Chittoor,Population and Household Profile,1,Population below age 5 years (%),7.5,7.7,False,False
+Andhra Pradesh,Chittoor,Population and Household Profile,2,Population below age 15 years (%),21.9,22.6,False,False
+Andhra Pradesh,Chittoor,Population and Household Profile,3,Population age 60 years and above (%),12.9,14.4,False,False
+Andhra Pradesh,Chittoor,Population and Household Profile,4,Population living in households with electricity (%),99.9,99.7,False,False
+Andhra Pradesh,Chittoor,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),99.5,98.5,False,False
+Andhra Pradesh,Chittoor,Population and Household Profile,6,Households using iodized salt (%),97.9,85.5,False,False
+Andhra Pradesh,Chittoor,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),88.5,81.8,False,False
+Andhra Pradesh,Chittoor,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.1,96.1,False,False
+Andhra Pradesh,Chittoor,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),75.2,65.6,False,False
+Andhra Pradesh,Chittoor,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),33.9,33.2,False,False
+Andhra Pradesh,Chittoor,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),65.0,75.5,False,False
+Andhra Pradesh,Chittoor,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),56.7,40.3,False,False
+Andhra Pradesh,Chittoor,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),62.9,57.1,False,False
+Andhra Pradesh,Chittoor,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),78.5,26.3,False,False
+Andhra Pradesh,Chittoor,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),90.5,53.4,False,False
+Andhra Pradesh,Chittoor,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),21.7,28.1,False,False
+Andhra Pradesh,Chittoor,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Andhra Pradesh,Chittoor,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),1.5,3.2,False,False
+Andhra Pradesh,Chittoor,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),8.5,19.7,False,False
+Andhra Pradesh,Chittoor,Marriage and Fertility,20,Any method2 (%),71.7,69.0,False,False
+Andhra Pradesh,Chittoor,Marriage and Fertility,21,Any modern method2 (%),69.7,68.9,False,False
+Andhra Pradesh,Chittoor,Marriage and Fertility,22,Any traditional method (%),2.0,0.1,False,False
+Andhra Pradesh,Chittoor,Marriage and Fertility,23,Female sterilization (%),65.8,67.9,False,False
+Andhra Pradesh,Chittoor,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Andhra Pradesh,Chittoor,Marriage and Fertility,25,Total unmet need3 (%),8.3,6.0,False,False
+Andhra Pradesh,Chittoor,Marriage and Fertility,26,Unmet need for spacing3 (%),5.8,3.9,False,False
+Andhra Pradesh,Chittoor,Marriage and Fertility,27,Unmet need for limiting3 (%),2.5,2.1,False,False
+Andhra Pradesh,Chittoor,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),90.5,80.3,False,False
+Andhra Pradesh,Chittoor,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),99.4,99.6,False,False
+Andhra Pradesh,Chittoor,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),88.7,65.3,False,False
+Andhra Pradesh,Chittoor,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),96.1,97.8,False,False
+Andhra Pradesh,Chittoor,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),87.2,71.7,False,False
+Andhra Pradesh,Chittoor,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),57.7,43.7,False,False
+Andhra Pradesh,Chittoor,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.4,98.2,False,False
+Andhra Pradesh,Chittoor,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),98.1,97.1,False,False
+Andhra Pradesh,Chittoor,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),54.5,66.5,False,False
+Andhra Pradesh,Chittoor,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),99.0,97.6,False,False
+Andhra Pradesh,Chittoor,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),46.6,26.4,False,False
+Andhra Pradesh,Chittoor,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),55.7,54.7,False,False
+Andhra Pradesh,Chittoor,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),41.0,14.6,False,False
+Andhra Pradesh,Chittoor,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,98.8,93.8,False,False
+Andhra Pradesh,Chittoor,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Andhra Pradesh,Chittoor,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,98.2,95.2,False,False
+Andhra Pradesh,Chittoor,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,87.6,66.6,True,False
+Andhra Pradesh,Chittoor,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),98.0,87.5,True,False
+Andhra Pradesh,Chittoor,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),96.2,97.2,True,False
+Andhra Pradesh,Chittoor,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),94.4,97.2,True,False
+Andhra Pradesh,Chittoor,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),89.4,69.1,True,False
+Andhra Pradesh,Chittoor,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),96.2,88.4,True,False
+Andhra Pradesh,Chittoor,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),96.2,89.6,True,False
+Andhra Pradesh,Chittoor,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),88.5,60.3,True,False
+Andhra Pradesh,Chittoor,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),90.1,87.8,True,False
+Andhra Pradesh,Chittoor,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),96.2,75.0,True,False
+Andhra Pradesh,Chittoor,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),89.6,76.9,False,False
+Andhra Pradesh,Chittoor,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),95.3,100.0,True,False
+Andhra Pradesh,Chittoor,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),4.7,0.0,True,False
+Andhra Pradesh,Chittoor,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.1,4.8,False,False
+Andhra Pradesh,Chittoor,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,3.1,False,False
+Andhra Pradesh,Chittoor,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,84.4,True,False
+Andhra Pradesh,Chittoor,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),78.4,38.7,False,False
+Andhra Pradesh,Chittoor,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),64.3,65.5,True,False
+Andhra Pradesh,Chittoor,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),96.8,91.9,True,False
+Andhra Pradesh,Chittoor,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,81.2,70.9,True,False
+Andhra Pradesh,Chittoor,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Andhra Pradesh,Chittoor,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",18.9,6.2,True,False
+Andhra Pradesh,Chittoor,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Andhra Pradesh,Chittoor,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",21.2,6.0,False,False
+Andhra Pradesh,Chittoor,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),24.1,27.1,False,False
+Andhra Pradesh,Chittoor,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),13.2,14.8,False,False
+Andhra Pradesh,Chittoor,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),2.8,6.3,False,False
+Andhra Pradesh,Chittoor,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),18.8,27.9,False,False
+Andhra Pradesh,Chittoor,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.8,0.5,False,False
+Andhra Pradesh,Chittoor,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),10.3,20.1,False,False
+Andhra Pradesh,Chittoor,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),49.1,33.4,False,False
+Andhra Pradesh,Chittoor,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),8.1,6.9,False,False
+Andhra Pradesh,Chittoor,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),14.4,8.4,False,False
+Andhra Pradesh,Chittoor,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),25.1,17.2,False,False
+Andhra Pradesh,Chittoor,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),8.0,7.2,False,False
+Andhra Pradesh,Chittoor,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),14.3,12.3,False,False
+Andhra Pradesh,Chittoor,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),25.6,22.4,False,False
+Andhra Pradesh,Chittoor,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.7,10.7,False,False
+Andhra Pradesh,Chittoor,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.8,5.4,False,False
+Andhra Pradesh,Chittoor,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,20.2,22.7,False,False
+Andhra Pradesh,Chittoor,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.1,16.8,False,False
+Andhra Pradesh,Chittoor,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,3.8,5.9,False,False
+Andhra Pradesh,Chittoor,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,23.0,27.1,False,False
+Andhra Pradesh,Chittoor,Men,87,Women having a bank or savings account that they themselves use (%),91.1,78.1,False,False
+Andhra Pradesh,Chittoor,Men,88,Women having a mobile phone that they themselves use (%),71.8,46.4,False,False
+Andhra Pradesh,Chittoor,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),97.8,94.7,False,False
+Andhra Pradesh,Chittoor,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),3.6,4.3,False,False
+Andhra Pradesh,Chittoor,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),14.4,18.7,False,False
+Andhra Pradesh,Chittoor,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.2,0.4,False,False
+Andhra Pradesh,Chittoor,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),21.2,18.3,False,False
+Andhra Pradesh,East Godavari,Population and Household Profile,1,Population below age 5 years (%),6.6,6.2,False,False
+Andhra Pradesh,East Godavari,Population and Household Profile,2,Population below age 15 years (%),20.1,20.5,False,False
+Andhra Pradesh,East Godavari,Population and Household Profile,3,Population age 60 years and above (%),13.5,12.7,False,False
+Andhra Pradesh,East Godavari,Population and Household Profile,4,Population living in households with electricity (%),99.7,98.8,False,False
+Andhra Pradesh,East Godavari,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),95.1,97.9,False,False
+Andhra Pradesh,East Godavari,Population and Household Profile,6,Households using iodized salt (%),95.1,81.2,False,False
+Andhra Pradesh,East Godavari,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),91.9,75.5,False,False
+Andhra Pradesh,East Godavari,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.3,95.9,False,False
+Andhra Pradesh,East Godavari,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),75.3,75.4,False,False
+Andhra Pradesh,East Godavari,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),26.0,25.1,False,False
+Andhra Pradesh,East Godavari,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),65.6,75.0,False,False
+Andhra Pradesh,East Godavari,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),49.7,43.2,False,False
+Andhra Pradesh,East Godavari,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),58.9,48.5,False,False
+Andhra Pradesh,East Godavari,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),43.8,23.4,False,False
+Andhra Pradesh,East Godavari,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),78.5,49.9,False,False
+Andhra Pradesh,East Godavari,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),24.2,26.0,False,False
+Andhra Pradesh,East Godavari,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Andhra Pradesh,East Godavari,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),2.6,1.3,False,False
+Andhra Pradesh,East Godavari,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),10.4,6.2,False,False
+Andhra Pradesh,East Godavari,Marriage and Fertility,20,Any method2 (%),76.6,66.3,False,False
+Andhra Pradesh,East Godavari,Marriage and Fertility,21,Any modern method2 (%),75.5,66.3,False,False
+Andhra Pradesh,East Godavari,Marriage and Fertility,22,Any traditional method (%),1.1,0.0,False,False
+Andhra Pradesh,East Godavari,Marriage and Fertility,23,Female sterilization (%),71.0,64.1,False,False
+Andhra Pradesh,East Godavari,Marriage and Fertility,24,Male sterilization (%),1.8,0.9,False,False
+Andhra Pradesh,East Godavari,Marriage and Fertility,25,Total unmet need3 (%),4.2,8.0,False,False
+Andhra Pradesh,East Godavari,Marriage and Fertility,26,Unmet need for spacing3 (%),3.0,4.4,False,False
+Andhra Pradesh,East Godavari,Marriage and Fertility,27,Unmet need for limiting3 (%),1.2,3.6,False,False
+Andhra Pradesh,East Godavari,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),89.3,76.3,False,False
+Andhra Pradesh,East Godavari,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,98.0,False,False
+Andhra Pradesh,East Godavari,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),75.3,51.0,False,False
+Andhra Pradesh,East Godavari,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),98.5,87.0,False,False
+Andhra Pradesh,East Godavari,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),82.0,62.7,False,False
+Andhra Pradesh,East Godavari,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),56.1,32.3,False,False
+Andhra Pradesh,East Godavari,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.6,91.4,False,False
+Andhra Pradesh,East Godavari,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),98.4,96.6,False,False
+Andhra Pradesh,East Godavari,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),41.9,46.0,False,False
+Andhra Pradesh,East Godavari,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),98.7,89.9,False,False
+Andhra Pradesh,East Godavari,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),58.0,52.2,False,False
+Andhra Pradesh,East Godavari,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),76.0,72.0,False,False
+Andhra Pradesh,East Godavari,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),36.1,34.1,False,False
+Andhra Pradesh,East Godavari,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,96.7,91.9,False,False
+Andhra Pradesh,East Godavari,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Andhra Pradesh,East Godavari,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,97.7,93.5,False,False
+Andhra Pradesh,East Godavari,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,75.7,59.0,True,False
+Andhra Pradesh,East Godavari,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),88.8,67.3,True,False
+Andhra Pradesh,East Godavari,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),95.4,92.7,True,False
+Andhra Pradesh,East Godavari,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),91.7,92.7,True,False
+Andhra Pradesh,East Godavari,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),79.4,66.3,True,False
+Andhra Pradesh,East Godavari,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),87.5,83.9,True,False
+Andhra Pradesh,East Godavari,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),93.0,76.7,True,False
+Andhra Pradesh,East Godavari,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),79.8,54.3,True,False
+Andhra Pradesh,East Godavari,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),78.0,73.3,True,False
+Andhra Pradesh,East Godavari,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),93.0,77.8,True,False
+Andhra Pradesh,East Godavari,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),82.6,81.4,False,False
+Andhra Pradesh,East Godavari,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),92.6,85.3,True,False
+Andhra Pradesh,East Godavari,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),7.4,7.5,True,False
+Andhra Pradesh,East Godavari,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.9,13.3,False,False
+Andhra Pradesh,East Godavari,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.6,2.2,False,False
+Andhra Pradesh,East Godavari,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,63.7,True,False
+Andhra Pradesh,East Godavari,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),64.7,51.3,False,False
+Andhra Pradesh,East Godavari,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Andhra Pradesh,East Godavari,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Andhra Pradesh,East Godavari,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Andhra Pradesh,East Godavari,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Andhra Pradesh,East Godavari,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",20.6,3.0,True,False
+Andhra Pradesh,East Godavari,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Andhra Pradesh,East Godavari,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",24.0,10.2,False,False
+Andhra Pradesh,East Godavari,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),16.4,23.1,False,False
+Andhra Pradesh,East Godavari,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),9.9,14.3,False,False
+Andhra Pradesh,East Godavari,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),0.8,3.8,False,False
+Andhra Pradesh,East Godavari,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),18.1,22.4,False,False
+Andhra Pradesh,East Godavari,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),2.3,3.4,False,False
+Andhra Pradesh,East Godavari,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),9.3,10.2,False,False
+Andhra Pradesh,East Godavari,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),49.6,44.4,False,False
+Andhra Pradesh,East Godavari,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),8.3,7.5,False,False
+Andhra Pradesh,East Godavari,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),13.2,12.7,False,False
+Andhra Pradesh,East Godavari,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),24.8,21.7,False,False
+Andhra Pradesh,East Godavari,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),8.1,9.2,False,False
+Andhra Pradesh,East Godavari,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),15.5,15.5,False,False
+Andhra Pradesh,East Godavari,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),26.1,27.6,False,False
+Andhra Pradesh,East Godavari,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.1,12.6,False,False
+Andhra Pradesh,East Godavari,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,5.7,6.6,False,False
+Andhra Pradesh,East Godavari,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,26.9,29.0,False,False
+Andhra Pradesh,East Godavari,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.4,17.3,False,False
+Andhra Pradesh,East Godavari,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,8.2,7.3,False,False
+Andhra Pradesh,East Godavari,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,30.6,32.2,False,False
+Andhra Pradesh,East Godavari,Men,87,Women having a bank or savings account that they themselves use (%),92.5,69.3,False,False
+Andhra Pradesh,East Godavari,Men,88,Women having a mobile phone that they themselves use (%),61.8,49.6,False,False
+Andhra Pradesh,East Godavari,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),88.9,71.0,False,False
+Andhra Pradesh,East Godavari,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),2.5,3.2,False,False
+Andhra Pradesh,East Godavari,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),20.2,25.5,False,False
+Andhra Pradesh,East Godavari,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.6,0.7,False,False
+Andhra Pradesh,East Godavari,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),22.7,25.9,False,False
+Andhra Pradesh,Guntur,Population and Household Profile,1,Population below age 5 years (%),6.1,6.8,False,False
+Andhra Pradesh,Guntur,Population and Household Profile,2,Population below age 15 years (%),20.0,22.4,False,False
+Andhra Pradesh,Guntur,Population and Household Profile,3,Population age 60 years and above (%),14.7,11.7,False,False
+Andhra Pradesh,Guntur,Population and Household Profile,4,Population living in households with electricity (%),99.7,99.2,False,False
+Andhra Pradesh,Guntur,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),98.2,99.3,False,False
+Andhra Pradesh,Guntur,Population and Household Profile,6,Households using iodized salt (%),97.7,85.8,False,False
+Andhra Pradesh,Guntur,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),88.3,82.3,False,False
+Andhra Pradesh,Guntur,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.6,96.4,False,False
+Andhra Pradesh,Guntur,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),68.8,64.9,False,False
+Andhra Pradesh,Guntur,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),28.8,28.0,False,False
+Andhra Pradesh,Guntur,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),70.4,75.0,False,False
+Andhra Pradesh,Guntur,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),49.1,32.6,False,False
+Andhra Pradesh,Guntur,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),49.8,34.2,False,False
+Andhra Pradesh,Guntur,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),66.1,20.7,False,False
+Andhra Pradesh,Guntur,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),79.5,31.6,False,False
+Andhra Pradesh,Guntur,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),22.0,35.4,False,False
+Andhra Pradesh,Guntur,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Andhra Pradesh,Guntur,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),2.1,1.0,False,False
+Andhra Pradesh,Guntur,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),9.0,20.7,False,False
+Andhra Pradesh,Guntur,Marriage and Fertility,20,Any method2 (%),77.9,73.3,False,False
+Andhra Pradesh,Guntur,Marriage and Fertility,21,Any modern method2 (%),77.6,73.2,False,False
+Andhra Pradesh,Guntur,Marriage and Fertility,22,Any traditional method (%),0.3,0.1,False,False
+Andhra Pradesh,Guntur,Marriage and Fertility,23,Female sterilization (%),73.6,72.9,False,False
+Andhra Pradesh,Guntur,Marriage and Fertility,24,Male sterilization (%),0.4,0.0,False,False
+Andhra Pradesh,Guntur,Marriage and Fertility,25,Total unmet need3 (%),3.4,3.2,False,False
+Andhra Pradesh,Guntur,Marriage and Fertility,26,Unmet need for spacing3 (%),2.1,1.7,False,False
+Andhra Pradesh,Guntur,Marriage and Fertility,27,Unmet need for limiting3 (%),1.3,1.5,False,False
+Andhra Pradesh,Guntur,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),88.2,89.4,False,False
+Andhra Pradesh,Guntur,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,99.5,False,False
+Andhra Pradesh,Guntur,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),81.8,62.5,False,False
+Andhra Pradesh,Guntur,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),97.4,90.3,False,False
+Andhra Pradesh,Guntur,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),92.9,75.1,False,False
+Andhra Pradesh,Guntur,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),59.5,42.5,False,False
+Andhra Pradesh,Guntur,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.9,96.0,False,False
+Andhra Pradesh,Guntur,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),100.0,98.6,False,False
+Andhra Pradesh,Guntur,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),37.5,49.6,False,False
+Andhra Pradesh,Guntur,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),100.0,95.5,False,False
+Andhra Pradesh,Guntur,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),59.9,53.8,False,False
+Andhra Pradesh,Guntur,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),68.5,72.2,False,False
+Andhra Pradesh,Guntur,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),45.5,37.0,False,False
+Andhra Pradesh,Guntur,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,98.6,94.0,False,False
+Andhra Pradesh,Guntur,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Andhra Pradesh,Guntur,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,98.0,97.2,False,False
+Andhra Pradesh,Guntur,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,*,76.2,True,False
+Andhra Pradesh,Guntur,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),*,100.0,True,False
+Andhra Pradesh,Guntur,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),*,97.6,True,False
+Andhra Pradesh,Guntur,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),*,97.6,True,False
+Andhra Pradesh,Guntur,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),*,76.2,True,False
+Andhra Pradesh,Guntur,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),*,97.6,True,False
+Andhra Pradesh,Guntur,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),*,92.5,True,False
+Andhra Pradesh,Guntur,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),86.1,53.8,True,False
+Andhra Pradesh,Guntur,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),*,82.9,True,False
+Andhra Pradesh,Guntur,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),*,87.8,True,False
+Andhra Pradesh,Guntur,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),89.4,80.2,False,False
+Andhra Pradesh,Guntur,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),*,97.4,True,False
+Andhra Pradesh,Guntur,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),*,2.6,True,False
+Andhra Pradesh,Guntur,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.9,10.0,False,False
+Andhra Pradesh,Guntur,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.1,1.0,False,False
+Andhra Pradesh,Guntur,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,*,True,False
+Andhra Pradesh,Guntur,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),61.1,69.3,False,False
+Andhra Pradesh,Guntur,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Andhra Pradesh,Guntur,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Andhra Pradesh,Guntur,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Andhra Pradesh,Guntur,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Andhra Pradesh,Guntur,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",12.8,8.6,True,False
+Andhra Pradesh,Guntur,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Andhra Pradesh,Guntur,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",15.3,11.2,True,False
+Andhra Pradesh,Guntur,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),23.1,23.8,False,False
+Andhra Pradesh,Guntur,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),13.0,17.8,False,False
+Andhra Pradesh,Guntur,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),2.3,8.1,False,False
+Andhra Pradesh,Guntur,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),22.1,26.9,False,False
+Andhra Pradesh,Guntur,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),3.6,3.6,False,False
+Andhra Pradesh,Guntur,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),9.7,9.6,False,False
+Andhra Pradesh,Guntur,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),53.7,46.4,False,False
+Andhra Pradesh,Guntur,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),6.4,7.8,False,False
+Andhra Pradesh,Guntur,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),14.0,13.0,False,False
+Andhra Pradesh,Guntur,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),22.7,22.7,False,False
+Andhra Pradesh,Guntur,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),6.1,10.7,False,False
+Andhra Pradesh,Guntur,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),14.7,13.4,False,False
+Andhra Pradesh,Guntur,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),24.5,25.9,False,False
+Andhra Pradesh,Guntur,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.8,14.5,False,False
+Andhra Pradesh,Guntur,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.4,5.9,False,False
+Andhra Pradesh,Guntur,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,26.6,25.8,False,False
+Andhra Pradesh,Guntur,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.7,18.0,False,False
+Andhra Pradesh,Guntur,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.2,8.5,False,False
+Andhra Pradesh,Guntur,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,28.4,31.3,False,False
+Andhra Pradesh,Guntur,Men,87,Women having a bank or savings account that they themselves use (%),94.7,75.0,False,False
+Andhra Pradesh,Guntur,Men,88,Women having a mobile phone that they themselves use (%),61.4,38.4,False,False
+Andhra Pradesh,Guntur,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),97.0,88.0,False,False
+Andhra Pradesh,Guntur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),1.7,1.6,False,False
+Andhra Pradesh,Guntur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),19.8,25.4,False,False
+Andhra Pradesh,Guntur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.7,0.2,False,False
+Andhra Pradesh,Guntur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),22.2,24.5,False,False
+Andhra Pradesh,Krishna,Population and Household Profile,1,Population below age 5 years (%),6.2,5.3,False,False
+Andhra Pradesh,Krishna,Population and Household Profile,2,Population below age 15 years (%),19.6,20.4,False,False
+Andhra Pradesh,Krishna,Population and Household Profile,3,Population age 60 years and above (%),12.5,13.5,False,False
+Andhra Pradesh,Krishna,Population and Household Profile,4,Population living in households with electricity (%),100.0,99.6,False,False
+Andhra Pradesh,Krishna,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),97.8,94.4,False,False
+Andhra Pradesh,Krishna,Population and Household Profile,6,Households using iodized salt (%),98.8,87.5,False,False
+Andhra Pradesh,Krishna,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),89.2,78.0,False,False
+Andhra Pradesh,Krishna,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),97.9,95.9,False,False
+Andhra Pradesh,Krishna,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),73.4,74.0,False,False
+Andhra Pradesh,Krishna,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),25.1,26.8,False,False
+Andhra Pradesh,Krishna,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),77.3,78.0,False,False
+Andhra Pradesh,Krishna,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),49.5,46.2,False,False
+Andhra Pradesh,Krishna,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),59.4,43.8,False,False
+Andhra Pradesh,Krishna,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),73.2,22.4,False,False
+Andhra Pradesh,Krishna,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),85.9,46.4,False,False
+Andhra Pradesh,Krishna,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),23.4,25.3,False,False
+Andhra Pradesh,Krishna,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Andhra Pradesh,Krishna,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.0,0.0,False,False
+Andhra Pradesh,Krishna,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),6.8,9.6,False,False
+Andhra Pradesh,Krishna,Marriage and Fertility,20,Any method2 (%),80.9,79.1,False,False
+Andhra Pradesh,Krishna,Marriage and Fertility,21,Any modern method2 (%),78.1,78.1,False,False
+Andhra Pradesh,Krishna,Marriage and Fertility,22,Any traditional method (%),2.8,1.0,False,False
+Andhra Pradesh,Krishna,Marriage and Fertility,23,Female sterilization (%),72.6,76.5,False,False
+Andhra Pradesh,Krishna,Marriage and Fertility,24,Male sterilization (%),1.3,1.0,False,False
+Andhra Pradesh,Krishna,Marriage and Fertility,25,Total unmet need3 (%),2.4,2.5,False,False
+Andhra Pradesh,Krishna,Marriage and Fertility,26,Unmet need for spacing3 (%),1.1,1.4,False,False
+Andhra Pradesh,Krishna,Marriage and Fertility,27,Unmet need for limiting3 (%),1.3,1.1,False,False
+Andhra Pradesh,Krishna,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),88.1,81.5,False,False
+Andhra Pradesh,Krishna,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,100.0,False,False
+Andhra Pradesh,Krishna,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),93.1,73.3,False,False
+Andhra Pradesh,Krishna,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),95.0,95.8,False,False
+Andhra Pradesh,Krishna,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),93.6,56.2,False,False
+Andhra Pradesh,Krishna,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),70.8,39.2,False,False
+Andhra Pradesh,Krishna,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.6,96.4,False,False
+Andhra Pradesh,Krishna,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),98.8,98.9,False,False
+Andhra Pradesh,Krishna,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),42.4,40.1,False,False
+Andhra Pradesh,Krishna,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),98.3,98.0,False,False
+Andhra Pradesh,Krishna,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),64.5,66.1,False,False
+Andhra Pradesh,Krishna,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),68.9,79.7,False,False
+Andhra Pradesh,Krishna,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),60.7,47.9,False,False
+Andhra Pradesh,Krishna,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,96.8,88.3,False,False
+Andhra Pradesh,Krishna,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Andhra Pradesh,Krishna,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,96.2,90.3,False,False
+Andhra Pradesh,Krishna,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,93.9,90.0,True,False
+Andhra Pradesh,Krishna,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),91.0,97.2,True,False
+Andhra Pradesh,Krishna,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),93.9,93.9,True,False
+Andhra Pradesh,Krishna,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),93.9,93.9,True,False
+Andhra Pradesh,Krishna,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),93.9,90.0,True,False
+Andhra Pradesh,Krishna,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),93.9,93.9,True,False
+Andhra Pradesh,Krishna,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),93.9,90.0,True,False
+Andhra Pradesh,Krishna,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),96.9,54.6,True,False
+Andhra Pradesh,Krishna,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),86.5,81.1,True,False
+Andhra Pradesh,Krishna,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),89.9,62.1,True,False
+Andhra Pradesh,Krishna,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),88.7,81.0,False,False
+Andhra Pradesh,Krishna,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),87.0,100.0,True,False
+Andhra Pradesh,Krishna,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),3.0,0.0,True,False
+Andhra Pradesh,Krishna,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.6,7.8,False,False
+Andhra Pradesh,Krishna,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.4,2.4,False,False
+Andhra Pradesh,Krishna,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,61.1,45.8,True,False
+Andhra Pradesh,Krishna,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),63.7,29.3,False,False
+Andhra Pradesh,Krishna,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Andhra Pradesh,Krishna,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Andhra Pradesh,Krishna,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Andhra Pradesh,Krishna,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Andhra Pradesh,Krishna,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",21.8,26.1,True,False
+Andhra Pradesh,Krishna,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Andhra Pradesh,Krishna,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",19.5,23.4,True,False
+Andhra Pradesh,Krishna,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),18.4,29.8,False,False
+Andhra Pradesh,Krishna,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),13.8,14.3,False,False
+Andhra Pradesh,Krishna,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),2.7,5.2,False,False
+Andhra Pradesh,Krishna,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),20.5,21.1,False,False
+Andhra Pradesh,Krishna,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.7,4.2,False,False
+Andhra Pradesh,Krishna,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),8.1,10.5,False,False
+Andhra Pradesh,Krishna,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),59.2,40.6,False,False
+Andhra Pradesh,Krishna,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),8.4,7.9,False,False
+Andhra Pradesh,Krishna,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),14.0,13.4,False,False
+Andhra Pradesh,Krishna,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),26.2,23.3,False,False
+Andhra Pradesh,Krishna,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),6.2,8.5,False,False
+Andhra Pradesh,Krishna,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),16.1,11.9,False,False
+Andhra Pradesh,Krishna,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),25.3,22.5,False,False
+Andhra Pradesh,Krishna,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.8,13.3,False,False
+Andhra Pradesh,Krishna,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,5.5,4.3,False,False
+Andhra Pradesh,Krishna,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,27.0,24.0,False,False
+Andhra Pradesh,Krishna,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.2,18.6,False,False
+Andhra Pradesh,Krishna,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.9,5.1,False,False
+Andhra Pradesh,Krishna,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,27.6,28.5,False,False
+Andhra Pradesh,Krishna,Men,87,Women having a bank or savings account that they themselves use (%),88.5,91.4,False,False
+Andhra Pradesh,Krishna,Men,88,Women having a mobile phone that they themselves use (%),67.2,52.7,False,False
+Andhra Pradesh,Krishna,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),95.2,92.6,False,False
+Andhra Pradesh,Krishna,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),1.4,1.4,False,False
+Andhra Pradesh,Krishna,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),18.4,21.3,False,False
+Andhra Pradesh,Krishna,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.1,0.4,False,False
+Andhra Pradesh,Krishna,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),20.5,22.8,False,False
+Andhra Pradesh,Kurnool,Population and Household Profile,1,Population below age 5 years (%),9.4,8.3,False,False
+Andhra Pradesh,Kurnool,Population and Household Profile,2,Population below age 15 years (%),26.0,25.9,False,False
+Andhra Pradesh,Kurnool,Population and Household Profile,3,Population age 60 years and above (%),12.5,12.2,False,False
+Andhra Pradesh,Kurnool,Population and Household Profile,4,Population living in households with electricity (%),99.8,99.9,False,False
+Andhra Pradesh,Kurnool,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),99.3,97.9,False,False
+Andhra Pradesh,Kurnool,Population and Household Profile,6,Households using iodized salt (%),96.7,70.4,False,False
+Andhra Pradesh,Kurnool,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),94.1,84.1,False,False
+Andhra Pradesh,Kurnool,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.0,95.8,False,False
+Andhra Pradesh,Kurnool,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),61.2,55.2,False,False
+Andhra Pradesh,Kurnool,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),31.0,21.3,False,False
+Andhra Pradesh,Kurnool,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),72.6,63.7,False,False
+Andhra Pradesh,Kurnool,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),41.1,33.4,False,False
+Andhra Pradesh,Kurnool,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),59.3,43.8,False,False
+Andhra Pradesh,Kurnool,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),66.3,17.0,False,False
+Andhra Pradesh,Kurnool,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),75.9,41.3,False,False
+Andhra Pradesh,Kurnool,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),36.2,36.9,False,False
+Andhra Pradesh,Kurnool,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Andhra Pradesh,Kurnool,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),3.8,3.0,False,False
+Andhra Pradesh,Kurnool,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),11.1,12.4,False,False
+Andhra Pradesh,Kurnool,Marriage and Fertility,20,Any method2 (%),69.4,70.0,False,False
+Andhra Pradesh,Kurnool,Marriage and Fertility,21,Any modern method2 (%),68.4,70.0,False,False
+Andhra Pradesh,Kurnool,Marriage and Fertility,22,Any traditional method (%),1.0,0.0,False,False
+Andhra Pradesh,Kurnool,Marriage and Fertility,23,Female sterilization (%),67.0,69.5,False,False
+Andhra Pradesh,Kurnool,Marriage and Fertility,24,Male sterilization (%),0.1,0.0,False,False
+Andhra Pradesh,Kurnool,Marriage and Fertility,25,Total unmet need3 (%),2.0,2.1,False,False
+Andhra Pradesh,Kurnool,Marriage and Fertility,26,Unmet need for spacing3 (%),0.9,0.8,False,False
+Andhra Pradesh,Kurnool,Marriage and Fertility,27,Unmet need for limiting3 (%),1.1,1.3,False,False
+Andhra Pradesh,Kurnool,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),91.3,78.6,False,False
+Andhra Pradesh,Kurnool,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,98.7,False,False
+Andhra Pradesh,Kurnool,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),82.0,74.3,False,False
+Andhra Pradesh,Kurnool,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),98.3,91.3,False,False
+Andhra Pradesh,Kurnool,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),87.4,69.8,False,False
+Andhra Pradesh,Kurnool,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),62.5,43.3,False,False
+Andhra Pradesh,Kurnool,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,95.6,False,False
+Andhra Pradesh,Kurnool,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),99.3,88.5,False,False
+Andhra Pradesh,Kurnool,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),54.1,51.1,False,False
+Andhra Pradesh,Kurnool,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),100.0,90.6,False,False
+Andhra Pradesh,Kurnool,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),47.4,32.9,False,False
+Andhra Pradesh,Kurnool,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),71.2,64.5,False,False
+Andhra Pradesh,Kurnool,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),28.2,17.2,False,False
+Andhra Pradesh,Kurnool,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,98.5,87.8,False,False
+Andhra Pradesh,Kurnool,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Andhra Pradesh,Kurnool,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,99.0,87.3,False,False
+Andhra Pradesh,Kurnool,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,86.5,67.0,True,False
+Andhra Pradesh,Kurnool,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),90.2,80.4,True,False
+Andhra Pradesh,Kurnool,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,95.9,True,False
+Andhra Pradesh,Kurnool,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),98.3,95.9,True,False
+Andhra Pradesh,Kurnool,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),90.2,69.0,True,False
+Andhra Pradesh,Kurnool,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),96.4,86.3,True,False
+Andhra Pradesh,Kurnool,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),98.4,84.1,True,False
+Andhra Pradesh,Kurnool,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),90.2,47.4,False,False
+Andhra Pradesh,Kurnool,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),94.1,74.6,True,False
+Andhra Pradesh,Kurnool,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),91.0,69.1,True,False
+Andhra Pradesh,Kurnool,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),97.6,79.1,False,False
+Andhra Pradesh,Kurnool,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.6,100.0,True,False
+Andhra Pradesh,Kurnool,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.4,0.0,True,False
+Andhra Pradesh,Kurnool,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.7,4.5,False,False
+Andhra Pradesh,Kurnool,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.1,4.2,False,False
+Andhra Pradesh,Kurnool,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,44.7,73.1,True,False
+Andhra Pradesh,Kurnool,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),65.7,67.2,False,False
+Andhra Pradesh,Kurnool,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),66.3,78.1,True,False
+Andhra Pradesh,Kurnool,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),97.3,96.6,True,False
+Andhra Pradesh,Kurnool,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,94.5,81.7,True,False
+Andhra Pradesh,Kurnool,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Andhra Pradesh,Kurnool,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",17.7,9.6,False,False
+Andhra Pradesh,Kurnool,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Andhra Pradesh,Kurnool,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",19.6,9.6,False,False
+Andhra Pradesh,Kurnool,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),36.4,50.5,False,False
+Andhra Pradesh,Kurnool,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),15.6,16.7,False,False
+Andhra Pradesh,Kurnool,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),5.3,6.0,False,False
+Andhra Pradesh,Kurnool,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),32.7,46.3,False,False
+Andhra Pradesh,Kurnool,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.6,1.1,False,False
+Andhra Pradesh,Kurnool,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),12.5,20.6,False,False
+Andhra Pradesh,Kurnool,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),40.6,29.0,False,False
+Andhra Pradesh,Kurnool,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),5.2,6.9,False,False
+Andhra Pradesh,Kurnool,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),8.8,6.9,False,False
+Andhra Pradesh,Kurnool,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),15.4,15.1,False,False
+Andhra Pradesh,Kurnool,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),6.4,9.2,False,False
+Andhra Pradesh,Kurnool,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),10.3,10.2,False,False
+Andhra Pradesh,Kurnool,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),19.0,20.6,False,False
+Andhra Pradesh,Kurnool,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),7.0,18.3,False,False
+Andhra Pradesh,Kurnool,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.0,5.1,False,False
+Andhra Pradesh,Kurnool,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,19.1,27.0,False,False
+Andhra Pradesh,Kurnool,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.1,22.2,False,False
+Andhra Pradesh,Kurnool,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.7,7.4,False,False
+Andhra Pradesh,Kurnool,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,19.8,31.8,False,False
+Andhra Pradesh,Kurnool,Men,87,Women having a bank or savings account that they themselves use (%),92.4,72.9,False,False
+Andhra Pradesh,Kurnool,Men,88,Women having a mobile phone that they themselves use (%),55.8,36.4,False,False
+Andhra Pradesh,Kurnool,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),95.7,78.9,False,False
+Andhra Pradesh,Kurnool,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),2.8,2.1,False,False
+Andhra Pradesh,Kurnool,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),19.1,19.9,False,False
+Andhra Pradesh,Kurnool,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.4,0.4,False,False
+Andhra Pradesh,Kurnool,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),21.8,20.0,False,False
+Andhra Pradesh,Prakasam,Population and Household Profile,1,Population below age 5 years (%),6.3,6.0,False,False
+Andhra Pradesh,Prakasam,Population and Household Profile,2,Population below age 15 years (%),20.2,23.1,False,False
+Andhra Pradesh,Prakasam,Population and Household Profile,3,Population age 60 years and above (%),15.9,14.9,False,False
+Andhra Pradesh,Prakasam,Population and Household Profile,4,Population living in households with electricity (%),99.6,99.3,False,False
+Andhra Pradesh,Prakasam,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),97.2,98.6,False,False
+Andhra Pradesh,Prakasam,Population and Household Profile,6,Households using iodized salt (%),97.2,85.5,False,False
+Andhra Pradesh,Prakasam,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),93.4,76.5,False,False
+Andhra Pradesh,Prakasam,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.3,95.3,False,False
+Andhra Pradesh,Prakasam,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),62.5,58.1,False,False
+Andhra Pradesh,Prakasam,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),33.1,28.9,False,False
+Andhra Pradesh,Prakasam,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),76.8,65.8,False,False
+Andhra Pradesh,Prakasam,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),47.3,34.5,False,False
+Andhra Pradesh,Prakasam,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),67.7,40.4,False,False
+Andhra Pradesh,Prakasam,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),67.9,13.4,False,False
+Andhra Pradesh,Prakasam,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),87.7,41.3,False,False
+Andhra Pradesh,Prakasam,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),33.7,37.3,False,False
+Andhra Pradesh,Prakasam,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Andhra Pradesh,Prakasam,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.5,3.1,False,False
+Andhra Pradesh,Prakasam,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),8.1,16.4,False,False
+Andhra Pradesh,Prakasam,Marriage and Fertility,20,Any method2 (%),73.7,69.0,False,False
+Andhra Pradesh,Prakasam,Marriage and Fertility,21,Any modern method2 (%),72.5,68.7,False,False
+Andhra Pradesh,Prakasam,Marriage and Fertility,22,Any traditional method (%),1.2,0.3,False,False
+Andhra Pradesh,Prakasam,Marriage and Fertility,23,Female sterilization (%),70.7,68.7,False,False
+Andhra Pradesh,Prakasam,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Andhra Pradesh,Prakasam,Marriage and Fertility,25,Total unmet need3 (%),2.1,4.8,False,False
+Andhra Pradesh,Prakasam,Marriage and Fertility,26,Unmet need for spacing3 (%),1.2,1.6,False,False
+Andhra Pradesh,Prakasam,Marriage and Fertility,27,Unmet need for limiting3 (%),0.9,3.2,False,False
+Andhra Pradesh,Prakasam,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),91.9,84.7,False,False
+Andhra Pradesh,Prakasam,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,98.5,False,False
+Andhra Pradesh,Prakasam,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),88.4,73.4,False,False
+Andhra Pradesh,Prakasam,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),100.0,92.2,False,False
+Andhra Pradesh,Prakasam,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),93.9,69.0,False,False
+Andhra Pradesh,Prakasam,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),65.3,51.8,False,False
+Andhra Pradesh,Prakasam,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,92.8,False,False
+Andhra Pradesh,Prakasam,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),98.7,97.4,False,False
+Andhra Pradesh,Prakasam,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),38.4,18.1,False,False
+Andhra Pradesh,Prakasam,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),99.4,97.9,False,False
+Andhra Pradesh,Prakasam,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),53.5,54.2,False,False
+Andhra Pradesh,Prakasam,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),63.1,61.0,False,False
+Andhra Pradesh,Prakasam,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),40.2,31.8,False,False
+Andhra Pradesh,Prakasam,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,99.2,90.1,False,False
+Andhra Pradesh,Prakasam,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Andhra Pradesh,Prakasam,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,98.4,90.3,False,False
+Andhra Pradesh,Prakasam,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,89.4,51.9,True,False
+Andhra Pradesh,Prakasam,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),94.3,*,True,False
+Andhra Pradesh,Prakasam,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,89.3,True,False
+Andhra Pradesh,Prakasam,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),100.0,89.3,True,False
+Andhra Pradesh,Prakasam,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),89.4,55.0,True,False
+Andhra Pradesh,Prakasam,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),97.0,76.0,True,False
+Andhra Pradesh,Prakasam,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),100.0,65.3,True,False
+Andhra Pradesh,Prakasam,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),86.4,52.0,True,False
+Andhra Pradesh,Prakasam,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),97.6,57.7,True,False
+Andhra Pradesh,Prakasam,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),95.7,63.1,True,False
+Andhra Pradesh,Prakasam,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),94.9,79.9,False,False
+Andhra Pradesh,Prakasam,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),95.6,*,True,False
+Andhra Pradesh,Prakasam,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),4.4,*,True,False
+Andhra Pradesh,Prakasam,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.0,7.9,False,False
+Andhra Pradesh,Prakasam,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.0,2.9,False,False
+Andhra Pradesh,Prakasam,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,64.9,True,False
+Andhra Pradesh,Prakasam,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),72.2,73.8,False,False
+Andhra Pradesh,Prakasam,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Andhra Pradesh,Prakasam,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Andhra Pradesh,Prakasam,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Andhra Pradesh,Prakasam,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Andhra Pradesh,Prakasam,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",5.5,12.0,True,False
+Andhra Pradesh,Prakasam,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Andhra Pradesh,Prakasam,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",17.5,13.4,True,False
+Andhra Pradesh,Prakasam,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),19.3,22.6,False,False
+Andhra Pradesh,Prakasam,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),8.5,8.7,False,False
+Andhra Pradesh,Prakasam,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),2.0,3.3,False,False
+Andhra Pradesh,Prakasam,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),19.0,24.7,False,False
+Andhra Pradesh,Prakasam,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.2,5.1,False,False
+Andhra Pradesh,Prakasam,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),12.4,14.4,False,False
+Andhra Pradesh,Prakasam,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),50.3,39.5,False,False
+Andhra Pradesh,Prakasam,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),5.9,7.9,False,False
+Andhra Pradesh,Prakasam,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),13.5,12.6,False,False
+Andhra Pradesh,Prakasam,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),22.3,23.2,False,False
+Andhra Pradesh,Prakasam,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),7.3,11.8,False,False
+Andhra Pradesh,Prakasam,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),17.1,15.3,False,False
+Andhra Pradesh,Prakasam,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),28.0,30.2,False,False
+Andhra Pradesh,Prakasam,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),7.7,14.5,False,False
+Andhra Pradesh,Prakasam,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,5.2,6.4,False,False
+Andhra Pradesh,Prakasam,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,22.1,27.8,False,False
+Andhra Pradesh,Prakasam,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.8,19.8,False,False
+Andhra Pradesh,Prakasam,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.9,8.3,False,False
+Andhra Pradesh,Prakasam,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,25.1,33.0,False,False
+Andhra Pradesh,Prakasam,Men,87,Women having a bank or savings account that they themselves use (%),91.3,75.3,False,False
+Andhra Pradesh,Prakasam,Men,88,Women having a mobile phone that they themselves use (%),67.4,36.5,False,False
+Andhra Pradesh,Prakasam,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),97.8,86.6,False,False
+Andhra Pradesh,Prakasam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),2.8,2.2,False,False
+Andhra Pradesh,Prakasam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),24.2,28.2,False,False
+Andhra Pradesh,Prakasam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.1,0.3,False,False
+Andhra Pradesh,Prakasam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),22.1,19.0,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Population and Household Profile,1,Population below age 5 years (%),6.7,7.2,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Population and Household Profile,2,Population below age 15 years (%),20.8,20.8,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Population and Household Profile,3,Population age 60 years and above (%),14.2,13.0,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Population and Household Profile,4,Population living in households with electricity (%),99.9,99.1,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),97.3,95.6,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Population and Household Profile,6,Households using iodized salt (%),98.5,85.6,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),94.3,80.9,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.2,93.6,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),72.0,67.9,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),39.5,33.1,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),71.8,80.4,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),43.5,38.7,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),45.0,51.0,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),64.3,21.7,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),84.0,50.4,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),18.1,23.8,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),1.5,3.4,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),11.1,14.9,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Marriage and Fertility,20,Any method2 (%),71.7,71.9,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Marriage and Fertility,21,Any modern method2 (%),71.2,71.7,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Marriage and Fertility,22,Any traditional method (%),0.5,0.2,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Marriage and Fertility,23,Female sterilization (%),69.3,71.4,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Marriage and Fertility,25,Total unmet need3 (%),4.5,3.1,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Marriage and Fertility,26,Unmet need for spacing3 (%),2.7,2.3,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Marriage and Fertility,27,Unmet need for limiting3 (%),1.8,0.8,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),90.6,89.0,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,99.5,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),93.2,73.0,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),98.8,94.2,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),86.5,76.1,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),49.0,51.8,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),97.9,92.8,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),99.6,97.0,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),32.2,34.9,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),98.6,100.0,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),58.3,42.3,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),67.1,57.5,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),40.7,18.8,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,98.8,95.5,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,99.4,94.3,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,94.1,65.3,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),100.0,80.1,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,89.2,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),100.0,89.2,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),94.1,69.4,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),100.0,81.1,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),100.0,81.1,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),84.2,67.3,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),98.6,79.2,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),100.0,70.9,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),94.8,77.0,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),93.7,91.3,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.4,8.8,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.4,8.9,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,3.9,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,70.8,72.3,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),61.2,39.4,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,54.7,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,90.7,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,76.2,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",23.3,7.4,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",24.7,6.9,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),22.4,29.2,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),12.1,17.2,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),2.5,6.9,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),24.5,27.8,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.7,0.5,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),11.3,15.2,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),49.8,39.5,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),6.0,8.2,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),13.7,12.3,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),22.1,21.8,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),5.8,7.2,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),14.6,12.7,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),22.9,21.1,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.9,12.7,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.8,4.5,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,21.6,23.0,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.9,15.3,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.5,5.9,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,24.3,25.1,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Men,87,Women having a bank or savings account that they themselves use (%),91.5,89.3,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Men,88,Women having a mobile phone that they themselves use (%),63.5,47.5,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),97.4,84.0,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),4.5,4.4,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),20.3,26.5,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.3,0.3,False,False
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),23.1,25.9,False,False
+Andhra Pradesh,Srikakulam,Population and Household Profile,1,Population below age 5 years (%),6.1,6.2,False,False
+Andhra Pradesh,Srikakulam,Population and Household Profile,2,Population below age 15 years (%),20.8,20.7,False,False
+Andhra Pradesh,Srikakulam,Population and Household Profile,3,Population age 60 years and above (%),13.9,16.2,False,False
+Andhra Pradesh,Srikakulam,Population and Household Profile,4,Population living in households with electricity (%),99.8,99.9,False,False
+Andhra Pradesh,Srikakulam,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),92.1,87.7,False,False
+Andhra Pradesh,Srikakulam,Population and Household Profile,6,Households using iodized salt (%),96.9,76.5,False,False
+Andhra Pradesh,Srikakulam,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),97.1,85.4,False,False
+Andhra Pradesh,Srikakulam,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.4,96.4,False,False
+Andhra Pradesh,Srikakulam,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),61.2,60.0,False,False
+Andhra Pradesh,Srikakulam,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),34.3,33.6,False,False
+Andhra Pradesh,Srikakulam,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),76.6,85.6,False,False
+Andhra Pradesh,Srikakulam,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),48.1,42.5,False,False
+Andhra Pradesh,Srikakulam,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),64.3,54.5,False,False
+Andhra Pradesh,Srikakulam,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),56.0,22.4,False,False
+Andhra Pradesh,Srikakulam,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),82.0,49.6,False,False
+Andhra Pradesh,Srikakulam,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),15.1,25.4,False,False
+Andhra Pradesh,Srikakulam,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Andhra Pradesh,Srikakulam,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.5,0.0,False,False
+Andhra Pradesh,Srikakulam,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),9.5,5.5,False,False
+Andhra Pradesh,Srikakulam,Marriage and Fertility,20,Any method2 (%),79.7,72.3,False,False
+Andhra Pradesh,Srikakulam,Marriage and Fertility,21,Any modern method2 (%),76.8,72.2,False,False
+Andhra Pradesh,Srikakulam,Marriage and Fertility,22,Any traditional method (%),2.9,0.1,False,False
+Andhra Pradesh,Srikakulam,Marriage and Fertility,23,Female sterilization (%),73.9,71.0,False,False
+Andhra Pradesh,Srikakulam,Marriage and Fertility,24,Male sterilization (%),0.9,0.3,False,False
+Andhra Pradesh,Srikakulam,Marriage and Fertility,25,Total unmet need3 (%),4.7,5.7,False,False
+Andhra Pradesh,Srikakulam,Marriage and Fertility,26,Unmet need for spacing3 (%),2.9,3.6,False,False
+Andhra Pradesh,Srikakulam,Marriage and Fertility,27,Unmet need for limiting3 (%),1.8,2.1,False,False
+Andhra Pradesh,Srikakulam,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),81.5,79.7,False,False
+Andhra Pradesh,Srikakulam,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,100.0,False,False
+Andhra Pradesh,Srikakulam,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),86.0,78.4,False,False
+Andhra Pradesh,Srikakulam,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),95.3,94.4,False,False
+Andhra Pradesh,Srikakulam,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),70.0,67.5,False,False
+Andhra Pradesh,Srikakulam,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),44.6,35.3,False,False
+Andhra Pradesh,Srikakulam,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.7,100.0,False,False
+Andhra Pradesh,Srikakulam,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),98.8,97.9,False,False
+Andhra Pradesh,Srikakulam,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),33.5,52.2,False,False
+Andhra Pradesh,Srikakulam,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),97.8,96.4,False,False
+Andhra Pradesh,Srikakulam,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),65.5,57.0,False,False
+Andhra Pradesh,Srikakulam,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),83.0,73.8,False,False
+Andhra Pradesh,Srikakulam,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),33.9,44.5,False,False
+Andhra Pradesh,Srikakulam,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,97.3,90.8,False,False
+Andhra Pradesh,Srikakulam,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Andhra Pradesh,Srikakulam,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,95.9,97.7,False,False
+Andhra Pradesh,Srikakulam,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,91.8,82.8,True,False
+Andhra Pradesh,Srikakulam,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),90.7,100.0,True,False
+Andhra Pradesh,Srikakulam,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,93.3,True,False
+Andhra Pradesh,Srikakulam,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),100.0,93.3,True,False
+Andhra Pradesh,Srikakulam,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),94.4,82.8,True,False
+Andhra Pradesh,Srikakulam,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),97.3,89.7,True,False
+Andhra Pradesh,Srikakulam,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),100.0,93.3,True,False
+Andhra Pradesh,Srikakulam,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),77.9,82.9,True,False
+Andhra Pradesh,Srikakulam,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),100.0,74.4,True,False
+Andhra Pradesh,Srikakulam,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),97.0,74.8,True,False
+Andhra Pradesh,Srikakulam,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),89.3,69.6,False,False
+Andhra Pradesh,Srikakulam,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.4,97.0,True,False
+Andhra Pradesh,Srikakulam,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,3.0,True,False
+Andhra Pradesh,Srikakulam,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),8.7,11.9,False,False
+Andhra Pradesh,Srikakulam,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.6,1.3,False,False
+Andhra Pradesh,Srikakulam,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,79.7,True,False
+Andhra Pradesh,Srikakulam,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),51.4,42.8,False,False
+Andhra Pradesh,Srikakulam,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Andhra Pradesh,Srikakulam,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Andhra Pradesh,Srikakulam,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Andhra Pradesh,Srikakulam,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Andhra Pradesh,Srikakulam,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",16.4,14.0,True,False
+Andhra Pradesh,Srikakulam,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Andhra Pradesh,Srikakulam,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",16.4,16.1,False,False
+Andhra Pradesh,Srikakulam,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),17.4,19.7,False,False
+Andhra Pradesh,Srikakulam,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),12.6,19.5,False,False
+Andhra Pradesh,Srikakulam,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),4.9,7.4,False,False
+Andhra Pradesh,Srikakulam,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),14.0,21.4,False,False
+Andhra Pradesh,Srikakulam,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),3.3,4.5,False,False
+Andhra Pradesh,Srikakulam,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),13.3,13.8,False,False
+Andhra Pradesh,Srikakulam,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),36.8,27.2,False,False
+Andhra Pradesh,Srikakulam,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),7.5,8.2,False,False
+Andhra Pradesh,Srikakulam,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),10.3,7.8,False,False
+Andhra Pradesh,Srikakulam,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),19.4,17.4,False,False
+Andhra Pradesh,Srikakulam,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),8.3,6.8,False,False
+Andhra Pradesh,Srikakulam,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),11.4,8.6,False,False
+Andhra Pradesh,Srikakulam,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),21.6,17.6,False,False
+Andhra Pradesh,Srikakulam,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.8,12.7,False,False
+Andhra Pradesh,Srikakulam,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.5,5.9,False,False
+Andhra Pradesh,Srikakulam,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,24.1,22.1,False,False
+Andhra Pradesh,Srikakulam,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.5,14.4,False,False
+Andhra Pradesh,Srikakulam,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,8.3,5.5,False,False
+Andhra Pradesh,Srikakulam,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,25.6,22.9,False,False
+Andhra Pradesh,Srikakulam,Men,87,Women having a bank or savings account that they themselves use (%),94.3,91.3,False,False
+Andhra Pradesh,Srikakulam,Men,88,Women having a mobile phone that they themselves use (%),59.1,59.9,False,False
+Andhra Pradesh,Srikakulam,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),87.6,78.0,False,False
+Andhra Pradesh,Srikakulam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),10.0,7.1,False,False
+Andhra Pradesh,Srikakulam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),19.2,21.3,False,False
+Andhra Pradesh,Srikakulam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.5,0.6,False,False
+Andhra Pradesh,Srikakulam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),31.7,28.3,False,False
+Andhra Pradesh,Visakhapatnam,Population and Household Profile,1,Population below age 5 years (%),7.0,6.0,False,False
+Andhra Pradesh,Visakhapatnam,Population and Household Profile,2,Population below age 15 years (%),19.9,21.4,False,False
+Andhra Pradesh,Visakhapatnam,Population and Household Profile,3,Population age 60 years and above (%),11.5,11.6,False,False
+Andhra Pradesh,Visakhapatnam,Population and Household Profile,4,Population living in households with electricity (%),99.1,99.6,False,False
+Andhra Pradesh,Visakhapatnam,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),96.0,91.8,False,False
+Andhra Pradesh,Visakhapatnam,Population and Household Profile,6,Households using iodized salt (%),97.6,82.2,False,False
+Andhra Pradesh,Visakhapatnam,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),87.9,74.4,False,False
+Andhra Pradesh,Visakhapatnam,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),97.8,95.7,False,False
+Andhra Pradesh,Visakhapatnam,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),67.8,66.8,False,False
+Andhra Pradesh,Visakhapatnam,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),26.5,21.7,False,False
+Andhra Pradesh,Visakhapatnam,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),66.4,81.4,False,False
+Andhra Pradesh,Visakhapatnam,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),53.3,46.0,False,False
+Andhra Pradesh,Visakhapatnam,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),68.2,62.7,False,False
+Andhra Pradesh,Visakhapatnam,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),52.0,19.7,False,False
+Andhra Pradesh,Visakhapatnam,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),79.9,54.2,False,False
+Andhra Pradesh,Visakhapatnam,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),18.5,25.4,False,False
+Andhra Pradesh,Visakhapatnam,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Andhra Pradesh,Visakhapatnam,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),2.4,0.0,False,False
+Andhra Pradesh,Visakhapatnam,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),3.3,9.5,False,False
+Andhra Pradesh,Visakhapatnam,Marriage and Fertility,20,Any method2 (%),77.1,68.0,False,False
+Andhra Pradesh,Visakhapatnam,Marriage and Fertility,21,Any modern method2 (%),74.2,67.7,False,False
+Andhra Pradesh,Visakhapatnam,Marriage and Fertility,22,Any traditional method (%),2.9,0.3,False,False
+Andhra Pradesh,Visakhapatnam,Marriage and Fertility,23,Female sterilization (%),67.7,64.9,False,False
+Andhra Pradesh,Visakhapatnam,Marriage and Fertility,24,Male sterilization (%),2.2,1.5,False,False
+Andhra Pradesh,Visakhapatnam,Marriage and Fertility,25,Total unmet need3 (%),4.3,4.8,False,False
+Andhra Pradesh,Visakhapatnam,Marriage and Fertility,26,Unmet need for spacing3 (%),2.8,2.4,False,False
+Andhra Pradesh,Visakhapatnam,Marriage and Fertility,27,Unmet need for limiting3 (%),1.5,2.4,False,False
+Andhra Pradesh,Visakhapatnam,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),78.4,79.4,False,False
+Andhra Pradesh,Visakhapatnam,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,98.0,False,False
+Andhra Pradesh,Visakhapatnam,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),84.2,58.6,False,False
+Andhra Pradesh,Visakhapatnam,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),94.9,88.0,False,False
+Andhra Pradesh,Visakhapatnam,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),81.2,75.0,False,False
+Andhra Pradesh,Visakhapatnam,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),62.6,40.1,False,False
+Andhra Pradesh,Visakhapatnam,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.8,97.0,False,False
+Andhra Pradesh,Visakhapatnam,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),95.0,95.3,False,False
+Andhra Pradesh,Visakhapatnam,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),62.9,69.3,False,False
+Andhra Pradesh,Visakhapatnam,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),96.4,94.4,False,False
+Andhra Pradesh,Visakhapatnam,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),42.3,26.5,False,False
+Andhra Pradesh,Visakhapatnam,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),73.9,57.2,False,False
+Andhra Pradesh,Visakhapatnam,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),29.4,16.8,False,False
+Andhra Pradesh,Visakhapatnam,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,93.5,84.8,False,False
+Andhra Pradesh,Visakhapatnam,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Andhra Pradesh,Visakhapatnam,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,92.6,90.9,False,False
+Andhra Pradesh,Visakhapatnam,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,78.0,76.5,True,False
+Andhra Pradesh,Visakhapatnam,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),75.9,93.5,True,False
+Andhra Pradesh,Visakhapatnam,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),95.8,100.0,True,False
+Andhra Pradesh,Visakhapatnam,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),93.6,97.9,True,False
+Andhra Pradesh,Visakhapatnam,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),78.0,76.5,True,False
+Andhra Pradesh,Visakhapatnam,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),91.6,90.5,True,False
+Andhra Pradesh,Visakhapatnam,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),93.6,95.1,True,False
+Andhra Pradesh,Visakhapatnam,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),57.6,32.3,True,False
+Andhra Pradesh,Visakhapatnam,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),84.1,89.5,True,False
+Andhra Pradesh,Visakhapatnam,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),85.2,72.9,True,False
+Andhra Pradesh,Visakhapatnam,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),91.2,91.3,False,False
+Andhra Pradesh,Visakhapatnam,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),92.1,83.8,True,False
+Andhra Pradesh,Visakhapatnam,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),6.0,9.7,True,False
+Andhra Pradesh,Visakhapatnam,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),8.1,8.1,False,False
+Andhra Pradesh,Visakhapatnam,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.6,2.0,False,False
+Andhra Pradesh,Visakhapatnam,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,72.3,True,False
+Andhra Pradesh,Visakhapatnam,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),74.8,64.3,False,False
+Andhra Pradesh,Visakhapatnam,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Andhra Pradesh,Visakhapatnam,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Andhra Pradesh,Visakhapatnam,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Andhra Pradesh,Visakhapatnam,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Andhra Pradesh,Visakhapatnam,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",8.1,6.9,True,False
+Andhra Pradesh,Visakhapatnam,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Andhra Pradesh,Visakhapatnam,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",15.2,11.8,False,False
+Andhra Pradesh,Visakhapatnam,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),25.7,31.0,False,False
+Andhra Pradesh,Visakhapatnam,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),10.4,21.5,False,False
+Andhra Pradesh,Visakhapatnam,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),3.8,11.2,False,False
+Andhra Pradesh,Visakhapatnam,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),24.0,33.5,False,False
+Andhra Pradesh,Visakhapatnam,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.5,4.8,False,False
+Andhra Pradesh,Visakhapatnam,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),10.5,17.4,False,False
+Andhra Pradesh,Visakhapatnam,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),45.9,23.8,False,False
+Andhra Pradesh,Visakhapatnam,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),6.4,6.1,False,False
+Andhra Pradesh,Visakhapatnam,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),10.5,8.6,False,False
+Andhra Pradesh,Visakhapatnam,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),19.0,17.0,False,False
+Andhra Pradesh,Visakhapatnam,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),8.1,7.3,False,False
+Andhra Pradesh,Visakhapatnam,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),10.2,8.5,False,False
+Andhra Pradesh,Visakhapatnam,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),20.6,18.2,False,False
+Andhra Pradesh,Visakhapatnam,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.6,12.1,False,False
+Andhra Pradesh,Visakhapatnam,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,7.2,5.9,False,False
+Andhra Pradesh,Visakhapatnam,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,26.0,23.9,False,False
+Andhra Pradesh,Visakhapatnam,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.6,17.0,False,False
+Andhra Pradesh,Visakhapatnam,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.0,7.0,False,False
+Andhra Pradesh,Visakhapatnam,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,27.0,29.2,False,False
+Andhra Pradesh,Visakhapatnam,Men,87,Women having a bank or savings account that they themselves use (%),90.7,91.0,False,False
+Andhra Pradesh,Visakhapatnam,Men,88,Women having a mobile phone that they themselves use (%),70.2,67.0,False,False
+Andhra Pradesh,Visakhapatnam,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),94.7,85.7,False,False
+Andhra Pradesh,Visakhapatnam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),5.7,6.3,False,False
+Andhra Pradesh,Visakhapatnam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),17.1,22.8,False,False
+Andhra Pradesh,Visakhapatnam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),2.8,1.3,False,False
+Andhra Pradesh,Visakhapatnam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),31.5,30.2,False,False
+Andhra Pradesh,Vizianagaram,Population and Household Profile,1,Population below age 5 years (%),5.2,6.6,False,False
+Andhra Pradesh,Vizianagaram,Population and Household Profile,2,Population below age 15 years (%),17.6,20.6,False,False
+Andhra Pradesh,Vizianagaram,Population and Household Profile,3,Population age 60 years and above (%),16.3,15.0,False,False
+Andhra Pradesh,Vizianagaram,Population and Household Profile,4,Population living in households with electricity (%),99.4,99.5,False,False
+Andhra Pradesh,Vizianagaram,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),97.9,93.1,False,False
+Andhra Pradesh,Vizianagaram,Population and Household Profile,6,Households using iodized salt (%),94.0,85.0,False,False
+Andhra Pradesh,Vizianagaram,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),92.3,89.6,False,False
+Andhra Pradesh,Vizianagaram,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.5,95.1,False,False
+Andhra Pradesh,Vizianagaram,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),60.4,56.0,False,False
+Andhra Pradesh,Vizianagaram,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),36.0,32.4,False,False
+Andhra Pradesh,Vizianagaram,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),58.3,80.2,False,False
+Andhra Pradesh,Vizianagaram,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),47.0,37.6,False,False
+Andhra Pradesh,Vizianagaram,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),64.6,44.3,False,False
+Andhra Pradesh,Vizianagaram,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),52.2,9.2,False,False
+Andhra Pradesh,Vizianagaram,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),74.6,40.1,False,False
+Andhra Pradesh,Vizianagaram,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),27.0,33.7,False,False
+Andhra Pradesh,Vizianagaram,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Andhra Pradesh,Vizianagaram,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),1.2,2.2,False,False
+Andhra Pradesh,Vizianagaram,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),10.8,12.7,False,False
+Andhra Pradesh,Vizianagaram,Marriage and Fertility,20,Any method2 (%),77.9,71.2,False,False
+Andhra Pradesh,Vizianagaram,Marriage and Fertility,21,Any modern method2 (%),75.3,71.2,False,False
+Andhra Pradesh,Vizianagaram,Marriage and Fertility,22,Any traditional method (%),2.6,0.0,False,False
+Andhra Pradesh,Vizianagaram,Marriage and Fertility,23,Female sterilization (%),71.2,69.3,False,False
+Andhra Pradesh,Vizianagaram,Marriage and Fertility,24,Male sterilization (%),1.5,1.3,False,False
+Andhra Pradesh,Vizianagaram,Marriage and Fertility,25,Total unmet need3 (%),4.4,6.7,False,False
+Andhra Pradesh,Vizianagaram,Marriage and Fertility,26,Unmet need for spacing3 (%),3.0,4.8,False,False
+Andhra Pradesh,Vizianagaram,Marriage and Fertility,27,Unmet need for limiting3 (%),1.4,1.9,False,False
+Andhra Pradesh,Vizianagaram,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),81.3,76.1,False,False
+Andhra Pradesh,Vizianagaram,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),96.1,99.3,False,False
+Andhra Pradesh,Vizianagaram,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),82.5,71.4,False,False
+Andhra Pradesh,Vizianagaram,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),90.8,91.3,False,False
+Andhra Pradesh,Vizianagaram,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),76.7,59.6,False,False
+Andhra Pradesh,Vizianagaram,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),33.2,32.4,False,False
+Andhra Pradesh,Vizianagaram,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,98.8,False,False
+Andhra Pradesh,Vizianagaram,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),94.8,99.0,False,False
+Andhra Pradesh,Vizianagaram,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),58.6,70.6,False,False
+Andhra Pradesh,Vizianagaram,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),96.0,97.6,False,False
+Andhra Pradesh,Vizianagaram,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),39.8,41.3,False,False
+Andhra Pradesh,Vizianagaram,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),61.7,70.3,False,False
+Andhra Pradesh,Vizianagaram,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),29.8,30.3,False,False
+Andhra Pradesh,Vizianagaram,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,88.5,83.9,False,False
+Andhra Pradesh,Vizianagaram,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Andhra Pradesh,Vizianagaram,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,88.1,89.2,False,False
+Andhra Pradesh,Vizianagaram,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,69.7,76.8,True,False
+Andhra Pradesh,Vizianagaram,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),88.9,*,True,False
+Andhra Pradesh,Vizianagaram,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),93.9,100.0,True,False
+Andhra Pradesh,Vizianagaram,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),93.9,100.0,True,False
+Andhra Pradesh,Vizianagaram,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),69.7,76.8,True,False
+Andhra Pradesh,Vizianagaram,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),74.8,90.3,True,False
+Andhra Pradesh,Vizianagaram,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),78.7,92.5,True,False
+Andhra Pradesh,Vizianagaram,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),64.7,42.1,True,False
+Andhra Pradesh,Vizianagaram,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),85.9,85.4,True,False
+Andhra Pradesh,Vizianagaram,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),69.1,77.3,True,False
+Andhra Pradesh,Vizianagaram,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),87.5,85.9,False,False
+Andhra Pradesh,Vizianagaram,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),92.7,100.0,True,False
+Andhra Pradesh,Vizianagaram,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),7.3,0.0,True,False
+Andhra Pradesh,Vizianagaram,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),8.2,7.5,False,False
+Andhra Pradesh,Vizianagaram,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.6,1.4,False,False
+Andhra Pradesh,Vizianagaram,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,83.5,True,False
+Andhra Pradesh,Vizianagaram,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),54.2,55.6,False,False
+Andhra Pradesh,Vizianagaram,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Andhra Pradesh,Vizianagaram,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Andhra Pradesh,Vizianagaram,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Andhra Pradesh,Vizianagaram,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Andhra Pradesh,Vizianagaram,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",32.3,2.5,True,False
+Andhra Pradesh,Vizianagaram,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Andhra Pradesh,Vizianagaram,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",24.8,1.8,True,False
+Andhra Pradesh,Vizianagaram,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),29.6,36.4,False,False
+Andhra Pradesh,Vizianagaram,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),17.9,19.2,False,False
+Andhra Pradesh,Vizianagaram,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),6.4,8.3,False,False
+Andhra Pradesh,Vizianagaram,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),39.1,32.2,False,False
+Andhra Pradesh,Vizianagaram,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.4,4.7,False,False
+Andhra Pradesh,Vizianagaram,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),10.6,16.9,False,False
+Andhra Pradesh,Vizianagaram,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),40.9,28.8,False,False
+Andhra Pradesh,Vizianagaram,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),9.6,6.2,False,False
+Andhra Pradesh,Vizianagaram,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),10.0,7.0,False,False
+Andhra Pradesh,Vizianagaram,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),21.3,14.3,False,False
+Andhra Pradesh,Vizianagaram,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),8.0,5.8,False,False
+Andhra Pradesh,Vizianagaram,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),12.6,7.5,False,False
+Andhra Pradesh,Vizianagaram,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),22.2,14.5,False,False
+Andhra Pradesh,Vizianagaram,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.8,12.8,False,False
+Andhra Pradesh,Vizianagaram,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,5.8,6.6,False,False
+Andhra Pradesh,Vizianagaram,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,25.2,25.2,False,False
+Andhra Pradesh,Vizianagaram,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.3,14.8,False,False
+Andhra Pradesh,Vizianagaram,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.8,6.4,False,False
+Andhra Pradesh,Vizianagaram,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,21.0,25.1,False,False
+Andhra Pradesh,Vizianagaram,Men,87,Women having a bank or savings account that they themselves use (%),93.1,89.4,False,False
+Andhra Pradesh,Vizianagaram,Men,88,Women having a mobile phone that they themselves use (%),56.4,32.8,False,False
+Andhra Pradesh,Vizianagaram,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),84.8,73.0,False,False
+Andhra Pradesh,Vizianagaram,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),6.9,11.4,False,False
+Andhra Pradesh,Vizianagaram,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),18.8,21.5,False,False
+Andhra Pradesh,Vizianagaram,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.9,0.8,False,False
+Andhra Pradesh,Vizianagaram,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),30.0,32.3,False,False
+Andhra Pradesh,West Godavari,Population and Household Profile,1,Population below age 5 years (%),5.8,6.6,False,False
+Andhra Pradesh,West Godavari,Population and Household Profile,2,Population below age 15 years (%),20.0,21.5,False,False
+Andhra Pradesh,West Godavari,Population and Household Profile,3,Population age 60 years and above (%),15.9,13.3,False,False
+Andhra Pradesh,West Godavari,Population and Household Profile,4,Population living in households with electricity (%),99.7,99.3,False,False
+Andhra Pradesh,West Godavari,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),98.9,99.1,False,False
+Andhra Pradesh,West Godavari,Population and Household Profile,6,Households using iodized salt (%),97.6,83.4,False,False
+Andhra Pradesh,West Godavari,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),94.5,75.8,False,False
+Andhra Pradesh,West Godavari,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.6,96.1,False,False
+Andhra Pradesh,West Godavari,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),77.7,75.4,False,False
+Andhra Pradesh,West Godavari,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),28.1,23.8,False,False
+Andhra Pradesh,West Godavari,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),75.1,81.6,False,False
+Andhra Pradesh,West Godavari,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),50.0,46.5,False,False
+Andhra Pradesh,West Godavari,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),57.2,45.8,False,False
+Andhra Pradesh,West Godavari,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),70.4,25.7,False,False
+Andhra Pradesh,West Godavari,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),83.6,50.9,False,False
+Andhra Pradesh,West Godavari,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),25.2,22.1,False,False
+Andhra Pradesh,West Godavari,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Andhra Pradesh,West Godavari,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),1.8,0.5,False,False
+Andhra Pradesh,West Godavari,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),9.7,13.4,False,False
+Andhra Pradesh,West Godavari,Marriage and Fertility,20,Any method2 (%),80.4,77.8,False,False
+Andhra Pradesh,West Godavari,Marriage and Fertility,21,Any modern method2 (%),79.8,77.2,False,False
+Andhra Pradesh,West Godavari,Marriage and Fertility,22,Any traditional method (%),0.6,0.6,False,False
+Andhra Pradesh,West Godavari,Marriage and Fertility,23,Female sterilization (%),76.3,74.5,False,False
+Andhra Pradesh,West Godavari,Marriage and Fertility,24,Male sterilization (%),1.0,0.7,False,False
+Andhra Pradesh,West Godavari,Marriage and Fertility,25,Total unmet need3 (%),3.3,3.0,False,False
+Andhra Pradesh,West Godavari,Marriage and Fertility,26,Unmet need for spacing3 (%),2.4,1.8,False,False
+Andhra Pradesh,West Godavari,Marriage and Fertility,27,Unmet need for limiting3 (%),0.9,1.2,False,False
+Andhra Pradesh,West Godavari,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),94.0,82.2,False,False
+Andhra Pradesh,West Godavari,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,99.2,False,False
+Andhra Pradesh,West Godavari,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),79.2,62.7,False,False
+Andhra Pradesh,West Godavari,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),97.6,95.3,False,False
+Andhra Pradesh,West Godavari,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),91.6,82.8,False,False
+Andhra Pradesh,West Godavari,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),55.9,43.7,False,False
+Andhra Pradesh,West Godavari,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,100.0,False,False
+Andhra Pradesh,West Godavari,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),98.7,98.7,False,False
+Andhra Pradesh,West Godavari,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),47.7,48.8,False,False
+Andhra Pradesh,West Godavari,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),99.4,98.5,False,False
+Andhra Pradesh,West Godavari,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),58.3,55.7,False,False
+Andhra Pradesh,West Godavari,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),62.0,72.0,False,False
+Andhra Pradesh,West Godavari,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),55.9,40.4,False,False
+Andhra Pradesh,West Godavari,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,100.0,94.8,False,False
+Andhra Pradesh,West Godavari,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Andhra Pradesh,West Godavari,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,98.5,96.4,False,False
+Andhra Pradesh,West Godavari,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,96.8,80.0,True,False
+Andhra Pradesh,West Godavari,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),97.2,87.0,True,False
+Andhra Pradesh,West Godavari,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,94.8,True,False
+Andhra Pradesh,West Godavari,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),100.0,94.8,True,False
+Andhra Pradesh,West Godavari,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),96.8,80.0,True,False
+Andhra Pradesh,West Godavari,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),100.0,89.0,True,False
+Andhra Pradesh,West Godavari,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),100.0,91.7,True,False
+Andhra Pradesh,West Godavari,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),96.7,81.8,True,False
+Andhra Pradesh,West Godavari,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),100.0,77.1,True,False
+Andhra Pradesh,West Godavari,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),100.0,77.7,True,False
+Andhra Pradesh,West Godavari,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),99.1,73.9,False,False
+Andhra Pradesh,West Godavari,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,100.0,True,False
+Andhra Pradesh,West Godavari,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,True,False
+Andhra Pradesh,West Godavari,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),8.0,2.7,False,False
+Andhra Pradesh,West Godavari,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,1.0,False,False
+Andhra Pradesh,West Godavari,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,71.9,True,False
+Andhra Pradesh,West Godavari,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),68.4,32.8,False,False
+Andhra Pradesh,West Godavari,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Andhra Pradesh,West Godavari,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Andhra Pradesh,West Godavari,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Andhra Pradesh,West Godavari,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Andhra Pradesh,West Godavari,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",27.1,4.9,True,False
+Andhra Pradesh,West Godavari,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Andhra Pradesh,West Godavari,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",32.3,3.5,True,False
+Andhra Pradesh,West Godavari,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),28.2,31.4,False,False
+Andhra Pradesh,West Godavari,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),12.8,11.7,False,False
+Andhra Pradesh,West Godavari,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),1.7,4.7,False,False
+Andhra Pradesh,West Godavari,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),18.0,22.5,False,False
+Andhra Pradesh,West Godavari,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),2.9,5.2,False,False
+Andhra Pradesh,West Godavari,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),10.8,10.1,False,False
+Andhra Pradesh,West Godavari,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),53.4,45.3,False,False
+Andhra Pradesh,West Godavari,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),6.2,7.3,False,False
+Andhra Pradesh,West Godavari,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),15.2,13.1,False,False
+Andhra Pradesh,West Godavari,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),24.5,23.8,False,False
+Andhra Pradesh,West Godavari,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),8.2,7.2,False,False
+Andhra Pradesh,West Godavari,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),15.6,10.4,False,False
+Andhra Pradesh,West Godavari,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),26.1,18.9,False,False
+Andhra Pradesh,West Godavari,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.9,14.4,False,False
+Andhra Pradesh,West Godavari,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.5,6.1,False,False
+Andhra Pradesh,West Godavari,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,30.8,28.8,False,False
+Andhra Pradesh,West Godavari,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.8,17.7,False,False
+Andhra Pradesh,West Godavari,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,8.5,8.7,False,False
+Andhra Pradesh,West Godavari,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,34.6,31.4,False,False
+Andhra Pradesh,West Godavari,Men,87,Women having a bank or savings account that they themselves use (%),93.4,77.4,False,False
+Andhra Pradesh,West Godavari,Men,88,Women having a mobile phone that they themselves use (%),68.5,58.3,False,False
+Andhra Pradesh,West Godavari,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),91.5,84.4,False,False
+Andhra Pradesh,West Godavari,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),1.8,2.2,False,False
+Andhra Pradesh,West Godavari,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),19.2,21.8,False,False
+Andhra Pradesh,West Godavari,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.2,0.2,False,False
+Andhra Pradesh,West Godavari,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),24.8,23.6,False,False
+Andhra Pradesh,Y.S.R.,Population and Household Profile,1,Population below age 5 years (%),7.4,7.5,False,False
+Andhra Pradesh,Y.S.R.,Population and Household Profile,2,Population below age 15 years (%),22.4,24.1,False,False
+Andhra Pradesh,Y.S.R.,Population and Household Profile,3,Population age 60 years and above (%),16.4,12.5,False,False
+Andhra Pradesh,Y.S.R.,Population and Household Profile,4,Population living in households with electricity (%),99.8,99.8,False,False
+Andhra Pradesh,Y.S.R.,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),99.5,99.9,False,False
+Andhra Pradesh,Y.S.R.,Population and Household Profile,6,Households using iodized salt (%),97.4,80.2,False,False
+Andhra Pradesh,Y.S.R.,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),95.1,82.7,False,False
+Andhra Pradesh,Y.S.R.,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),97.5,95.1,False,False
+Andhra Pradesh,Y.S.R.,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),66.2,61.9,False,False
+Andhra Pradesh,Y.S.R.,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),37.7,28.7,False,False
+Andhra Pradesh,Y.S.R.,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),65.6,82.6,False,False
+Andhra Pradesh,Y.S.R.,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),45.7,40.0,False,False
+Andhra Pradesh,Y.S.R.,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),66.8,55.4,False,False
+Andhra Pradesh,Y.S.R.,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),77.5,25.7,False,False
+Andhra Pradesh,Y.S.R.,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),93.4,65.1,False,False
+Andhra Pradesh,Y.S.R.,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),23.3,25.6,False,False
+Andhra Pradesh,Y.S.R.,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Andhra Pradesh,Y.S.R.,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),4.0,1.2,False,False
+Andhra Pradesh,Y.S.R.,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),6.9,10.9,False,False
+Andhra Pradesh,Y.S.R.,Marriage and Fertility,20,Any method2 (%),65.3,69.1,False,False
+Andhra Pradesh,Y.S.R.,Marriage and Fertility,21,Any modern method2 (%),63.4,68.4,False,False
+Andhra Pradesh,Y.S.R.,Marriage and Fertility,22,Any traditional method (%),1.9,0.7,False,False
+Andhra Pradesh,Y.S.R.,Marriage and Fertility,23,Female sterilization (%),61.0,68.1,False,False
+Andhra Pradesh,Y.S.R.,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Andhra Pradesh,Y.S.R.,Marriage and Fertility,25,Total unmet need3 (%),5.7,5.5,False,False
+Andhra Pradesh,Y.S.R.,Marriage and Fertility,26,Unmet need for spacing3 (%),3.6,3.0,False,False
+Andhra Pradesh,Y.S.R.,Marriage and Fertility,27,Unmet need for limiting3 (%),2.1,2.5,False,False
+Andhra Pradesh,Y.S.R.,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),88.1,84.4,False,False
+Andhra Pradesh,Y.S.R.,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),98.5,99.6,False,False
+Andhra Pradesh,Y.S.R.,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),84.7,82.8,False,False
+Andhra Pradesh,Y.S.R.,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),100.0,93.4,False,False
+Andhra Pradesh,Y.S.R.,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),80.5,71.2,False,False
+Andhra Pradesh,Y.S.R.,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),50.4,39.7,False,False
+Andhra Pradesh,Y.S.R.,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.4,97.7,False,False
+Andhra Pradesh,Y.S.R.,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),99.0,99.4,False,False
+Andhra Pradesh,Y.S.R.,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),36.1,40.7,False,False
+Andhra Pradesh,Y.S.R.,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),99.6,100.0,False,False
+Andhra Pradesh,Y.S.R.,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),44.0,36.2,False,False
+Andhra Pradesh,Y.S.R.,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),55.5,43.5,False,False
+Andhra Pradesh,Y.S.R.,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),25.2,26.2,False,False
+Andhra Pradesh,Y.S.R.,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,98.9,92.3,False,False
+Andhra Pradesh,Y.S.R.,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Andhra Pradesh,Y.S.R.,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,96.3,91.3,False,False
+Andhra Pradesh,Y.S.R.,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,90.2,83.0,False,False
+Andhra Pradesh,Y.S.R.,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),94.6,89.7,False,False
+Andhra Pradesh,Y.S.R.,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),97.0,92.0,False,False
+Andhra Pradesh,Y.S.R.,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),97.0,92.0,False,False
+Andhra Pradesh,Y.S.R.,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),90.2,84.9,False,False
+Andhra Pradesh,Y.S.R.,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),95.5,88.9,False,False
+Andhra Pradesh,Y.S.R.,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),93.5,88.7,False,False
+Andhra Pradesh,Y.S.R.,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),91.4,59.5,True,False
+Andhra Pradesh,Y.S.R.,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),95.0,89.0,False,False
+Andhra Pradesh,Y.S.R.,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),91.6,87.5,False,False
+Andhra Pradesh,Y.S.R.,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),90.3,90.1,False,False
+Andhra Pradesh,Y.S.R.,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),98.0,98.3,False,False
+Andhra Pradesh,Y.S.R.,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.0,1.7,False,False
+Andhra Pradesh,Y.S.R.,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.1,5.9,False,False
+Andhra Pradesh,Y.S.R.,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.2,2.3,False,False
+Andhra Pradesh,Y.S.R.,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,75.8,60.3,True,False
+Andhra Pradesh,Y.S.R.,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),69.3,48.3,False,False
+Andhra Pradesh,Y.S.R.,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,77.4,True,False
+Andhra Pradesh,Y.S.R.,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,96.8,True,False
+Andhra Pradesh,Y.S.R.,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,85.1,True,False
+Andhra Pradesh,Y.S.R.,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Andhra Pradesh,Y.S.R.,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",9.6,4.9,False,False
+Andhra Pradesh,Y.S.R.,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Andhra Pradesh,Y.S.R.,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",9.5,5.5,False,False
+Andhra Pradesh,Y.S.R.,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),17.9,34.4,False,False
+Andhra Pradesh,Y.S.R.,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),12.4,14.1,False,False
+Andhra Pradesh,Y.S.R.,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),1.7,4.2,False,False
+Andhra Pradesh,Y.S.R.,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),20.4,26.7,False,False
+Andhra Pradesh,Y.S.R.,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),2.0,0.2,False,False
+Andhra Pradesh,Y.S.R.,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),10.3,15.9,False,False
+Andhra Pradesh,Y.S.R.,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),45.2,33.9,False,False
+Andhra Pradesh,Y.S.R.,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),7.0,8.4,False,False
+Andhra Pradesh,Y.S.R.,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),10.0,8.7,False,False
+Andhra Pradesh,Y.S.R.,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),19.5,18.4,False,False
+Andhra Pradesh,Y.S.R.,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),9.0,9.9,False,False
+Andhra Pradesh,Y.S.R.,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),11.6,10.6,False,False
+Andhra Pradesh,Y.S.R.,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),24.8,22.3,False,False
+Andhra Pradesh,Y.S.R.,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.3,13.5,False,False
+Andhra Pradesh,Y.S.R.,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,7.5,5.7,False,False
+Andhra Pradesh,Y.S.R.,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,24.9,23.2,False,False
+Andhra Pradesh,Y.S.R.,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.0,17.8,False,False
+Andhra Pradesh,Y.S.R.,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,9.7,6.9,False,False
+Andhra Pradesh,Y.S.R.,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,27.8,27.3,False,False
+Andhra Pradesh,Y.S.R.,Men,87,Women having a bank or savings account that they themselves use (%),93.5,83.1,False,False
+Andhra Pradesh,Y.S.R.,Men,88,Women having a mobile phone that they themselves use (%),66.7,59.7,False,False
+Andhra Pradesh,Y.S.R.,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),99.1,92.5,False,False
+Andhra Pradesh,Y.S.R.,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),3.9,3.1,False,False
+Andhra Pradesh,Y.S.R.,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),18.1,18.0,False,False
+Andhra Pradesh,Y.S.R.,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.1,0.2,False,False
+Andhra Pradesh,Y.S.R.,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),19.9,16.0,False,False

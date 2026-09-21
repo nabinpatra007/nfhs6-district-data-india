@@ -1,0 +1,745 @@
+state,district,category,indicator_no,indicator,nfhs6_value,nfhs5_value,small_sample_flag,boundary_change_single_round
+Mizoram,Aizawl,Population and Household Profile,1,Population below age 5 years (%),6.5,7.1,False,False
+Mizoram,Aizawl,Population and Household Profile,2,Population below age 15 years (%),22.9,25.1,False,False
+Mizoram,Aizawl,Population and Household Profile,3,Population age 60 years and above (%),12.2,9.9,False,False
+Mizoram,Aizawl,Population and Household Profile,4,Population living in households with electricity (%),99.8,99.7,False,False
+Mizoram,Aizawl,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),98.7,98.3,False,False
+Mizoram,Aizawl,Population and Household Profile,6,Households using iodized salt (%),99.6,99.2,False,False
+Mizoram,Aizawl,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),47.2,41.4,False,False
+Mizoram,Aizawl,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),96.9,95.2,False,False
+Mizoram,Aizawl,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),99.2,97.8,False,False
+Mizoram,Aizawl,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),15.0,13.3,False,False
+Mizoram,Aizawl,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),42.5,39.8,False,False
+Mizoram,Aizawl,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),66.5,60.7,False,False
+Mizoram,Aizawl,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),64.1,57.1,False,False
+Mizoram,Aizawl,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),92.8,81.4,False,False
+Mizoram,Aizawl,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),98.1,91.1,False,False
+Mizoram,Aizawl,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),5.2,3.2,False,False
+Mizoram,Aizawl,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,6.5,True,False
+Mizoram,Aizawl,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.8,0.9,False,False
+Mizoram,Aizawl,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),4.7,2.0,False,False
+Mizoram,Aizawl,Marriage and Fertility,20,Any method2 (%),61.3,21.6,False,False
+Mizoram,Aizawl,Marriage and Fertility,21,Any modern method2 (%),56.3,21.0,False,False
+Mizoram,Aizawl,Marriage and Fertility,22,Any traditional method (%),5.0,0.6,False,False
+Mizoram,Aizawl,Marriage and Fertility,23,Female sterilization (%),29.2,6.9,False,False
+Mizoram,Aizawl,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Mizoram,Aizawl,Marriage and Fertility,25,Total unmet need3 (%),10.9,24.0,False,False
+Mizoram,Aizawl,Marriage and Fertility,26,Unmet need for spacing3 (%),9.6,14.0,False,False
+Mizoram,Aizawl,Marriage and Fertility,27,Unmet need for limiting3 (%),1.3,10.0,False,False
+Mizoram,Aizawl,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),81.0,82.8,False,False
+Mizoram,Aizawl,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),98.5,83.0,False,False
+Mizoram,Aizawl,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),84.9,68.5,False,False
+Mizoram,Aizawl,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),90.3,82.3,False,False
+Mizoram,Aizawl,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),65.7,58.5,False,False
+Mizoram,Aizawl,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),33.4,12.1,False,False
+Mizoram,Aizawl,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.0,93.1,False,False
+Mizoram,Aizawl,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),98.3,97.4,False,False
+Mizoram,Aizawl,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),67.5,76.3,False,False
+Mizoram,Aizawl,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),99.2,97.8,False,False
+Mizoram,Aizawl,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),21.4,18.2,False,False
+Mizoram,Aizawl,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),33.7,34.6,False,False
+Mizoram,Aizawl,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),16.3,14.2,False,False
+Mizoram,Aizawl,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,86.7,73.4,False,False
+Mizoram,Aizawl,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Mizoram,Aizawl,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,90.7,33.2,False,False
+Mizoram,Aizawl,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,62.5,66.4,True,False
+Mizoram,Aizawl,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),60.8,76.3,True,False
+Mizoram,Aizawl,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),96.3,83.9,True,False
+Mizoram,Aizawl,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),91.2,81.6,True,False
+Mizoram,Aizawl,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),84.8,68.7,True,False
+Mizoram,Aizawl,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),71.9,79.4,True,False
+Mizoram,Aizawl,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),86.1,77.9,True,False
+Mizoram,Aizawl,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),46.4,47.7,True,False
+Mizoram,Aizawl,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),86.2,56.5,True,False
+Mizoram,Aizawl,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),84.5,16.6,True,False
+Mizoram,Aizawl,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),79.7,71.6,False,False
+Mizoram,Aizawl,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),92.5,93.7,True,False
+Mizoram,Aizawl,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),7.5,6.3,True,False
+Mizoram,Aizawl,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.3,7.1,False,False
+Mizoram,Aizawl,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.3,0.8,False,False
+Mizoram,Aizawl,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,43.9,57.3,True,False
+Mizoram,Aizawl,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),59.6,58.5,False,False
+Mizoram,Aizawl,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),52.2,*,True,False
+Mizoram,Aizawl,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),91.0,*,True,False
+Mizoram,Aizawl,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,85.4,*,True,False
+Mizoram,Aizawl,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Mizoram,Aizawl,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",10.3,17.0,False,False
+Mizoram,Aizawl,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Mizoram,Aizawl,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",10.4,17.9,False,False
+Mizoram,Aizawl,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),23.1,25.3,False,False
+Mizoram,Aizawl,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),7.4,7.3,False,False
+Mizoram,Aizawl,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),4.0,2.4,False,False
+Mizoram,Aizawl,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),8.2,9.6,False,False
+Mizoram,Aizawl,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),12.6,12.3,False,False
+Mizoram,Aizawl,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),4.5,3.8,False,False
+Mizoram,Aizawl,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),35.6,29.7,False,False
+Mizoram,Aizawl,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),6.0,6.8,False,False
+Mizoram,Aizawl,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),7.6,6.8,False,False
+Mizoram,Aizawl,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),15.3,15.2,False,False
+Mizoram,Aizawl,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),5.2,7.2,False,False
+Mizoram,Aizawl,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),7.2,6.8,False,False
+Mizoram,Aizawl,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),13.6,17.3,False,False
+Mizoram,Aizawl,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.4,14.0,False,False
+Mizoram,Aizawl,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,2.9,2.7,False,False
+Mizoram,Aizawl,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,16.1,23.4,False,False
+Mizoram,Aizawl,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.7,19.8,False,False
+Mizoram,Aizawl,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.3,6.8,False,False
+Mizoram,Aizawl,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,17.8,33.6,False,False
+Mizoram,Aizawl,Men,87,Women having a bank or savings account that they themselves use (%),93.4,80.4,False,False
+Mizoram,Aizawl,Men,88,Women having a mobile phone that they themselves use (%),95.7,89.6,False,False
+Mizoram,Aizawl,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),100.0,92.7,False,False
+Mizoram,Aizawl,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),53.9,54.7,False,False
+Mizoram,Aizawl,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),66.1,68.7,False,False
+Mizoram,Aizawl,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.7,1.0,False,False
+Mizoram,Aizawl,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),19.5,25.8,False,False
+Mizoram,Champhai,Population and Household Profile,1,Population below age 5 years (%),7.8,7.3,False,False
+Mizoram,Champhai,Population and Household Profile,2,Population below age 15 years (%),28.0,27.2,False,False
+Mizoram,Champhai,Population and Household Profile,3,Population age 60 years and above (%),12.7,11.7,False,False
+Mizoram,Champhai,Population and Household Profile,4,Population living in households with electricity (%),99.9,100.0,False,False
+Mizoram,Champhai,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),99.5,98.6,False,False
+Mizoram,Champhai,Population and Household Profile,6,Households using iodized salt (%),99.4,99.8,False,False
+Mizoram,Champhai,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),68.3,70.0,False,False
+Mizoram,Champhai,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),97.3,96.2,False,False
+Mizoram,Champhai,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),97.2,93.3,False,False
+Mizoram,Champhai,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),22.2,16.5,False,False
+Mizoram,Champhai,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),45.5,42.2,False,False
+Mizoram,Champhai,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),49.1,47.8,False,False
+Mizoram,Champhai,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),51.7,33.2,False,False
+Mizoram,Champhai,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),86.1,69.8,False,False
+Mizoram,Champhai,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),92.8,76.1,False,False
+Mizoram,Champhai,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),7.4,11.0,False,False
+Mizoram,Champhai,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Mizoram,Champhai,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),1.2,1.4,False,False
+Mizoram,Champhai,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),5.9,4.6,False,False
+Mizoram,Champhai,Marriage and Fertility,20,Any method2 (%),72.8,50.0,False,False
+Mizoram,Champhai,Marriage and Fertility,21,Any modern method2 (%),68.9,49.6,False,False
+Mizoram,Champhai,Marriage and Fertility,22,Any traditional method (%),3.9,0.4,False,False
+Mizoram,Champhai,Marriage and Fertility,23,Female sterilization (%),31.1,22.5,False,False
+Mizoram,Champhai,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Mizoram,Champhai,Marriage and Fertility,25,Total unmet need3 (%),6.0,11.2,False,False
+Mizoram,Champhai,Marriage and Fertility,26,Unmet need for spacing3 (%),5.5,8.2,False,False
+Mizoram,Champhai,Marriage and Fertility,27,Unmet need for limiting3 (%),0.5,3.0,False,False
+Mizoram,Champhai,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),71.6,80.0,False,False
+Mizoram,Champhai,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),97.6,85.9,False,False
+Mizoram,Champhai,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),75.6,63.4,False,False
+Mizoram,Champhai,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),93.4,85.9,False,False
+Mizoram,Champhai,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),85.9,74.3,False,False
+Mizoram,Champhai,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),49.2,12.5,False,False
+Mizoram,Champhai,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.6,100.0,False,False
+Mizoram,Champhai,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),94.9,96.7,False,False
+Mizoram,Champhai,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),85.1,91.5,False,False
+Mizoram,Champhai,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),95.8,97.5,False,False
+Mizoram,Champhai,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),7.6,6.6,False,False
+Mizoram,Champhai,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),33.4,*,True,False
+Mizoram,Champhai,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),5.0,5.8,False,False
+Mizoram,Champhai,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,84.5,72.3,False,False
+Mizoram,Champhai,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Mizoram,Champhai,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,87.7,52.1,False,False
+Mizoram,Champhai,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,80.0,85.3,True,False
+Mizoram,Champhai,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),81.2,87.0,True,False
+Mizoram,Champhai,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),96.7,97.6,True,False
+Mizoram,Champhai,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),90.9,97.6,True,False
+Mizoram,Champhai,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),92.0,87.7,True,False
+Mizoram,Champhai,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),82.8,90.5,True,False
+Mizoram,Champhai,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),93.3,92.7,True,False
+Mizoram,Champhai,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),52.3,71.5,True,False
+Mizoram,Champhai,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),86.8,95.3,True,False
+Mizoram,Champhai,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),87.4,2.4,True,False
+Mizoram,Champhai,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),78.7,63.1,False,False
+Mizoram,Champhai,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,100.0,True,False
+Mizoram,Champhai,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,True,False
+Mizoram,Champhai,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.8,0.8,False,False
+Mizoram,Champhai,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.8,0.0,False,False
+Mizoram,Champhai,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,42.4,*,True,False
+Mizoram,Champhai,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),61.6,70.7,False,False
+Mizoram,Champhai,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),80.8,*,True,False
+Mizoram,Champhai,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),100.0,*,True,False
+Mizoram,Champhai,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,96.9,*,True,False
+Mizoram,Champhai,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Mizoram,Champhai,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",4.9,3.5,False,False
+Mizoram,Champhai,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Mizoram,Champhai,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",6.3,5.6,False,False
+Mizoram,Champhai,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),26.0,27.2,False,False
+Mizoram,Champhai,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),6.9,12.1,False,False
+Mizoram,Champhai,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),2.1,7.6,False,False
+Mizoram,Champhai,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),14.0,13.1,False,False
+Mizoram,Champhai,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),6.6,10.6,False,False
+Mizoram,Champhai,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),6.9,5.8,False,False
+Mizoram,Champhai,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),22.4,22.9,False,False
+Mizoram,Champhai,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),6.3,6.9,False,False
+Mizoram,Champhai,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),7.8,5.8,False,False
+Mizoram,Champhai,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),15.3,13.4,False,False
+Mizoram,Champhai,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),6.4,7.4,False,False
+Mizoram,Champhai,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),6.9,6.1,False,False
+Mizoram,Champhai,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),14.9,13.9,False,False
+Mizoram,Champhai,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.6,9.0,False,False
+Mizoram,Champhai,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,2.1,4.5,False,False
+Mizoram,Champhai,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,14.4,16.1,False,False
+Mizoram,Champhai,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.3,13.9,False,False
+Mizoram,Champhai,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,3.6,3.9,False,False
+Mizoram,Champhai,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,20.8,19.6,False,False
+Mizoram,Champhai,Men,87,Women having a bank or savings account that they themselves use (%),93.8,82.7,False,False
+Mizoram,Champhai,Men,88,Women having a mobile phone that they themselves use (%),91.4,86.5,False,False
+Mizoram,Champhai,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),100.0,95.0,False,False
+Mizoram,Champhai,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),65.3,66.7,False,False
+Mizoram,Champhai,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),76.6,74.5,False,False
+Mizoram,Champhai,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),1.0,1.6,False,False
+Mizoram,Champhai,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),25.5,21.3,False,False
+Mizoram,Kolasib,Population and Household Profile,1,Population below age 5 years (%),9.3,8.9,False,False
+Mizoram,Kolasib,Population and Household Profile,2,Population below age 15 years (%),27.6,28.6,False,False
+Mizoram,Kolasib,Population and Household Profile,3,Population age 60 years and above (%),10.4,11.5,False,False
+Mizoram,Kolasib,Population and Household Profile,4,Population living in households with electricity (%),99.7,99.1,False,False
+Mizoram,Kolasib,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),99.5,95.3,False,False
+Mizoram,Kolasib,Population and Household Profile,6,Households using iodized salt (%),99.7,99.7,False,False
+Mizoram,Kolasib,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),56.2,66.2,False,False
+Mizoram,Kolasib,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.8,97.1,False,False
+Mizoram,Kolasib,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),96.3,93.9,False,False
+Mizoram,Kolasib,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),21.9,17.1,False,False
+Mizoram,Kolasib,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),42.5,43.1,False,False
+Mizoram,Kolasib,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),48.0,41.7,False,False
+Mizoram,Kolasib,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),46.4,43.2,False,False
+Mizoram,Kolasib,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),74.0,67.1,False,False
+Mizoram,Kolasib,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),76.3,93.1,False,False
+Mizoram,Kolasib,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),6.0,13.7,False,False
+Mizoram,Kolasib,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Mizoram,Kolasib,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),2.8,1.6,False,False
+Mizoram,Kolasib,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),4.9,2.2,False,False
+Mizoram,Kolasib,Marriage and Fertility,20,Any method2 (%),60.0,38.1,False,False
+Mizoram,Kolasib,Marriage and Fertility,21,Any modern method2 (%),57.9,37.9,False,False
+Mizoram,Kolasib,Marriage and Fertility,22,Any traditional method (%),2.1,0.2,False,False
+Mizoram,Kolasib,Marriage and Fertility,23,Female sterilization (%),26.6,16.7,False,False
+Mizoram,Kolasib,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Mizoram,Kolasib,Marriage and Fertility,25,Total unmet need3 (%),9.7,15.6,False,False
+Mizoram,Kolasib,Marriage and Fertility,26,Unmet need for spacing3 (%),6.8,11.7,False,False
+Mizoram,Kolasib,Marriage and Fertility,27,Unmet need for limiting3 (%),2.9,3.9,False,False
+Mizoram,Kolasib,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),74.5,72.7,False,False
+Mizoram,Kolasib,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),98.2,85.9,False,False
+Mizoram,Kolasib,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),65.7,66.0,False,False
+Mizoram,Kolasib,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),93.0,76.4,False,False
+Mizoram,Kolasib,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),81.4,67.7,False,False
+Mizoram,Kolasib,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),46.0,13.3,False,False
+Mizoram,Kolasib,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.7,97.8,False,False
+Mizoram,Kolasib,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),95.2,91.4,False,False
+Mizoram,Kolasib,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),84.6,82.9,False,False
+Mizoram,Kolasib,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),96.0,93.2,False,False
+Mizoram,Kolasib,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),8.5,8.4,False,False
+Mizoram,Kolasib,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),25.5,26.2,True,False
+Mizoram,Kolasib,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),6.8,7.5,False,False
+Mizoram,Kolasib,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,89.7,71.5,False,False
+Mizoram,Kolasib,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,15.3,True,False
+Mizoram,Kolasib,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,91.3,41.8,False,False
+Mizoram,Kolasib,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,49.0,80.4,False,False
+Mizoram,Kolasib,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),50.4,91.4,False,False
+Mizoram,Kolasib,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),95.6,92.5,False,False
+Mizoram,Kolasib,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),91.5,88.1,False,False
+Mizoram,Kolasib,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),71.3,90.9,False,False
+Mizoram,Kolasib,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),60.8,85.2,False,False
+Mizoram,Kolasib,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),84.4,83.1,False,False
+Mizoram,Kolasib,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),56.3,61.7,False,False
+Mizoram,Kolasib,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),85.7,74.1,False,False
+Mizoram,Kolasib,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),84.6,0.0,False,False
+Mizoram,Kolasib,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),80.7,65.7,False,False
+Mizoram,Kolasib,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),98.6,97.4,False,False
+Mizoram,Kolasib,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,False,False
+Mizoram,Kolasib,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.0,1.2,False,False
+Mizoram,Kolasib,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,0.9,False,False
+Mizoram,Kolasib,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,31.8,*,True,False
+Mizoram,Kolasib,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),39.3,63.0,False,False
+Mizoram,Kolasib,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),78.4,73.4,True,False
+Mizoram,Kolasib,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),100.0,95.0,True,False
+Mizoram,Kolasib,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,92.0,83.9,True,False
+Mizoram,Kolasib,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Mizoram,Kolasib,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",10.3,24.5,False,False
+Mizoram,Kolasib,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Mizoram,Kolasib,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",10.4,23.2,False,False
+Mizoram,Kolasib,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),23.5,30.4,False,False
+Mizoram,Kolasib,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),8.5,11.3,False,False
+Mizoram,Kolasib,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),3.7,5.3,False,False
+Mizoram,Kolasib,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),12.9,12.6,False,False
+Mizoram,Kolasib,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),12.0,7.6,False,False
+Mizoram,Kolasib,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),4.7,5.9,False,False
+Mizoram,Kolasib,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),23.9,26.0,False,False
+Mizoram,Kolasib,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),7.0,9.0,False,False
+Mizoram,Kolasib,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),4.7,5.8,False,False
+Mizoram,Kolasib,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),12.1,15.7,False,False
+Mizoram,Kolasib,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),7.1,6.6,False,False
+Mizoram,Kolasib,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),5.9,6.6,False,False
+Mizoram,Kolasib,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),13.5,13.8,False,False
+Mizoram,Kolasib,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),4.2,10.3,False,False
+Mizoram,Kolasib,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,2.1,4.0,False,False
+Mizoram,Kolasib,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,8.6,16.5,False,False
+Mizoram,Kolasib,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),9.5,16.9,False,False
+Mizoram,Kolasib,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,3.2,5.7,False,False
+Mizoram,Kolasib,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,15.0,24.3,False,False
+Mizoram,Kolasib,Men,87,Women having a bank or savings account that they themselves use (%),94.8,87.4,False,False
+Mizoram,Kolasib,Men,88,Women having a mobile phone that they themselves use (%),90.9,87.0,False,False
+Mizoram,Kolasib,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),99.8,94.3,False,False
+Mizoram,Kolasib,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),66.1,70.6,False,False
+Mizoram,Kolasib,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),77.1,75.3,False,False
+Mizoram,Kolasib,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),1.4,0.9,False,False
+Mizoram,Kolasib,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),27.4,21.7,False,False
+Mizoram,Lawngtlai,Population and Household Profile,1,Population below age 5 years (%),5.8,10.2,False,False
+Mizoram,Lawngtlai,Population and Household Profile,2,Population below age 15 years (%),24.2,32.8,False,False
+Mizoram,Lawngtlai,Population and Household Profile,3,Population age 60 years and above (%),8.7,7.6,False,False
+Mizoram,Lawngtlai,Population and Household Profile,4,Population living in households with electricity (%),87.7,89.0,False,False
+Mizoram,Lawngtlai,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),97.6,82.2,False,False
+Mizoram,Lawngtlai,Population and Household Profile,6,Households using iodized salt (%),99.6,97.0,False,False
+Mizoram,Lawngtlai,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),59.0,34.2,False,False
+Mizoram,Lawngtlai,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.7,95.3,False,False
+Mizoram,Lawngtlai,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),86.6,79.9,False,False
+Mizoram,Lawngtlai,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),14.1,10.9,False,False
+Mizoram,Lawngtlai,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),26.9,26.8,False,False
+Mizoram,Lawngtlai,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),38.8,32.2,False,False
+Mizoram,Lawngtlai,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),42.6,53.3,False,False
+Mizoram,Lawngtlai,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),68.9,46.9,False,False
+Mizoram,Lawngtlai,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),75.4,58.8,False,False
+Mizoram,Lawngtlai,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),4.8,16.0,False,False
+Mizoram,Lawngtlai,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Mizoram,Lawngtlai,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.3,2.6,False,False
+Mizoram,Lawngtlai,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),6.4,9.2,False,False
+Mizoram,Lawngtlai,Marriage and Fertility,20,Any method2 (%),64.6,29.7,False,False
+Mizoram,Lawngtlai,Marriage and Fertility,21,Any modern method2 (%),62.4,29.1,False,False
+Mizoram,Lawngtlai,Marriage and Fertility,22,Any traditional method (%),2.2,0.6,False,False
+Mizoram,Lawngtlai,Marriage and Fertility,23,Female sterilization (%),21.8,12.2,False,False
+Mizoram,Lawngtlai,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Mizoram,Lawngtlai,Marriage and Fertility,25,Total unmet need3 (%),5.9,17.3,False,False
+Mizoram,Lawngtlai,Marriage and Fertility,26,Unmet need for spacing3 (%),5.5,13.0,False,False
+Mizoram,Lawngtlai,Marriage and Fertility,27,Unmet need for limiting3 (%),0.4,4.3,False,False
+Mizoram,Lawngtlai,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),73.6,51.5,False,False
+Mizoram,Lawngtlai,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),97.6,62.6,False,False
+Mizoram,Lawngtlai,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),64.2,33.0,False,False
+Mizoram,Lawngtlai,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),96.2,72.3,False,False
+Mizoram,Lawngtlai,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),83.2,50.7,False,False
+Mizoram,Lawngtlai,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),42.1,7.4,False,False
+Mizoram,Lawngtlai,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.5,93.8,False,False
+Mizoram,Lawngtlai,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),68.3,53.7,False,False
+Mizoram,Lawngtlai,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),59.3,48.4,False,False
+Mizoram,Lawngtlai,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),72.7,59.9,False,False
+Mizoram,Lawngtlai,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),6.9,3.9,False,False
+Mizoram,Lawngtlai,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),*,*,True,False
+Mizoram,Lawngtlai,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),4.6,5.4,False,False
+Mizoram,Lawngtlai,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,63.9,46.2,False,False
+Mizoram,Lawngtlai,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),4.4,0.7,False,False
+Mizoram,Lawngtlai,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,67.1,28.4,False,False
+Mizoram,Lawngtlai,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,85.5,70.2,True,False
+Mizoram,Lawngtlai,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),85.4,91.7,True,False
+Mizoram,Lawngtlai,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),96.0,80.7,True,False
+Mizoram,Lawngtlai,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),96.0,75.6,True,False
+Mizoram,Lawngtlai,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),91.8,75.3,True,False
+Mizoram,Lawngtlai,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),85.5,74.1,True,False
+Mizoram,Lawngtlai,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),91.5,76.8,True,False
+Mizoram,Lawngtlai,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),67.1,43.9,False,False
+Mizoram,Lawngtlai,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),88.6,48.9,True,False
+Mizoram,Lawngtlai,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),88.0,0.0,True,False
+Mizoram,Lawngtlai,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),75.3,55.1,False,False
+Mizoram,Lawngtlai,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,96.9,True,False
+Mizoram,Lawngtlai,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,True,False
+Mizoram,Lawngtlai,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.9,2.7,False,False
+Mizoram,Lawngtlai,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.4,0.5,False,False
+Mizoram,Lawngtlai,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,*,True,False
+Mizoram,Lawngtlai,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),78.7,60.9,False,False
+Mizoram,Lawngtlai,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,64.4,True,False
+Mizoram,Lawngtlai,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,100.0,True,False
+Mizoram,Lawngtlai,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,84.5,True,False
+Mizoram,Lawngtlai,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Mizoram,Lawngtlai,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",2.2,7.4,False,False
+Mizoram,Lawngtlai,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Mizoram,Lawngtlai,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",2.0,9.2,False,False
+Mizoram,Lawngtlai,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),32.0,32.7,False,False
+Mizoram,Lawngtlai,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),7.2,16.2,False,False
+Mizoram,Lawngtlai,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),3.5,11.4,False,False
+Mizoram,Lawngtlai,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),15.6,16.9,False,False
+Mizoram,Lawngtlai,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),7.2,9.1,False,False
+Mizoram,Lawngtlai,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),6.7,7.1,False,False
+Mizoram,Lawngtlai,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),13.7,14.1,False,False
+Mizoram,Lawngtlai,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),7.2,6.6,False,False
+Mizoram,Lawngtlai,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),6.1,4.3,False,False
+Mizoram,Lawngtlai,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),14.0,11.4,False,False
+Mizoram,Lawngtlai,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),8.0,9.0,False,False
+Mizoram,Lawngtlai,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),5.1,5.5,False,False
+Mizoram,Lawngtlai,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),13.4,15.4,False,False
+Mizoram,Lawngtlai,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.3,8.1,False,False
+Mizoram,Lawngtlai,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.2,3.2,False,False
+Mizoram,Lawngtlai,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,17.7,13.0,False,False
+Mizoram,Lawngtlai,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.2,12.9,False,False
+Mizoram,Lawngtlai,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,5.1,5.4,False,False
+Mizoram,Lawngtlai,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,20.7,20.3,False,False
+Mizoram,Lawngtlai,Men,87,Women having a bank or savings account that they themselves use (%),92.1,73.6,False,False
+Mizoram,Lawngtlai,Men,88,Women having a mobile phone that they themselves use (%),84.8,64.9,False,False
+Mizoram,Lawngtlai,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),96.9,71.0,False,False
+Mizoram,Lawngtlai,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),60.2,65.4,False,False
+Mizoram,Lawngtlai,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),75.0,77.2,False,False
+Mizoram,Lawngtlai,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.8,0.9,False,False
+Mizoram,Lawngtlai,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),31.9,27.2,False,False
+Mizoram,Lunglei,Population and Household Profile,1,Population below age 5 years (%),4.7,6.3,False,False
+Mizoram,Lunglei,Population and Household Profile,2,Population below age 15 years (%),21.9,24.6,False,False
+Mizoram,Lunglei,Population and Household Profile,3,Population age 60 years and above (%),11.2,11.3,False,False
+Mizoram,Lunglei,Population and Household Profile,4,Population living in households with electricity (%),98.8,98.0,False,False
+Mizoram,Lunglei,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),99.0,96.0,False,False
+Mizoram,Lunglei,Population and Household Profile,6,Households using iodized salt (%),100.0,99.0,False,False
+Mizoram,Lunglei,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),75.6,48.9,False,False
+Mizoram,Lunglei,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.5,95.5,False,False
+Mizoram,Lunglei,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),93.2,89.8,False,False
+Mizoram,Lunglei,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),16.2,16.0,False,False
+Mizoram,Lunglei,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),44.0,39.6,False,False
+Mizoram,Lunglei,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),56.8,46.3,False,False
+Mizoram,Lunglei,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),49.1,50.2,False,False
+Mizoram,Lunglei,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),78.6,56.3,False,False
+Mizoram,Lunglei,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),90.3,75.5,False,False
+Mizoram,Lunglei,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),3.3,4.8,False,False
+Mizoram,Lunglei,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Mizoram,Lunglei,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.3,0.8,False,False
+Mizoram,Lunglei,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.7,3.8,False,False
+Mizoram,Lunglei,Marriage and Fertility,20,Any method2 (%),68.0,33.0,False,False
+Mizoram,Lunglei,Marriage and Fertility,21,Any modern method2 (%),67.0,33.0,False,False
+Mizoram,Lunglei,Marriage and Fertility,22,Any traditional method (%),1.0,0.0,False,False
+Mizoram,Lunglei,Marriage and Fertility,23,Female sterilization (%),40.1,18.8,False,False
+Mizoram,Lunglei,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Mizoram,Lunglei,Marriage and Fertility,25,Total unmet need3 (%),5.9,15.4,False,False
+Mizoram,Lunglei,Marriage and Fertility,26,Unmet need for spacing3 (%),5.7,12.5,False,False
+Mizoram,Lunglei,Marriage and Fertility,27,Unmet need for limiting3 (%),0.2,2.9,False,False
+Mizoram,Lunglei,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),84.0,68.8,False,False
+Mizoram,Lunglei,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),94.8,76.3,False,False
+Mizoram,Lunglei,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),68.5,56.7,False,False
+Mizoram,Lunglei,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),98.9,79.9,False,False
+Mizoram,Lunglei,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),86.7,64.7,False,False
+Mizoram,Lunglei,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),44.0,9.7,False,False
+Mizoram,Lunglei,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.4,99.2,False,False
+Mizoram,Lunglei,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),91.6,82.7,False,False
+Mizoram,Lunglei,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),77.8,69.4,False,False
+Mizoram,Lunglei,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),92.0,80.2,False,False
+Mizoram,Lunglei,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),16.2,5.4,False,False
+Mizoram,Lunglei,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),49.8,9.2,True,False
+Mizoram,Lunglei,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),11.9,6.0,False,False
+Mizoram,Lunglei,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,87.1,67.1,False,False
+Mizoram,Lunglei,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,0.0,True,False
+Mizoram,Lunglei,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,88.2,39.4,False,False
+Mizoram,Lunglei,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,84.7,73.8,True,False
+Mizoram,Lunglei,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),86.8,84.1,True,False
+Mizoram,Lunglei,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),97.6,87.6,True,False
+Mizoram,Lunglei,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),97.6,79.3,True,False
+Mizoram,Lunglei,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),95.1,82.2,True,False
+Mizoram,Lunglei,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),84.7,85.0,True,False
+Mizoram,Lunglei,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),94.9,85.0,True,False
+Mizoram,Lunglei,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),83.7,41.9,True,False
+Mizoram,Lunglei,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),97.6,43.0,True,False
+Mizoram,Lunglei,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),95.1,0.0,True,False
+Mizoram,Lunglei,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),87.9,61.3,False,False
+Mizoram,Lunglei,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,100.0,True,False
+Mizoram,Lunglei,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,True,False
+Mizoram,Lunglei,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),0.5,4.0,False,False
+Mizoram,Lunglei,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.5,0.8,False,False
+Mizoram,Lunglei,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,*,True,False
+Mizoram,Lunglei,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),65.6,63.8,False,False
+Mizoram,Lunglei,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Mizoram,Lunglei,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Mizoram,Lunglei,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Mizoram,Lunglei,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Mizoram,Lunglei,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",12.1,7.4,True,False
+Mizoram,Lunglei,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Mizoram,Lunglei,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",11.2,9.4,False,False
+Mizoram,Lunglei,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),24.5,26.5,False,False
+Mizoram,Lunglei,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),7.4,9.5,False,False
+Mizoram,Lunglei,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),3.3,3.3,False,False
+Mizoram,Lunglei,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),16.6,11.1,False,False
+Mizoram,Lunglei,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),6.4,10.1,False,False
+Mizoram,Lunglei,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),8.2,6.2,False,False
+Mizoram,Lunglei,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),17.5,20.6,False,False
+Mizoram,Lunglei,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),7.8,7.4,False,False
+Mizoram,Lunglei,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),8.8,4.9,False,False
+Mizoram,Lunglei,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),18.2,13.5,False,False
+Mizoram,Lunglei,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),7.9,9.9,False,False
+Mizoram,Lunglei,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),8.5,6.0,False,False
+Mizoram,Lunglei,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),17.6,17.1,False,False
+Mizoram,Lunglei,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.4,7.5,False,False
+Mizoram,Lunglei,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,3.1,3.6,False,False
+Mizoram,Lunglei,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,21.6,13.9,False,False
+Mizoram,Lunglei,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.0,12.7,False,False
+Mizoram,Lunglei,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.9,5.2,False,False
+Mizoram,Lunglei,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,23.5,20.0,False,False
+Mizoram,Lunglei,Men,87,Women having a bank or savings account that they themselves use (%),94.3,79.7,False,False
+Mizoram,Lunglei,Men,88,Women having a mobile phone that they themselves use (%),86.5,75.9,False,False
+Mizoram,Lunglei,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),97.0,91.4,False,False
+Mizoram,Lunglei,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),61.9,62.8,False,False
+Mizoram,Lunglei,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),76.9,75.0,False,False
+Mizoram,Lunglei,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.6,0.9,False,False
+Mizoram,Lunglei,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),20.9,19.2,False,False
+Mizoram,Mamit,Population and Household Profile,1,Population below age 5 years (%),5.4,8.7,False,False
+Mizoram,Mamit,Population and Household Profile,2,Population below age 15 years (%),23.6,30.7,False,False
+Mizoram,Mamit,Population and Household Profile,3,Population age 60 years and above (%),11.0,8.4,False,False
+Mizoram,Mamit,Population and Household Profile,4,Population living in households with electricity (%),95.8,97.9,False,False
+Mizoram,Mamit,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),92.1,97.3,False,False
+Mizoram,Mamit,Population and Household Profile,6,Households using iodized salt (%),99.5,99.4,False,False
+Mizoram,Mamit,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),59.5,65.2,False,False
+Mizoram,Mamit,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.1,96.8,False,False
+Mizoram,Mamit,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),91.6,90.7,False,False
+Mizoram,Mamit,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),19.7,13.2,False,False
+Mizoram,Mamit,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),32.2,28.4,False,False
+Mizoram,Mamit,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),41.5,40.0,False,False
+Mizoram,Mamit,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),44.0,37.4,False,False
+Mizoram,Mamit,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),75.7,53.0,False,False
+Mizoram,Mamit,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),80.2,69.6,False,False
+Mizoram,Mamit,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),10.9,16.8,False,False
+Mizoram,Mamit,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),5.1,*,True,False
+Mizoram,Mamit,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.8,1.2,False,False
+Mizoram,Mamit,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),6.7,10.3,False,False
+Mizoram,Mamit,Marriage and Fertility,20,Any method2 (%),60.3,41.6,False,False
+Mizoram,Mamit,Marriage and Fertility,21,Any modern method2 (%),58.8,41.3,False,False
+Mizoram,Mamit,Marriage and Fertility,22,Any traditional method (%),1.5,0.3,False,False
+Mizoram,Mamit,Marriage and Fertility,23,Female sterilization (%),23.3,17.7,False,False
+Mizoram,Mamit,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Mizoram,Mamit,Marriage and Fertility,25,Total unmet need3 (%),6.2,17.0,False,False
+Mizoram,Mamit,Marriage and Fertility,26,Unmet need for spacing3 (%),5.4,14.0,False,False
+Mizoram,Mamit,Marriage and Fertility,27,Unmet need for limiting3 (%),0.8,3.0,False,False
+Mizoram,Mamit,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),69.4,64.5,False,False
+Mizoram,Mamit,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),90.4,80.9,False,False
+Mizoram,Mamit,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),50.6,52.5,False,False
+Mizoram,Mamit,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),90.6,80.7,False,False
+Mizoram,Mamit,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),84.5,68.8,False,False
+Mizoram,Mamit,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),49.0,4.5,False,False
+Mizoram,Mamit,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.2,98.9,False,False
+Mizoram,Mamit,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),85.6,75.0,False,False
+Mizoram,Mamit,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),77.2,71.8,False,False
+Mizoram,Mamit,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),87.2,81.1,False,False
+Mizoram,Mamit,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),6.9,3.5,False,False
+Mizoram,Mamit,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),*,*,True,False
+Mizoram,Mamit,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),4.6,3.5,False,False
+Mizoram,Mamit,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,67.0,63.9,False,False
+Mizoram,Mamit,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,0.0,True,False
+Mizoram,Mamit,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,81.1,44.9,False,False
+Mizoram,Mamit,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,67.8,85.9,True,False
+Mizoram,Mamit,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),81.4,85.7,True,False
+Mizoram,Mamit,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),93.7,100.0,True,False
+Mizoram,Mamit,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),90.8,98.5,True,False
+Mizoram,Mamit,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),75.8,87.4,True,False
+Mizoram,Mamit,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),75.5,95.2,True,False
+Mizoram,Mamit,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),90.8,95.2,True,False
+Mizoram,Mamit,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),56.6,48.5,True,False
+Mizoram,Mamit,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),86.0,77.7,True,False
+Mizoram,Mamit,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),80.7,2.5,True,False
+Mizoram,Mamit,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),76.3,60.8,False,False
+Mizoram,Mamit,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),95.3,100.0,True,False
+Mizoram,Mamit,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),4.8,0.0,True,False
+Mizoram,Mamit,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.4,0.6,False,False
+Mizoram,Mamit,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.4,0.0,False,False
+Mizoram,Mamit,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,*,True,False
+Mizoram,Mamit,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),63.5,56.8,False,False
+Mizoram,Mamit,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Mizoram,Mamit,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Mizoram,Mamit,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Mizoram,Mamit,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Mizoram,Mamit,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",1.7,4.0,False,False
+Mizoram,Mamit,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Mizoram,Mamit,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",1.5,6.8,False,False
+Mizoram,Mamit,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),41.2,26.4,False,False
+Mizoram,Mamit,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),19.1,7.4,False,False
+Mizoram,Mamit,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),8.3,3.8,False,False
+Mizoram,Mamit,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),40.2,13.9,False,False
+Mizoram,Mamit,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),5.0,5.9,False,False
+Mizoram,Mamit,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),3.2,4.1,False,False
+Mizoram,Mamit,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),19.7,21.8,False,False
+Mizoram,Mamit,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),5.5,5.7,False,False
+Mizoram,Mamit,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),3.4,5.0,False,False
+Mizoram,Mamit,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),9.4,11.4,False,False
+Mizoram,Mamit,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),5.0,8.0,False,False
+Mizoram,Mamit,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),2.6,4.6,False,False
+Mizoram,Mamit,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),7.8,13.4,False,False
+Mizoram,Mamit,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.1,10.1,False,False
+Mizoram,Mamit,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,3.5,2.4,False,False
+Mizoram,Mamit,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,18.0,14.3,False,False
+Mizoram,Mamit,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.8,16.5,False,False
+Mizoram,Mamit,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,5.5,3.1,False,False
+Mizoram,Mamit,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,27.0,21.0,False,False
+Mizoram,Mamit,Men,87,Women having a bank or savings account that they themselves use (%),92.6,78.4,False,False
+Mizoram,Mamit,Men,88,Women having a mobile phone that they themselves use (%),86.2,71.5,False,False
+Mizoram,Mamit,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),95.8,89.0,False,False
+Mizoram,Mamit,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),69.2,70.2,False,False
+Mizoram,Mamit,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),82.2,80.6,False,False
+Mizoram,Mamit,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),1.4,0.4,False,False
+Mizoram,Mamit,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),26.1,26.2,False,False
+Mizoram,Saiha,Population and Household Profile,1,Population below age 5 years (%),7.8,9.8,False,False
+Mizoram,Saiha,Population and Household Profile,2,Population below age 15 years (%),28.7,31.7,False,False
+Mizoram,Saiha,Population and Household Profile,3,Population age 60 years and above (%),10.3,9.2,False,False
+Mizoram,Saiha,Population and Household Profile,4,Population living in households with electricity (%),99.7,99.7,False,False
+Mizoram,Saiha,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),99.5,95.2,False,False
+Mizoram,Saiha,Population and Household Profile,6,Households using iodized salt (%),99.8,98.7,False,False
+Mizoram,Saiha,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),69.1,47.6,False,False
+Mizoram,Saiha,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.5,95.1,False,False
+Mizoram,Saiha,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),94.4,92.2,False,False
+Mizoram,Saiha,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),12.6,13.4,False,False
+Mizoram,Saiha,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),35.0,23.3,False,False
+Mizoram,Saiha,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),57.2,50.2,False,False
+Mizoram,Saiha,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),61.0,50.6,False,False
+Mizoram,Saiha,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),82.0,48.6,False,False
+Mizoram,Saiha,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),88.8,64.4,False,False
+Mizoram,Saiha,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),10.7,11.8,False,False
+Mizoram,Saiha,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),8.2,*,True,False
+Mizoram,Saiha,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),2.1,2.7,False,False
+Mizoram,Saiha,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),1.6,4.7,False,False
+Mizoram,Saiha,Marriage and Fertility,20,Any method2 (%),62.1,22.6,False,False
+Mizoram,Saiha,Marriage and Fertility,21,Any modern method2 (%),56.9,21.7,False,False
+Mizoram,Saiha,Marriage and Fertility,22,Any traditional method (%),5.2,0.9,False,False
+Mizoram,Saiha,Marriage and Fertility,23,Female sterilization (%),28.2,7.9,False,False
+Mizoram,Saiha,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Mizoram,Saiha,Marriage and Fertility,25,Total unmet need3 (%),9.3,22.5,False,False
+Mizoram,Saiha,Marriage and Fertility,26,Unmet need for spacing3 (%),8.7,15.2,False,False
+Mizoram,Saiha,Marriage and Fertility,27,Unmet need for limiting3 (%),0.6,7.3,False,False
+Mizoram,Saiha,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),82.5,60.7,False,False
+Mizoram,Saiha,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),94.2,72.6,False,False
+Mizoram,Saiha,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),58.0,35.5,False,False
+Mizoram,Saiha,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),89.8,72.6,False,False
+Mizoram,Saiha,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),83.4,51.4,False,False
+Mizoram,Saiha,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),40.3,10.0,False,False
+Mizoram,Saiha,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),99.7,96.9,False,False
+Mizoram,Saiha,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),75.9,73.8,False,False
+Mizoram,Saiha,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),72.7,70.3,False,False
+Mizoram,Saiha,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),86.8,80.5,False,False
+Mizoram,Saiha,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),7.6,9.5,False,False
+Mizoram,Saiha,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),*,*,True,False
+Mizoram,Saiha,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),8.8,10.6,False,False
+Mizoram,Saiha,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,70.9,59.6,False,False
+Mizoram,Saiha,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),0.0,8.5,False,False
+Mizoram,Saiha,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,72.5,22.8,False,False
+Mizoram,Saiha,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,83.8,60.3,False,False
+Mizoram,Saiha,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),86.9,84.8,False,False
+Mizoram,Saiha,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),96.5,71.9,False,False
+Mizoram,Saiha,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),93.4,69.9,False,False
+Mizoram,Saiha,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),92.1,61.5,False,False
+Mizoram,Saiha,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),87.0,60.3,False,False
+Mizoram,Saiha,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),91.5,65.5,False,False
+Mizoram,Saiha,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),83.2,35.4,False,False
+Mizoram,Saiha,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),91.0,38.8,False,False
+Mizoram,Saiha,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),90.4,1.9,False,False
+Mizoram,Saiha,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),83.4,68.0,False,False
+Mizoram,Saiha,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),95.6,98.5,False,False
+Mizoram,Saiha,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),1.5,0.0,False,False
+Mizoram,Saiha,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),1.1,7.6,False,False
+Mizoram,Saiha,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,0.6,False,False
+Mizoram,Saiha,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,39.6,True,False
+Mizoram,Saiha,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),83.5,46.4,False,False
+Mizoram,Saiha,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),83.5,72.1,True,False
+Mizoram,Saiha,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),100.0,100.0,True,False
+Mizoram,Saiha,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,93.2,87.1,True,False
+Mizoram,Saiha,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Mizoram,Saiha,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",5.9,7.8,False,False
+Mizoram,Saiha,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Mizoram,Saiha,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",5.8,7.9,False,False
+Mizoram,Saiha,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),25.2,43.8,False,False
+Mizoram,Saiha,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),5.7,7.7,False,False
+Mizoram,Saiha,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),1.3,3.4,False,False
+Mizoram,Saiha,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),14.8,17.6,False,False
+Mizoram,Saiha,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),3.9,11.1,False,False
+Mizoram,Saiha,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),9.8,9.3,False,False
+Mizoram,Saiha,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),18.1,18.9,False,False
+Mizoram,Saiha,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),5.2,4.7,False,False
+Mizoram,Saiha,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),2.9,4.1,False,False
+Mizoram,Saiha,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),8.7,9.5,False,False
+Mizoram,Saiha,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),6.3,6.0,False,False
+Mizoram,Saiha,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),2.5,3.2,False,False
+Mizoram,Saiha,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),9.9,9.3,False,False
+Mizoram,Saiha,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),10.9,8.4,False,False
+Mizoram,Saiha,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,2.7,3.1,False,False
+Mizoram,Saiha,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,15.7,13.0,False,False
+Mizoram,Saiha,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.3,16.2,False,False
+Mizoram,Saiha,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,3.0,5.2,False,False
+Mizoram,Saiha,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,17.9,22.9,False,False
+Mizoram,Saiha,Men,87,Women having a bank or savings account that they themselves use (%),93.7,81.6,False,False
+Mizoram,Saiha,Men,88,Women having a mobile phone that they themselves use (%),91.3,73.4,False,False
+Mizoram,Saiha,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),100.0,83.0,False,False
+Mizoram,Saiha,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),74.3,70.0,False,False
+Mizoram,Saiha,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),78.7,73.7,False,False
+Mizoram,Saiha,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.9,0.6,False,False
+Mizoram,Saiha,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),16.0,21.0,False,False
+Mizoram,Serchhip,Population and Household Profile,1,Population below age 5 years (%),7.8,8.4,False,False
+Mizoram,Serchhip,Population and Household Profile,2,Population below age 15 years (%),26.3,29.0,False,False
+Mizoram,Serchhip,Population and Household Profile,3,Population age 60 years and above (%),13.8,11.5,False,False
+Mizoram,Serchhip,Population and Household Profile,4,Population living in households with electricity (%),100.0,99.3,False,False
+Mizoram,Serchhip,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),99.2,97.7,False,False
+Mizoram,Serchhip,Population and Household Profile,6,Households using iodized salt (%),99.9,98.7,False,False
+Mizoram,Serchhip,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),74.4,64.3,False,False
+Mizoram,Serchhip,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.8,96.3,False,False
+Mizoram,Serchhip,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),97.5,96.8,False,False
+Mizoram,Serchhip,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),14.5,14.8,False,False
+Mizoram,Serchhip,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),44.2,39.2,False,False
+Mizoram,Serchhip,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),52.6,43.1,False,False
+Mizoram,Serchhip,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),46.0,38.2,False,False
+Mizoram,Serchhip,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),77.4,68.6,False,False
+Mizoram,Serchhip,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),75.4,79.8,False,False
+Mizoram,Serchhip,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),7.7,7.2,False,False
+Mizoram,Serchhip,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),13.1,*,True,False
+Mizoram,Serchhip,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),2.1,1.3,False,False
+Mizoram,Serchhip,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),3.4,3.0,False,False
+Mizoram,Serchhip,Marriage and Fertility,20,Any method2 (%),64.8,40.0,False,False
+Mizoram,Serchhip,Marriage and Fertility,21,Any modern method2 (%),61.6,39.4,False,False
+Mizoram,Serchhip,Marriage and Fertility,22,Any traditional method (%),3.2,0.6,False,False
+Mizoram,Serchhip,Marriage and Fertility,23,Female sterilization (%),26.9,15.6,False,False
+Mizoram,Serchhip,Marriage and Fertility,24,Male sterilization (%),0.2,0.0,False,False
+Mizoram,Serchhip,Marriage and Fertility,25,Total unmet need3 (%),7.1,15.9,False,False
+Mizoram,Serchhip,Marriage and Fertility,26,Unmet need for spacing3 (%),6.4,11.7,False,False
+Mizoram,Serchhip,Marriage and Fertility,27,Unmet need for limiting3 (%),0.7,4.2,False,False
+Mizoram,Serchhip,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),80.0,77.6,False,False
+Mizoram,Serchhip,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),99.6,83.9,False,False
+Mizoram,Serchhip,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),67.5,60.3,False,False
+Mizoram,Serchhip,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),97.1,85.1,False,False
+Mizoram,Serchhip,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),92.0,73.0,False,False
+Mizoram,Serchhip,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),55.5,12.0,False,False
+Mizoram,Serchhip,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,99.3,False,False
+Mizoram,Serchhip,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),99.4,96.2,False,False
+Mizoram,Serchhip,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),88.9,90.7,False,False
+Mizoram,Serchhip,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),99.7,96.8,False,False
+Mizoram,Serchhip,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),16.5,13.9,False,False
+Mizoram,Serchhip,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),25.3,*,True,False
+Mizoram,Serchhip,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),15.6,13.0,False,False
+Mizoram,Serchhip,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,94.2,86.2,False,False
+Mizoram,Serchhip,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Mizoram,Serchhip,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,96.7,43.0,False,False
+Mizoram,Serchhip,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,88.9,84.7,False,False
+Mizoram,Serchhip,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),95.4,93.0,False,False
+Mizoram,Serchhip,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),93.2,89.8,False,False
+Mizoram,Serchhip,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),93.2,89.8,False,False
+Mizoram,Serchhip,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),93.2,85.8,False,False
+Mizoram,Serchhip,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),88.9,84.7,False,False
+Mizoram,Serchhip,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),90.2,85.8,False,False
+Mizoram,Serchhip,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),60.6,40.4,True,False
+Mizoram,Serchhip,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),91.8,64.5,False,False
+Mizoram,Serchhip,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),70.4,0.0,False,False
+Mizoram,Serchhip,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),89.3,65.9,False,False
+Mizoram,Serchhip,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,100.0,False,False
+Mizoram,Serchhip,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,False,False
+Mizoram,Serchhip,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),0.9,3.2,False,False
+Mizoram,Serchhip,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.3,0.3,False,False
+Mizoram,Serchhip,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,*,43.6,True,False
+Mizoram,Serchhip,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),81.3,58.8,False,False
+Mizoram,Serchhip,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),74.9,63.9,True,False
+Mizoram,Serchhip,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),100.0,87.7,True,False
+Mizoram,Serchhip,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,88.7,80.0,True,False
+Mizoram,Serchhip,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Mizoram,Serchhip,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",8.8,12.7,False,False
+Mizoram,Serchhip,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Mizoram,Serchhip,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",8.1,12.1,False,False
+Mizoram,Serchhip,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),22.0,31.8,False,False
+Mizoram,Serchhip,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),6.6,8.4,False,False
+Mizoram,Serchhip,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),3.4,4.4,False,False
+Mizoram,Serchhip,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),13.7,14.4,False,False
+Mizoram,Serchhip,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),7.4,8.7,False,False
+Mizoram,Serchhip,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),7.1,5.9,False,False
+Mizoram,Serchhip,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),23.9,24.0,False,False
+Mizoram,Serchhip,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),8.6,7.0,False,False
+Mizoram,Serchhip,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),6.3,5.8,False,False
+Mizoram,Serchhip,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),16.0,14.2,False,False
+Mizoram,Serchhip,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),7.4,7.2,False,False
+Mizoram,Serchhip,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),5.9,5.6,False,False
+Mizoram,Serchhip,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),14.0,13.8,False,False
+Mizoram,Serchhip,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),8.5,7.7,False,False
+Mizoram,Serchhip,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,3.3,2.5,False,False
+Mizoram,Serchhip,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,15.4,11.6,False,False
+Mizoram,Serchhip,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.1,12.5,False,False
+Mizoram,Serchhip,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.7,3.1,False,False
+Mizoram,Serchhip,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,20.1,17.7,False,False
+Mizoram,Serchhip,Men,87,Women having a bank or savings account that they themselves use (%),95.9,91.1,False,False
+Mizoram,Serchhip,Men,88,Women having a mobile phone that they themselves use (%),93.0,88.8,False,False
+Mizoram,Serchhip,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),100.0,93.2,False,False
+Mizoram,Serchhip,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),62.4,62.7,False,False
+Mizoram,Serchhip,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),75.6,74.2,False,False
+Mizoram,Serchhip,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.8,0.4,False,False
+Mizoram,Serchhip,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),20.4,22.4,False,False

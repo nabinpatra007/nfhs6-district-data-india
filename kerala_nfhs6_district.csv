@@ -1,0 +1,1303 @@
+state,district,category,indicator_no,indicator,nfhs6_value,nfhs5_value,small_sample_flag,boundary_change_single_round
+Kerala,Alappuzha,Population and Household Profile,1,Population below age 5 years (%),4.2,5.0,False,False
+Kerala,Alappuzha,Population and Household Profile,2,Population below age 15 years (%),16.8,16.6,False,False
+Kerala,Alappuzha,Population and Household Profile,3,Population age 60 years and above (%),25.6,22.4,False,False
+Kerala,Alappuzha,Population and Household Profile,4,Population living in households with electricity (%),99.5,99.9,False,False
+Kerala,Alappuzha,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),97.6,98.4,False,False
+Kerala,Alappuzha,Population and Household Profile,6,Households using iodized salt (%),99.4,99.9,False,False
+Kerala,Alappuzha,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),62.5,68.9,False,False
+Kerala,Alappuzha,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.5,97.4,False,False
+Kerala,Alappuzha,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),98.2,97.8,False,False
+Kerala,Alappuzha,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),35.9,26.2,False,False
+Kerala,Alappuzha,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),58.6,69.6,False,False
+Kerala,Alappuzha,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),93.4,78.8,False,False
+Kerala,Alappuzha,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),88.6,82.4,False,False
+Kerala,Alappuzha,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),84.1,59.4,False,False
+Kerala,Alappuzha,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),95.3,83.4,False,False
+Kerala,Alappuzha,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),0.0,3.8,False,False
+Kerala,Alappuzha,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Alappuzha,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.0,0.6,False,False
+Kerala,Alappuzha,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.0,2.9,False,False
+Kerala,Alappuzha,Marriage and Fertility,20,Any method2 (%),73.1,61.5,False,False
+Kerala,Alappuzha,Marriage and Fertility,21,Any modern method2 (%),61.8,56.9,False,False
+Kerala,Alappuzha,Marriage and Fertility,22,Any traditional method (%),11.3,4.6,False,False
+Kerala,Alappuzha,Marriage and Fertility,23,Female sterilization (%),49.8,49.6,False,False
+Kerala,Alappuzha,Marriage and Fertility,24,Male sterilization (%),0.7,0.6,False,False
+Kerala,Alappuzha,Marriage and Fertility,25,Total unmet need3 (%),6.5,12.3,False,False
+Kerala,Alappuzha,Marriage and Fertility,26,Unmet need for spacing3 (%),4.0,6.0,False,False
+Kerala,Alappuzha,Marriage and Fertility,27,Unmet need for limiting3 (%),2.5,6.3,False,False
+Kerala,Alappuzha,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),81.4,85.1,False,False
+Kerala,Alappuzha,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),96.2,75.1,False,False
+Kerala,Alappuzha,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),96.2,65.7,False,False
+Kerala,Alappuzha,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),92.1,87.5,False,False
+Kerala,Alappuzha,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),91.4,61.0,False,False
+Kerala,Alappuzha,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),87.9,52.0,False,False
+Kerala,Alappuzha,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),93.6,96.4,False,False
+Kerala,Alappuzha,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),100.0,99.4,False,False
+Kerala,Alappuzha,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),46.1,49.0,False,False
+Kerala,Alappuzha,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),100.0,100.0,False,False
+Kerala,Alappuzha,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),58.8,47.8,False,False
+Kerala,Alappuzha,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),57.6,53.8,False,False
+Kerala,Alappuzha,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),60.1,42.2,False,False
+Kerala,Alappuzha,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,92.6,89.2,False,False
+Kerala,Alappuzha,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Alappuzha,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,93.4,85.1,False,False
+Kerala,Alappuzha,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,84.7,61.9,True,False
+Kerala,Alappuzha,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),*,*,True,False
+Kerala,Alappuzha,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),95.5,100.0,True,False
+Kerala,Alappuzha,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),95.5,96.9,True,False
+Kerala,Alappuzha,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),88.8,79.3,True,False
+Kerala,Alappuzha,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),87.7,76.8,True,False
+Kerala,Alappuzha,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),91.5,83.3,True,False
+Kerala,Alappuzha,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),91.0,49.4,True,False
+Kerala,Alappuzha,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),91.5,74.3,True,False
+Kerala,Alappuzha,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),77.9,8.7,True,False
+Kerala,Alappuzha,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),86.1,93.6,False,False
+Kerala,Alappuzha,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),96.0,100.0,True,False
+Kerala,Alappuzha,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,0.0,True,False
+Kerala,Alappuzha,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.3,4.5,False,False
+Kerala,Alappuzha,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.0,2.8,False,False
+Kerala,Alappuzha,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,74.1,79.9,True,False
+Kerala,Alappuzha,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),84.5,62.1,False,False
+Kerala,Alappuzha,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Kerala,Alappuzha,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Kerala,Alappuzha,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Kerala,Alappuzha,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Alappuzha,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",28.5,17.2,True,False
+Kerala,Alappuzha,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Alappuzha,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",33.5,17.9,True,False
+Kerala,Alappuzha,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),20.9,20.1,False,False
+Kerala,Alappuzha,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),13.6,14.4,False,False
+Kerala,Alappuzha,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),4.4,2.1,False,False
+Kerala,Alappuzha,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),20.7,20.4,False,False
+Kerala,Alappuzha,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.0,4.5,False,False
+Kerala,Alappuzha,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),11.0,14.3,False,False
+Kerala,Alappuzha,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),45.6,41.9,False,False
+Kerala,Alappuzha,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),10.1,9.4,False,False
+Kerala,Alappuzha,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),18.3,12.4,False,False
+Kerala,Alappuzha,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),32.5,25.2,False,False
+Kerala,Alappuzha,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),8.8,8.2,False,False
+Kerala,Alappuzha,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),18.5,14.6,False,False
+Kerala,Alappuzha,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),32.0,25.4,False,False
+Kerala,Alappuzha,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.1,14.9,False,False
+Kerala,Alappuzha,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,7.6,6.3,False,False
+Kerala,Alappuzha,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,36.8,32.1,False,False
+Kerala,Alappuzha,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),17.9,20.5,False,False
+Kerala,Alappuzha,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,7.1,7.7,False,False
+Kerala,Alappuzha,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,35.8,36.2,False,False
+Kerala,Alappuzha,Men,87,Women having a bank or savings account that they themselves use (%),93.8,80.1,False,False
+Kerala,Alappuzha,Men,88,Women having a mobile phone that they themselves use (%),88.3,75.8,False,False
+Kerala,Alappuzha,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),95.5,93.1,False,False
+Kerala,Alappuzha,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),2.0,1.8,False,False
+Kerala,Alappuzha,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),16.8,18.3,False,False
+Kerala,Alappuzha,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.4,0.2,False,False
+Kerala,Alappuzha,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),33.8,29.0,False,False
+Kerala,Ernakulam,Population and Household Profile,1,Population below age 5 years (%),5.0,5.5,False,False
+Kerala,Ernakulam,Population and Household Profile,2,Population below age 15 years (%),17.8,18.8,False,False
+Kerala,Ernakulam,Population and Household Profile,3,Population age 60 years and above (%),23.4,19.5,False,False
+Kerala,Ernakulam,Population and Household Profile,4,Population living in households with electricity (%),99.8,100.0,False,False
+Kerala,Ernakulam,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),98.7,98.2,False,False
+Kerala,Ernakulam,Population and Household Profile,6,Households using iodized salt (%),98.2,99.3,False,False
+Kerala,Ernakulam,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),51.0,51.8,False,False
+Kerala,Ernakulam,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.5,95.4,False,False
+Kerala,Ernakulam,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),98.5,97.2,False,False
+Kerala,Ernakulam,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),26.8,22.6,False,False
+Kerala,Ernakulam,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),65.2,56.8,False,False
+Kerala,Ernakulam,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),92.4,83.8,False,False
+Kerala,Ernakulam,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),92.1,77.0,False,False
+Kerala,Ernakulam,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),87.1,68.4,False,False
+Kerala,Ernakulam,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),100.0,82.6,False,False
+Kerala,Ernakulam,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),2.1,2.9,False,False
+Kerala,Ernakulam,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Ernakulam,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.6,1.0,False,False
+Kerala,Ernakulam,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.9,0.0,False,False
+Kerala,Ernakulam,Marriage and Fertility,20,Any method2 (%),70.2,69.7,False,False
+Kerala,Ernakulam,Marriage and Fertility,21,Any modern method2 (%),61.0,61.5,False,False
+Kerala,Ernakulam,Marriage and Fertility,22,Any traditional method (%),9.2,8.2,False,False
+Kerala,Ernakulam,Marriage and Fertility,23,Female sterilization (%),43.9,51.9,False,False
+Kerala,Ernakulam,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Kerala,Ernakulam,Marriage and Fertility,25,Total unmet need3 (%),8.4,10.7,False,False
+Kerala,Ernakulam,Marriage and Fertility,26,Unmet need for spacing3 (%),5.1,6.7,False,False
+Kerala,Ernakulam,Marriage and Fertility,27,Unmet need for limiting3 (%),3.3,4.0,False,False
+Kerala,Ernakulam,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),86.1,92.6,False,False
+Kerala,Ernakulam,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),92.7,94.3,False,False
+Kerala,Ernakulam,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),92.7,82.2,False,False
+Kerala,Ernakulam,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),97.4,96.5,False,False
+Kerala,Ernakulam,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),95.3,82.8,False,False
+Kerala,Ernakulam,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),90.6,70.6,False,False
+Kerala,Ernakulam,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.0,90.9,False,False
+Kerala,Ernakulam,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),100.0,99.1,False,False
+Kerala,Ernakulam,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),29.0,23.2,False,False
+Kerala,Ernakulam,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),100.0,100.0,False,False
+Kerala,Ernakulam,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),53.1,51.1,False,False
+Kerala,Ernakulam,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),53.6,50.0,False,False
+Kerala,Ernakulam,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),52.0,56.6,True,False
+Kerala,Ernakulam,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,96.3,96.1,False,False
+Kerala,Ernakulam,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Ernakulam,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,95.0,94.2,False,False
+Kerala,Ernakulam,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,*,82.6,True,False
+Kerala,Ernakulam,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),*,96.9,True,False
+Kerala,Ernakulam,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),*,97.9,True,False
+Kerala,Ernakulam,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),*,97.9,True,False
+Kerala,Ernakulam,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),*,82.6,True,False
+Kerala,Ernakulam,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),*,91.4,True,False
+Kerala,Ernakulam,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),*,92.7,True,False
+Kerala,Ernakulam,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),*,25.1,True,False
+Kerala,Ernakulam,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),*,81.2,True,False
+Kerala,Ernakulam,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),*,8.9,True,False
+Kerala,Ernakulam,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),92.0,88.2,False,False
+Kerala,Ernakulam,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),*,93.4,True,False
+Kerala,Ernakulam,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),*,6.7,True,False
+Kerala,Ernakulam,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.2,1.8,False,False
+Kerala,Ernakulam,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.0,2.4,False,False
+Kerala,Ernakulam,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,90.6,89.6,True,False
+Kerala,Ernakulam,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),73.6,71.0,False,False
+Kerala,Ernakulam,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Kerala,Ernakulam,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Kerala,Ernakulam,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Kerala,Ernakulam,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Ernakulam,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",19.3,11.9,True,False
+Kerala,Ernakulam,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Ernakulam,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",21.7,11.3,True,False
+Kerala,Ernakulam,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),15.8,22.0,False,False
+Kerala,Ernakulam,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),17.1,17.1,False,False
+Kerala,Ernakulam,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),5.0,7.4,False,False
+Kerala,Ernakulam,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),20.3,19.4,False,False
+Kerala,Ernakulam,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.4,5.4,False,False
+Kerala,Ernakulam,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),9.9,8.0,False,False
+Kerala,Ernakulam,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),41.4,39.6,False,False
+Kerala,Ernakulam,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),9.1,9.3,False,False
+Kerala,Ernakulam,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),17.6,11.8,False,False
+Kerala,Ernakulam,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),31.5,25.8,False,False
+Kerala,Ernakulam,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),8.4,9.5,False,False
+Kerala,Ernakulam,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),21.4,11.5,False,False
+Kerala,Ernakulam,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),33.3,25.5,False,False
+Kerala,Ernakulam,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.3,15.7,False,False
+Kerala,Ernakulam,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.0,5.0,False,False
+Kerala,Ernakulam,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,33.6,29.6,False,False
+Kerala,Ernakulam,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.7,18.1,False,False
+Kerala,Ernakulam,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,9.0,5.5,False,False
+Kerala,Ernakulam,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,33.9,30.2,False,False
+Kerala,Ernakulam,Men,87,Women having a bank or savings account that they themselves use (%),93.9,83.7,False,False
+Kerala,Ernakulam,Men,88,Women having a mobile phone that they themselves use (%),92.7,91.9,False,False
+Kerala,Ernakulam,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),95.3,94.5,False,False
+Kerala,Ernakulam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),1.1,1.4,False,False
+Kerala,Ernakulam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),13.1,15.3,False,False
+Kerala,Ernakulam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.4,0.5,False,False
+Kerala,Ernakulam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),26.9,25.0,False,False
+Kerala,Idukki,Population and Household Profile,1,Population below age 5 years (%),6.2,6.0,False,False
+Kerala,Idukki,Population and Household Profile,2,Population below age 15 years (%),18.6,19.0,False,False
+Kerala,Idukki,Population and Household Profile,3,Population age 60 years and above (%),20.5,18.5,False,False
+Kerala,Idukki,Population and Household Profile,4,Population living in households with electricity (%),99.8,99.0,False,False
+Kerala,Idukki,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),93.5,82.3,False,False
+Kerala,Idukki,Population and Household Profile,6,Households using iodized salt (%),98.8,99.6,False,False
+Kerala,Idukki,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),50.2,66.1,False,False
+Kerala,Idukki,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.8,98.7,False,False
+Kerala,Idukki,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),93.8,93.0,False,False
+Kerala,Idukki,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),28.6,27.2,False,False
+Kerala,Idukki,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),68.2,64.6,False,False
+Kerala,Idukki,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),80.8,73.2,False,False
+Kerala,Idukki,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),74.6,68.4,False,False
+Kerala,Idukki,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),81.5,59.4,False,False
+Kerala,Idukki,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),89.4,77.7,False,False
+Kerala,Idukki,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),7.6,7.1,False,False
+Kerala,Idukki,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Idukki,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.4,2.2,False,False
+Kerala,Idukki,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.1,2.7,False,False
+Kerala,Idukki,Marriage and Fertility,20,Any method2 (%),71.4,72.3,False,False
+Kerala,Idukki,Marriage and Fertility,21,Any modern method2 (%),61.7,67.8,False,False
+Kerala,Idukki,Marriage and Fertility,22,Any traditional method (%),9.7,4.5,False,False
+Kerala,Idukki,Marriage and Fertility,23,Female sterilization (%),52.9,60.5,False,False
+Kerala,Idukki,Marriage and Fertility,24,Male sterilization (%),0.6,0.0,False,False
+Kerala,Idukki,Marriage and Fertility,25,Total unmet need3 (%),7.5,9.4,False,False
+Kerala,Idukki,Marriage and Fertility,26,Unmet need for spacing3 (%),5.2,5.3,False,False
+Kerala,Idukki,Marriage and Fertility,27,Unmet need for limiting3 (%),2.3,4.1,False,False
+Kerala,Idukki,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),90.7,93.3,False,False
+Kerala,Idukki,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),95.1,93.2,False,False
+Kerala,Idukki,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),76.0,74.3,False,False
+Kerala,Idukki,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),92.7,98.0,False,False
+Kerala,Idukki,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),88.7,75.6,False,False
+Kerala,Idukki,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),84.3,63.6,False,False
+Kerala,Idukki,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),100.0,96.0,False,False
+Kerala,Idukki,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),98.5,100.0,False,False
+Kerala,Idukki,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),51.2,47.6,False,False
+Kerala,Idukki,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),100.0,100.0,False,False
+Kerala,Idukki,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),52.1,40.3,False,False
+Kerala,Idukki,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),57.4,47.0,False,False
+Kerala,Idukki,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),48.7,32.9,False,False
+Kerala,Idukki,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,92.9,94.0,False,False
+Kerala,Idukki,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Idukki,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,87.5,95.3,False,False
+Kerala,Idukki,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,85.1,89.6,True,False
+Kerala,Idukki,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),83.5,89.6,True,False
+Kerala,Idukki,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),96.5,100.0,True,False
+Kerala,Idukki,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),96.5,100.0,True,False
+Kerala,Idukki,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),85.1,96.6,True,False
+Kerala,Idukki,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),93.4,89.6,True,False
+Kerala,Idukki,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),96.5,93.0,True,False
+Kerala,Idukki,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),93.3,13.1,True,False
+Kerala,Idukki,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),93.7,86.7,True,False
+Kerala,Idukki,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),90.6,0.0,True,False
+Kerala,Idukki,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),87.2,81.3,False,False
+Kerala,Idukki,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.2,93.3,True,False
+Kerala,Idukki,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.8,6.7,True,False
+Kerala,Idukki,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.7,3.3,False,False
+Kerala,Idukki,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.4,5.3,False,False
+Kerala,Idukki,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,75.0,69.6,True,False
+Kerala,Idukki,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),70.7,78.8,False,False
+Kerala,Idukki,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Kerala,Idukki,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Kerala,Idukki,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Kerala,Idukki,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Idukki,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",20.7,34.0,True,False
+Kerala,Idukki,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Idukki,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",24.5,36.5,True,False
+Kerala,Idukki,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),24.9,24.3,False,False
+Kerala,Idukki,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),10.6,14.5,False,False
+Kerala,Idukki,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),2.6,6.8,False,False
+Kerala,Idukki,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),22.0,23.6,False,False
+Kerala,Idukki,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.9,2.3,False,False
+Kerala,Idukki,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),11.1,9.0,False,False
+Kerala,Idukki,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),45.1,36.3,False,False
+Kerala,Idukki,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),7.5,8.2,False,False
+Kerala,Idukki,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),17.4,10.6,False,False
+Kerala,Idukki,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),28.1,22.8,False,False
+Kerala,Idukki,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),8.5,10.3,False,False
+Kerala,Idukki,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),18.6,10.7,False,False
+Kerala,Idukki,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),29.7,23.9,False,False
+Kerala,Idukki,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),17.6,17.4,False,False
+Kerala,Idukki,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,9.9,10.1,False,False
+Kerala,Idukki,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,36.4,34.8,False,False
+Kerala,Idukki,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),22.6,18.2,False,False
+Kerala,Idukki,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,13.2,7.9,False,False
+Kerala,Idukki,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,42.2,31.8,False,False
+Kerala,Idukki,Men,87,Women having a bank or savings account that they themselves use (%),94.7,84.6,False,False
+Kerala,Idukki,Men,88,Women having a mobile phone that they themselves use (%),88.3,84.7,False,False
+Kerala,Idukki,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),98.5,92.6,False,False
+Kerala,Idukki,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),3.5,3.7,False,False
+Kerala,Idukki,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),25.6,24.8,False,False
+Kerala,Idukki,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.2,0.4,False,False
+Kerala,Idukki,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),29.7,24.1,False,False
+Kerala,Kannur,Population and Household Profile,1,Population below age 5 years (%),6.5,7.2,False,False
+Kerala,Kannur,Population and Household Profile,2,Population below age 15 years (%),21.8,23.9,False,False
+Kerala,Kannur,Population and Household Profile,3,Population age 60 years and above (%),21.7,17.1,False,False
+Kerala,Kannur,Population and Household Profile,4,Population living in households with electricity (%),99.8,99.7,False,False
+Kerala,Kannur,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),94.3,93.9,False,False
+Kerala,Kannur,Population and Household Profile,6,Households using iodized salt (%),99.0,99.2,False,False
+Kerala,Kannur,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),45.8,52.0,False,False
+Kerala,Kannur,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.0,96.1,False,False
+Kerala,Kannur,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),97.8,96.7,False,False
+Kerala,Kannur,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),42.0,36.8,False,False
+Kerala,Kannur,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),53.6,50.7,False,False
+Kerala,Kannur,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),88.5,74.1,False,False
+Kerala,Kannur,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),81.0,71.2,False,False
+Kerala,Kannur,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),92.3,62.1,False,False
+Kerala,Kannur,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),96.4,88.3,False,False
+Kerala,Kannur,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),3.6,5.4,False,False
+Kerala,Kannur,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Kannur,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.8,0.4,False,False
+Kerala,Kannur,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.0,2.4,False,False
+Kerala,Kannur,Marriage and Fertility,20,Any method2 (%),56.2,61.9,False,False
+Kerala,Kannur,Marriage and Fertility,21,Any modern method2 (%),47.5,54.2,False,False
+Kerala,Kannur,Marriage and Fertility,22,Any traditional method (%),8.7,7.7,False,False
+Kerala,Kannur,Marriage and Fertility,23,Female sterilization (%),38.5,47.7,False,False
+Kerala,Kannur,Marriage and Fertility,24,Male sterilization (%),0.2,0.0,False,False
+Kerala,Kannur,Marriage and Fertility,25,Total unmet need3 (%),14.4,12.7,False,False
+Kerala,Kannur,Marriage and Fertility,26,Unmet need for spacing3 (%),9.1,9.2,False,False
+Kerala,Kannur,Marriage and Fertility,27,Unmet need for limiting3 (%),5.3,3.5,False,False
+Kerala,Kannur,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),82.4,94.8,False,False
+Kerala,Kannur,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),98.4,93.4,False,False
+Kerala,Kannur,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),97.8,78.3,False,False
+Kerala,Kannur,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),92.9,97.7,False,False
+Kerala,Kannur,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),88.9,78.0,False,False
+Kerala,Kannur,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),79.9,58.8,False,False
+Kerala,Kannur,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.5,95.3,False,False
+Kerala,Kannur,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),100.0,100.0,False,False
+Kerala,Kannur,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),28.1,33.6,False,False
+Kerala,Kannur,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),99.5,100.0,False,False
+Kerala,Kannur,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),40.5,39.7,False,False
+Kerala,Kannur,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),39.0,40.0,False,False
+Kerala,Kannur,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),44.2,39.1,False,False
+Kerala,Kannur,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,92.9,93.4,False,False
+Kerala,Kannur,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Kannur,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,91.2,90.0,False,False
+Kerala,Kannur,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,78.3,77.7,True,False
+Kerala,Kannur,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),85.8,88.4,True,False
+Kerala,Kannur,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),93.4,98.0,True,False
+Kerala,Kannur,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),93.4,98.0,True,False
+Kerala,Kannur,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),81.1,79.5,True,False
+Kerala,Kannur,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),78.3,87.5,True,False
+Kerala,Kannur,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),82.4,83.7,True,False
+Kerala,Kannur,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),77.0,20.6,True,False
+Kerala,Kannur,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),88.8,94.5,True,False
+Kerala,Kannur,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),77.9,3.9,True,False
+Kerala,Kannur,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),86.5,80.2,False,False
+Kerala,Kannur,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),88.7,91.6,True,False
+Kerala,Kannur,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),11.3,8.4,True,False
+Kerala,Kannur,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),3.3,0.7,False,False
+Kerala,Kannur,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),3.8,3.3,False,False
+Kerala,Kannur,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,84.2,81.2,True,False
+Kerala,Kannur,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),87.2,63.8,False,False
+Kerala,Kannur,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Kerala,Kannur,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Kerala,Kannur,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Kerala,Kannur,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Kannur,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",32.1,39.9,True,False
+Kerala,Kannur,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Kannur,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",30.6,38.4,False,False
+Kerala,Kannur,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),17.0,19.4,False,False
+Kerala,Kannur,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),4.9,14.0,False,False
+Kerala,Kannur,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),0.3,6.9,False,False
+Kerala,Kannur,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),12.1,17.9,False,False
+Kerala,Kannur,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.8,3.0,False,False
+Kerala,Kannur,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),11.7,8.7,False,False
+Kerala,Kannur,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),47.9,32.4,False,False
+Kerala,Kannur,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),9.4,10.5,False,False
+Kerala,Kannur,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),16.0,11.1,False,False
+Kerala,Kannur,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),28.6,23.8,False,False
+Kerala,Kannur,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),10.1,10.2,False,False
+Kerala,Kannur,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),22.1,11.6,False,False
+Kerala,Kannur,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),36.0,25.0,False,False
+Kerala,Kannur,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.6,17.1,False,False
+Kerala,Kannur,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.6,7.6,False,False
+Kerala,Kannur,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,31.6,31.0,False,False
+Kerala,Kannur,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),18.9,23.3,False,False
+Kerala,Kannur,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,9.2,5.8,False,False
+Kerala,Kannur,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,37.4,34.8,False,False
+Kerala,Kannur,Men,87,Women having a bank or savings account that they themselves use (%),93.0,74.2,False,False
+Kerala,Kannur,Men,88,Women having a mobile phone that they themselves use (%),89.9,88.8,False,False
+Kerala,Kannur,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),94.2,97.2,False,False
+Kerala,Kannur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),1.4,1.7,False,False
+Kerala,Kannur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),10.6,12.9,False,False
+Kerala,Kannur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.3,0.1,False,False
+Kerala,Kannur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),14.9,14.1,False,False
+Kerala,Kasaragod,Population and Household Profile,1,Population below age 5 years (%),8.1,8.1,False,False
+Kerala,Kasaragod,Population and Household Profile,2,Population below age 15 years (%),26.0,24.1,False,False
+Kerala,Kasaragod,Population and Household Profile,3,Population age 60 years and above (%),15.2,15.7,False,False
+Kerala,Kasaragod,Population and Household Profile,4,Population living in households with electricity (%),99.7,99.5,False,False
+Kerala,Kasaragod,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),94.4,93.2,False,False
+Kerala,Kasaragod,Population and Household Profile,6,Households using iodized salt (%),98.8,99.6,False,False
+Kerala,Kasaragod,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),43.5,49.5,False,False
+Kerala,Kasaragod,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.9,96.3,False,False
+Kerala,Kasaragod,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),92.1,90.8,False,False
+Kerala,Kasaragod,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),31.8,26.7,False,False
+Kerala,Kasaragod,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),41.3,56.6,False,False
+Kerala,Kasaragod,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),74.2,68.3,False,False
+Kerala,Kasaragod,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),76.0,68.4,False,False
+Kerala,Kasaragod,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),82.4,66.4,False,False
+Kerala,Kasaragod,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),95.0,67.0,False,False
+Kerala,Kasaragod,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),1.0,4.7,False,False
+Kerala,Kasaragod,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Kasaragod,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.7,1.4,False,False
+Kerala,Kasaragod,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.0,3.7,False,False
+Kerala,Kasaragod,Marriage and Fertility,20,Any method2 (%),51.9,56.4,False,False
+Kerala,Kasaragod,Marriage and Fertility,21,Any modern method2 (%),36.0,46.6,False,False
+Kerala,Kasaragod,Marriage and Fertility,22,Any traditional method (%),15.9,9.8,False,False
+Kerala,Kasaragod,Marriage and Fertility,23,Female sterilization (%),26.5,39.0,False,False
+Kerala,Kasaragod,Marriage and Fertility,24,Male sterilization (%),0.1,0.2,False,False
+Kerala,Kasaragod,Marriage and Fertility,25,Total unmet need3 (%),15.5,12.5,False,False
+Kerala,Kasaragod,Marriage and Fertility,26,Unmet need for spacing3 (%),9.8,6.4,False,False
+Kerala,Kasaragod,Marriage and Fertility,27,Unmet need for limiting3 (%),5.7,6.1,False,False
+Kerala,Kasaragod,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),94.3,97.4,False,False
+Kerala,Kasaragod,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),98.2,92.9,False,False
+Kerala,Kasaragod,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),88.1,91.2,False,False
+Kerala,Kasaragod,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),98.4,99.2,False,False
+Kerala,Kasaragod,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),88.8,89.4,False,False
+Kerala,Kasaragod,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),76.8,83.7,False,False
+Kerala,Kasaragod,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),94.3,92.8,False,False
+Kerala,Kasaragod,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),99.6,100.0,False,False
+Kerala,Kasaragod,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),26.4,29.9,False,False
+Kerala,Kasaragod,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),99.6,100.0,False,False
+Kerala,Kasaragod,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),29.1,28.8,False,False
+Kerala,Kasaragod,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),27.7,28.9,False,False
+Kerala,Kasaragod,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),33.3,28.4,False,False
+Kerala,Kasaragod,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,95.0,95.0,False,False
+Kerala,Kasaragod,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Kasaragod,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,95.8,95.9,False,False
+Kerala,Kasaragod,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,85.8,92.5,False,False
+Kerala,Kasaragod,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),87.3,98.0,False,False
+Kerala,Kasaragod,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),95.7,98.6,False,False
+Kerala,Kasaragod,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),95.7,98.6,False,False
+Kerala,Kasaragod,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),85.8,94.4,False,False
+Kerala,Kasaragod,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),87.8,96.6,False,False
+Kerala,Kasaragod,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),91.5,97.3,False,False
+Kerala,Kasaragod,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),79.5,40.5,True,False
+Kerala,Kasaragod,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),88.4,88.2,False,False
+Kerala,Kasaragod,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),85.5,24.7,False,False
+Kerala,Kasaragod,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),78.4,83.4,False,False
+Kerala,Kasaragod,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),89.2,88.3,False,False
+Kerala,Kasaragod,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),10.8,11.7,False,False
+Kerala,Kasaragod,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),2.6,1.9,False,False
+Kerala,Kasaragod,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.8,0.3,False,False
+Kerala,Kasaragod,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,84.5,97.0,True,False
+Kerala,Kasaragod,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),89.1,86.1,False,False
+Kerala,Kasaragod,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),65.1,68.2,True,False
+Kerala,Kasaragod,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),93.3,100.0,True,False
+Kerala,Kasaragod,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,80.8,83.7,True,False
+Kerala,Kasaragod,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Kasaragod,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",16.8,9.4,False,False
+Kerala,Kasaragod,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Kasaragod,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",18.0,12.2,False,False
+Kerala,Kasaragod,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),23.1,25.3,False,False
+Kerala,Kasaragod,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),8.6,12.6,False,False
+Kerala,Kasaragod,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),1.1,5.7,False,False
+Kerala,Kasaragod,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),14.9,21.4,False,False
+Kerala,Kasaragod,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.6,1.6,False,False
+Kerala,Kasaragod,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),15.8,9.4,False,False
+Kerala,Kasaragod,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),44.0,28.4,False,False
+Kerala,Kasaragod,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),8.2,8.1,False,False
+Kerala,Kasaragod,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),14.1,10.2,False,False
+Kerala,Kasaragod,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),24.4,20.4,False,False
+Kerala,Kasaragod,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),10.7,10.0,False,False
+Kerala,Kasaragod,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),17.3,10.2,False,False
+Kerala,Kasaragod,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),31.4,22.3,False,False
+Kerala,Kasaragod,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.5,13.4,False,False
+Kerala,Kasaragod,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.4,5.3,False,False
+Kerala,Kasaragod,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,25.3,26.1,False,False
+Kerala,Kasaragod,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.0,15.9,False,False
+Kerala,Kasaragod,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,5.8,4.6,False,False
+Kerala,Kasaragod,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,30.7,26.0,False,False
+Kerala,Kasaragod,Men,87,Women having a bank or savings account that they themselves use (%),94.4,76.2,False,False
+Kerala,Kasaragod,Men,88,Women having a mobile phone that they themselves use (%),87.4,87.3,False,False
+Kerala,Kasaragod,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),95.6,93.9,False,False
+Kerala,Kasaragod,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),3.8,3.5,False,False
+Kerala,Kasaragod,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),12.5,14.2,False,False
+Kerala,Kasaragod,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.2,0.1,False,False
+Kerala,Kasaragod,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),13.7,14.9,False,False
+Kerala,Kollam,Population and Household Profile,1,Population below age 5 years (%),5.9,5.2,False,False
+Kerala,Kollam,Population and Household Profile,2,Population below age 15 years (%),18.3,18.9,False,False
+Kerala,Kollam,Population and Household Profile,3,Population age 60 years and above (%),22.7,19.5,False,False
+Kerala,Kollam,Population and Household Profile,4,Population living in households with electricity (%),99.7,99.8,False,False
+Kerala,Kollam,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),97.7,95.7,False,False
+Kerala,Kollam,Population and Household Profile,6,Households using iodized salt (%),98.9,99.0,False,False
+Kerala,Kollam,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),61.6,64.3,False,False
+Kerala,Kollam,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.9,96.9,False,False
+Kerala,Kollam,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),97.1,96.6,False,False
+Kerala,Kollam,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),40.8,42.8,False,False
+Kerala,Kollam,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),70.3,57.5,False,False
+Kerala,Kollam,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),87.0,80.6,False,False
+Kerala,Kollam,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),80.7,83.4,False,False
+Kerala,Kollam,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),83.1,46.4,False,False
+Kerala,Kollam,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),95.4,78.5,True,False
+Kerala,Kollam,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),0.0,1.8,False,False
+Kerala,Kollam,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Kollam,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.6,0.7,False,False
+Kerala,Kollam,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),1.9,0.0,False,False
+Kerala,Kollam,Marriage and Fertility,20,Any method2 (%),73.8,62.9,False,False
+Kerala,Kollam,Marriage and Fertility,21,Any modern method2 (%),62.7,60.5,False,False
+Kerala,Kollam,Marriage and Fertility,22,Any traditional method (%),11.1,2.4,False,False
+Kerala,Kollam,Marriage and Fertility,23,Female sterilization (%),52.6,57.2,False,False
+Kerala,Kollam,Marriage and Fertility,24,Male sterilization (%),0.1,0.0,False,False
+Kerala,Kollam,Marriage and Fertility,25,Total unmet need3 (%),8.5,11.9,False,False
+Kerala,Kollam,Marriage and Fertility,26,Unmet need for spacing3 (%),5.7,7.2,False,False
+Kerala,Kollam,Marriage and Fertility,27,Unmet need for limiting3 (%),2.8,4.7,False,False
+Kerala,Kollam,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),79.6,92.6,False,False
+Kerala,Kollam,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),88.9,83.9,False,False
+Kerala,Kollam,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),80.6,79.3,False,False
+Kerala,Kollam,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),93.2,98.5,False,False
+Kerala,Kollam,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),95.0,89.0,False,False
+Kerala,Kollam,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),87.9,81.5,False,False
+Kerala,Kollam,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.6,94.9,False,False
+Kerala,Kollam,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),99.5,100.0,False,False
+Kerala,Kollam,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),45.3,44.7,False,False
+Kerala,Kollam,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),99.2,100.0,False,False
+Kerala,Kollam,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),53.8,49.1,False,False
+Kerala,Kollam,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),68.9,58.4,False,False
+Kerala,Kollam,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),36.4,37.6,False,False
+Kerala,Kollam,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,93.0,91.4,False,False
+Kerala,Kollam,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Kollam,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,91.7,89.5,False,False
+Kerala,Kollam,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,92.9,85.4,True,False
+Kerala,Kollam,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),89.4,*,True,False
+Kerala,Kollam,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),95.6,100.0,True,False
+Kerala,Kollam,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),95.6,96.3,True,False
+Kerala,Kollam,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),92.9,95.6,True,False
+Kerala,Kollam,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),95.6,89.1,True,False
+Kerala,Kollam,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),95.6,89.1,True,False
+Kerala,Kollam,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),87.5,33.8,True,False
+Kerala,Kollam,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),77.7,73.0,True,False
+Kerala,Kollam,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),95.6,11.1,True,False
+Kerala,Kollam,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),84.6,93.9,False,False
+Kerala,Kollam,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),96.8,90.5,True,False
+Kerala,Kollam,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),3.3,9.5,True,False
+Kerala,Kollam,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),9.8,5.5,False,False
+Kerala,Kollam,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),0.3,5.4,False,False
+Kerala,Kollam,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,69.9,92.5,False,False
+Kerala,Kollam,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),73.5,61.6,False,False
+Kerala,Kollam,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Kerala,Kollam,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Kerala,Kollam,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Kerala,Kollam,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Kollam,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",28.5,16.7,True,False
+Kerala,Kollam,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Kollam,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",27.9,17.3,True,False
+Kerala,Kollam,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),15.7,15.5,False,False
+Kerala,Kollam,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),15.6,21.4,False,False
+Kerala,Kollam,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),4.2,6.9,False,False
+Kerala,Kollam,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),15.9,17.0,False,False
+Kerala,Kollam,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.3,9.4,False,False
+Kerala,Kollam,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),13.9,9.5,False,False
+Kerala,Kollam,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),47.6,43.5,False,False
+Kerala,Kollam,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),6.9,8.1,False,False
+Kerala,Kollam,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),20.3,13.6,False,False
+Kerala,Kollam,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),30.7,26.2,False,False
+Kerala,Kollam,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),10.3,9.5,False,False
+Kerala,Kollam,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),18.2,16.7,False,False
+Kerala,Kollam,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),32.2,30.2,False,False
+Kerala,Kollam,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.1,16.2,False,False
+Kerala,Kollam,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.5,6.6,False,False
+Kerala,Kollam,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,34.2,32.4,False,False
+Kerala,Kollam,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),17.6,18.6,False,False
+Kerala,Kollam,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,8.3,8.2,False,False
+Kerala,Kollam,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,36.8,35.3,False,False
+Kerala,Kollam,Men,87,Women having a bank or savings account that they themselves use (%),94.2,84.8,False,False
+Kerala,Kollam,Men,88,Women having a mobile phone that they themselves use (%),90.7,86.5,False,False
+Kerala,Kollam,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),92.7,99.4,False,False
+Kerala,Kollam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),2.9,1.6,False,False
+Kerala,Kollam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),22.0,21.5,False,False
+Kerala,Kollam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.3,0.2,False,False
+Kerala,Kollam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),25.7,22.3,False,False
+Kerala,Kottayam,Population and Household Profile,1,Population below age 5 years (%),5.1,5.0,False,False
+Kerala,Kottayam,Population and Household Profile,2,Population below age 15 years (%),16.2,18.8,False,False
+Kerala,Kottayam,Population and Household Profile,3,Population age 60 years and above (%),26.4,22.1,False,False
+Kerala,Kottayam,Population and Household Profile,4,Population living in households with electricity (%),99.7,99.6,False,False
+Kerala,Kottayam,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),94.3,97.1,False,False
+Kerala,Kottayam,Population and Household Profile,6,Households using iodized salt (%),99.0,97.4,False,False
+Kerala,Kottayam,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),58.6,59.7,False,False
+Kerala,Kottayam,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.0,95.0,False,False
+Kerala,Kottayam,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),98.9,97.9,False,False
+Kerala,Kottayam,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),29.4,25.8,False,False
+Kerala,Kottayam,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),59.8,56.6,False,False
+Kerala,Kottayam,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),91.8,85.8,False,False
+Kerala,Kottayam,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),87.7,71.9,False,False
+Kerala,Kottayam,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),91.2,53.8,False,False
+Kerala,Kottayam,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),93.3,67.3,False,False
+Kerala,Kottayam,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),0.6,1.6,False,False
+Kerala,Kottayam,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Kottayam,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.7,0.0,False,False
+Kerala,Kottayam,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.0,2.8,False,False
+Kerala,Kottayam,Marriage and Fertility,20,Any method2 (%),68.3,44.7,False,False
+Kerala,Kottayam,Marriage and Fertility,21,Any modern method2 (%),52.7,40.3,False,False
+Kerala,Kottayam,Marriage and Fertility,22,Any traditional method (%),15.6,4.4,False,False
+Kerala,Kottayam,Marriage and Fertility,23,Female sterilization (%),40.6,33.0,False,False
+Kerala,Kottayam,Marriage and Fertility,24,Male sterilization (%),1.1,0.0,False,False
+Kerala,Kottayam,Marriage and Fertility,25,Total unmet need3 (%),8.2,16.1,False,False
+Kerala,Kottayam,Marriage and Fertility,26,Unmet need for spacing3 (%),5.5,5.6,False,False
+Kerala,Kottayam,Marriage and Fertility,27,Unmet need for limiting3 (%),2.7,10.5,False,False
+Kerala,Kottayam,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),81.6,81.6,False,False
+Kerala,Kottayam,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),88.8,65.1,False,False
+Kerala,Kottayam,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),83.2,55.1,False,False
+Kerala,Kottayam,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),90.1,83.6,False,False
+Kerala,Kottayam,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),95.0,51.1,False,False
+Kerala,Kottayam,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),79.2,44.0,False,False
+Kerala,Kottayam,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),91.7,90.4,False,False
+Kerala,Kottayam,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),100.0,98.7,False,False
+Kerala,Kottayam,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),37.1,44.3,False,False
+Kerala,Kottayam,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),100.0,99.3,False,False
+Kerala,Kottayam,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),43.4,48.0,False,False
+Kerala,Kottayam,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),39.7,49.4,False,False
+Kerala,Kottayam,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),49.8,47.7,False,False
+Kerala,Kottayam,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,89.5,85.0,False,False
+Kerala,Kottayam,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Kottayam,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,91.7,83.5,False,False
+Kerala,Kottayam,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,82.6,*,True,False
+Kerala,Kottayam,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),84.8,*,True,False
+Kerala,Kottayam,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,*,True,False
+Kerala,Kottayam,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),93.8,*,True,False
+Kerala,Kottayam,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),88.8,*,True,False
+Kerala,Kottayam,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),94.5,*,True,False
+Kerala,Kottayam,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),96.9,*,True,False
+Kerala,Kottayam,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),95.2,54.7,True,False
+Kerala,Kottayam,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),93.8,*,True,False
+Kerala,Kottayam,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),88.1,*,True,False
+Kerala,Kottayam,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),89.7,91.2,False,False
+Kerala,Kottayam,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),94.9,*,True,False
+Kerala,Kottayam,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),5.1,*,True,False
+Kerala,Kottayam,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.6,10.2,False,False
+Kerala,Kottayam,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),5.8,1.2,False,False
+Kerala,Kottayam,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,83.6,86.6,False,False
+Kerala,Kottayam,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),73.9,51.1,False,False
+Kerala,Kottayam,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Kerala,Kottayam,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Kerala,Kottayam,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Kerala,Kottayam,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Kottayam,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",22.3,16.9,True,False
+Kerala,Kottayam,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Kottayam,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",27.3,19.0,True,False
+Kerala,Kottayam,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),19.3,23.4,False,False
+Kerala,Kottayam,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),10.2,8.4,False,False
+Kerala,Kottayam,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),3.2,2.3,False,False
+Kerala,Kottayam,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),19.6,17.3,False,False
+Kerala,Kottayam,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),7.9,3.2,False,False
+Kerala,Kottayam,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),12.7,12.3,False,False
+Kerala,Kottayam,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),45.6,39.8,False,False
+Kerala,Kottayam,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),10.5,7.6,False,False
+Kerala,Kottayam,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),19.3,16.9,False,False
+Kerala,Kottayam,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),35.2,28.7,False,False
+Kerala,Kottayam,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),8.0,8.9,False,False
+Kerala,Kottayam,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),20.4,15.5,False,False
+Kerala,Kottayam,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),32.9,29.4,False,False
+Kerala,Kottayam,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),15.4,15.4,False,False
+Kerala,Kottayam,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,7.8,8.6,False,False
+Kerala,Kottayam,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,36.7,34.2,False,False
+Kerala,Kottayam,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),18.2,21.0,False,False
+Kerala,Kottayam,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,10.0,9.2,False,False
+Kerala,Kottayam,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,37.9,38.8,False,False
+Kerala,Kottayam,Men,87,Women having a bank or savings account that they themselves use (%),92.7,75.2,False,False
+Kerala,Kottayam,Men,88,Women having a mobile phone that they themselves use (%),90.7,86.8,False,False
+Kerala,Kottayam,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),94.4,94.1,False,False
+Kerala,Kottayam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),0.9,1.7,False,False
+Kerala,Kottayam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),18.9,18.3,False,False
+Kerala,Kottayam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.1,0.6,False,False
+Kerala,Kottayam,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),31.0,27.4,False,False
+Kerala,Kozhikode,Population and Household Profile,1,Population below age 5 years (%),6.8,6.4,False,False
+Kerala,Kozhikode,Population and Household Profile,2,Population below age 15 years (%),21.6,19.9,False,False
+Kerala,Kozhikode,Population and Household Profile,3,Population age 60 years and above (%),19.8,17.4,False,False
+Kerala,Kozhikode,Population and Household Profile,4,Population living in households with electricity (%),99.7,99.6,False,False
+Kerala,Kozhikode,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),97.8,93.3,False,False
+Kerala,Kozhikode,Population and Household Profile,6,Households using iodized salt (%),99.5,99.8,False,False
+Kerala,Kozhikode,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),66.1,67.0,False,False
+Kerala,Kozhikode,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.0,94.8,False,False
+Kerala,Kozhikode,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),98.0,97.7,False,False
+Kerala,Kozhikode,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),34.7,26.5,False,False
+Kerala,Kozhikode,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),56.3,55.1,False,False
+Kerala,Kozhikode,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),86.9,84.3,False,False
+Kerala,Kozhikode,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),88.0,83.9,False,False
+Kerala,Kozhikode,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),94.6,72.8,False,False
+Kerala,Kozhikode,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),97.2,85.6,False,False
+Kerala,Kozhikode,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),2.8,4.2,False,False
+Kerala,Kozhikode,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Kozhikode,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.0,1.0,False,False
+Kerala,Kozhikode,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),0.8,3.8,False,False
+Kerala,Kozhikode,Marriage and Fertility,20,Any method2 (%),73.3,67.7,False,False
+Kerala,Kozhikode,Marriage and Fertility,21,Any modern method2 (%),51.1,58.5,False,False
+Kerala,Kozhikode,Marriage and Fertility,22,Any traditional method (%),22.2,9.2,False,False
+Kerala,Kozhikode,Marriage and Fertility,23,Female sterilization (%),37.2,52.5,False,False
+Kerala,Kozhikode,Marriage and Fertility,24,Male sterilization (%),0.1,0.0,False,False
+Kerala,Kozhikode,Marriage and Fertility,25,Total unmet need3 (%),8.1,9.6,False,False
+Kerala,Kozhikode,Marriage and Fertility,26,Unmet need for spacing3 (%),5.4,6.0,False,False
+Kerala,Kozhikode,Marriage and Fertility,27,Unmet need for limiting3 (%),2.7,3.6,False,False
+Kerala,Kozhikode,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),91.0,98.3,False,False
+Kerala,Kozhikode,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),93.2,95.9,False,False
+Kerala,Kozhikode,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),89.4,91.8,False,False
+Kerala,Kozhikode,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),98.3,96.7,False,False
+Kerala,Kozhikode,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),90.1,85.7,False,False
+Kerala,Kozhikode,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),86.2,76.1,False,False
+Kerala,Kozhikode,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),91.4,96.6,False,False
+Kerala,Kozhikode,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),99.6,100.0,False,False
+Kerala,Kozhikode,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),34.4,42.2,False,False
+Kerala,Kozhikode,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),99.6,100.0,False,False
+Kerala,Kozhikode,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),39.3,45.7,False,False
+Kerala,Kozhikode,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),41.5,48.8,False,False
+Kerala,Kozhikode,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),35.6,41.4,False,False
+Kerala,Kozhikode,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,96.2,91.0,False,False
+Kerala,Kozhikode,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Kozhikode,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,95.6,89.0,False,False
+Kerala,Kozhikode,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,82.2,88.8,True,False
+Kerala,Kozhikode,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),82.2,92.3,True,False
+Kerala,Kozhikode,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),96.8,98.1,True,False
+Kerala,Kozhikode,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),96.8,98.1,True,False
+Kerala,Kozhikode,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),88.4,96.2,True,False
+Kerala,Kozhikode,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),85.4,90.7,True,False
+Kerala,Kozhikode,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),91.6,90.7,True,False
+Kerala,Kozhikode,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),86.9,15.0,True,False
+Kerala,Kozhikode,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),89.4,92.7,True,False
+Kerala,Kozhikode,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),90.1,16.5,True,False
+Kerala,Kozhikode,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),76.0,80.9,False,False
+Kerala,Kozhikode,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),88.2,81.2,True,False
+Kerala,Kozhikode,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),11.8,18.8,True,False
+Kerala,Kozhikode,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.8,2.3,False,False
+Kerala,Kozhikode,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.2,1.2,False,False
+Kerala,Kozhikode,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,79.6,91.2,True,False
+Kerala,Kozhikode,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),86.0,85.6,False,False
+Kerala,Kozhikode,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Kerala,Kozhikode,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Kerala,Kozhikode,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Kerala,Kozhikode,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Kozhikode,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",22.5,26.7,False,False
+Kerala,Kozhikode,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Kozhikode,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",23.9,25.1,False,False
+Kerala,Kozhikode,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),17.9,21.3,False,False
+Kerala,Kozhikode,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),7.8,14.1,False,False
+Kerala,Kozhikode,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),3.1,3.4,False,False
+Kerala,Kozhikode,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),14.4,18.9,False,False
+Kerala,Kozhikode,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),2.6,4.4,False,False
+Kerala,Kozhikode,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),11.0,8.4,False,False
+Kerala,Kozhikode,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),48.1,30.7,False,False
+Kerala,Kozhikode,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),9.1,7.7,False,False
+Kerala,Kozhikode,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),15.2,11.7,False,False
+Kerala,Kozhikode,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),27.5,22.5,False,False
+Kerala,Kozhikode,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),10.6,10.2,False,False
+Kerala,Kozhikode,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),19.4,11.7,False,False
+Kerala,Kozhikode,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),33.6,23.9,False,False
+Kerala,Kozhikode,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.3,15.8,False,False
+Kerala,Kozhikode,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,5.3,6.0,False,False
+Kerala,Kozhikode,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,28.2,29.6,False,False
+Kerala,Kozhikode,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),17.6,18.9,False,False
+Kerala,Kozhikode,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,8.9,4.0,False,False
+Kerala,Kozhikode,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,35.4,28.4,False,False
+Kerala,Kozhikode,Men,87,Women having a bank or savings account that they themselves use (%),89.2,71.3,False,False
+Kerala,Kozhikode,Men,88,Women having a mobile phone that they themselves use (%),92.2,84.2,False,False
+Kerala,Kozhikode,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),94.2,96.5,False,False
+Kerala,Kozhikode,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),1.0,0.8,False,False
+Kerala,Kozhikode,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),13.4,11.3,False,False
+Kerala,Kozhikode,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.1,0.0,False,False
+Kerala,Kozhikode,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),18.1,13.5,False,False
+Kerala,Malappuram,Population and Household Profile,1,Population below age 5 years (%),7.5,8.1,False,False
+Kerala,Malappuram,Population and Household Profile,2,Population below age 15 years (%),25.6,27.0,False,False
+Kerala,Malappuram,Population and Household Profile,3,Population age 60 years and above (%),14.7,12.1,False,False
+Kerala,Malappuram,Population and Household Profile,4,Population living in households with electricity (%),99.6,99.7,False,False
+Kerala,Malappuram,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),98.3,97.7,False,False
+Kerala,Malappuram,Population and Household Profile,6,Households using iodized salt (%),99.5,99.4,False,False
+Kerala,Malappuram,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),57.1,47.9,False,False
+Kerala,Malappuram,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.9,97.4,False,False
+Kerala,Malappuram,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),96.7,94.9,False,False
+Kerala,Malappuram,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),28.5,22.4,False,False
+Kerala,Malappuram,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),45.5,45.1,False,False
+Kerala,Malappuram,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),84.8,69.5,False,False
+Kerala,Malappuram,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),84.9,69.0,False,False
+Kerala,Malappuram,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),89.8,57.2,False,False
+Kerala,Malappuram,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),100.0,65.1,False,False
+Kerala,Malappuram,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),4.8,15.3,False,False
+Kerala,Malappuram,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Malappuram,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.9,0.3,False,False
+Kerala,Malappuram,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),3.4,2.6,False,False
+Kerala,Malappuram,Marriage and Fertility,20,Any method2 (%),58.2,58.6,False,False
+Kerala,Malappuram,Marriage and Fertility,21,Any modern method2 (%),42.6,41.5,False,False
+Kerala,Malappuram,Marriage and Fertility,22,Any traditional method (%),15.6,17.1,False,False
+Kerala,Malappuram,Marriage and Fertility,23,Female sterilization (%),29.7,36.8,False,False
+Kerala,Malappuram,Marriage and Fertility,24,Male sterilization (%),0.2,0.0,False,False
+Kerala,Malappuram,Marriage and Fertility,25,Total unmet need3 (%),13.9,13.8,False,False
+Kerala,Malappuram,Marriage and Fertility,26,Unmet need for spacing3 (%),11.8,8.5,False,False
+Kerala,Malappuram,Marriage and Fertility,27,Unmet need for limiting3 (%),2.1,5.3,False,False
+Kerala,Malappuram,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),82.2,95.3,False,False
+Kerala,Malappuram,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),99.1,93.4,False,False
+Kerala,Malappuram,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),90.3,90.4,False,False
+Kerala,Malappuram,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),95.7,99.6,False,False
+Kerala,Malappuram,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),95.1,92.3,False,False
+Kerala,Malappuram,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),86.6,71.1,False,False
+Kerala,Malappuram,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),93.2,91.5,False,False
+Kerala,Malappuram,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),99.6,100.0,False,False
+Kerala,Malappuram,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),25.8,25.6,False,False
+Kerala,Malappuram,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),100.0,100.0,False,False
+Kerala,Malappuram,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),31.4,25.5,False,False
+Kerala,Malappuram,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),31.0,26.8,False,False
+Kerala,Malappuram,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),32.8,21.7,False,False
+Kerala,Malappuram,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,94.8,96.9,False,False
+Kerala,Malappuram,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Malappuram,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,93.9,95.1,False,False
+Kerala,Malappuram,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,73.1,80.3,False,False
+Kerala,Malappuram,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),79.1,82.6,True,False
+Kerala,Malappuram,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,100.0,False,False
+Kerala,Malappuram,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),100.0,100.0,False,False
+Kerala,Malappuram,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),76.4,86.3,False,False
+Kerala,Malappuram,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),80.8,82.3,False,False
+Kerala,Malappuram,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),86.0,86.3,False,False
+Kerala,Malappuram,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),67.6,35.1,False,False
+Kerala,Malappuram,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),79.9,83.2,False,False
+Kerala,Malappuram,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),76.1,3.5,False,False
+Kerala,Malappuram,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),80.6,74.2,False,False
+Kerala,Malappuram,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),94.0,79.6,False,False
+Kerala,Malappuram,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),6.0,20.4,False,False
+Kerala,Malappuram,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),7.4,5.5,False,False
+Kerala,Malappuram,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.1,0.6,False,False
+Kerala,Malappuram,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,76.1,88.5,False,False
+Kerala,Malappuram,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),88.7,69.6,False,False
+Kerala,Malappuram,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),58.7,*,True,False
+Kerala,Malappuram,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),100.0,*,True,False
+Kerala,Malappuram,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,69.1,*,True,False
+Kerala,Malappuram,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Malappuram,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",27.4,26.8,False,False
+Kerala,Malappuram,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Malappuram,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",26.8,26.1,False,False
+Kerala,Malappuram,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),29.8,29.4,False,False
+Kerala,Malappuram,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),10.6,18.2,False,False
+Kerala,Malappuram,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),1.9,6.5,False,False
+Kerala,Malappuram,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),23.5,21.4,False,False
+Kerala,Malappuram,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.6,3.3,False,False
+Kerala,Malappuram,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),11.0,10.3,False,False
+Kerala,Malappuram,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),48.6,36.6,False,False
+Kerala,Malappuram,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),7.8,6.9,False,False
+Kerala,Malappuram,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),14.6,12.1,False,False
+Kerala,Malappuram,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),25.6,21.4,False,False
+Kerala,Malappuram,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),9.2,10.1,False,False
+Kerala,Malappuram,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),19.1,11.8,False,False
+Kerala,Malappuram,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),31.4,24.0,False,False
+Kerala,Malappuram,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.9,14.2,False,False
+Kerala,Malappuram,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,4.9,4.9,False,False
+Kerala,Malappuram,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,27.2,25.4,False,False
+Kerala,Malappuram,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),16.4,18.5,False,False
+Kerala,Malappuram,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,7.9,4.9,False,False
+Kerala,Malappuram,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,32.2,27.4,False,False
+Kerala,Malappuram,Men,87,Women having a bank or savings account that they themselves use (%),85.3,73.4,False,False
+Kerala,Malappuram,Men,88,Women having a mobile phone that they themselves use (%),86.9,86.6,False,False
+Kerala,Malappuram,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),86.0,88.7,False,False
+Kerala,Malappuram,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),0.7,1.5,False,False
+Kerala,Malappuram,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),10.9,12.5,False,False
+Kerala,Malappuram,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.2,0.2,False,False
+Kerala,Malappuram,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),8.7,7.7,False,False
+Kerala,Palakkad,Population and Household Profile,1,Population below age 5 years (%),7.5,6.0,False,False
+Kerala,Palakkad,Population and Household Profile,2,Population below age 15 years (%),22.3,19.3,False,False
+Kerala,Palakkad,Population and Household Profile,3,Population age 60 years and above (%),15.9,18.7,False,False
+Kerala,Palakkad,Population and Household Profile,4,Population living in households with electricity (%),99.9,98.9,False,False
+Kerala,Palakkad,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),95.2,94.7,False,False
+Kerala,Palakkad,Population and Household Profile,6,Households using iodized salt (%),99.1,99.7,False,False
+Kerala,Palakkad,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),56.0,60.8,False,False
+Kerala,Palakkad,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.9,93.5,False,False
+Kerala,Palakkad,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),91.5,89.6,False,False
+Kerala,Palakkad,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),35.1,30.4,False,False
+Kerala,Palakkad,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),57.8,46.8,False,False
+Kerala,Palakkad,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),78.4,63.2,False,False
+Kerala,Palakkad,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),71.0,49.0,False,False
+Kerala,Palakkad,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),86.3,49.8,False,False
+Kerala,Palakkad,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),88.7,62.7,False,False
+Kerala,Palakkad,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),8.1,14.1,False,False
+Kerala,Palakkad,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Palakkad,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.0,0.0,False,False
+Kerala,Palakkad,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.9,4.4,False,False
+Kerala,Palakkad,Marriage and Fertility,20,Any method2 (%),69.5,58.9,False,False
+Kerala,Palakkad,Marriage and Fertility,21,Any modern method2 (%),58.8,51.9,False,False
+Kerala,Palakkad,Marriage and Fertility,22,Any traditional method (%),10.7,7.0,False,False
+Kerala,Palakkad,Marriage and Fertility,23,Female sterilization (%),46.2,48.1,False,False
+Kerala,Palakkad,Marriage and Fertility,24,Male sterilization (%),0.1,0.0,False,False
+Kerala,Palakkad,Marriage and Fertility,25,Total unmet need3 (%),11.2,10.8,False,False
+Kerala,Palakkad,Marriage and Fertility,26,Unmet need for spacing3 (%),7.7,6.7,False,False
+Kerala,Palakkad,Marriage and Fertility,27,Unmet need for limiting3 (%),3.5,4.1,False,False
+Kerala,Palakkad,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),90.8,97.7,False,False
+Kerala,Palakkad,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),100.0,75.1,False,False
+Kerala,Palakkad,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),90.8,68.4,False,False
+Kerala,Palakkad,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),97.3,87.9,False,False
+Kerala,Palakkad,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),95.1,71.7,False,False
+Kerala,Palakkad,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),91.2,58.8,False,False
+Kerala,Palakkad,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),95.5,87.3,False,False
+Kerala,Palakkad,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),100.0,100.0,False,False
+Kerala,Palakkad,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),25.3,29.6,False,False
+Kerala,Palakkad,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),100.0,100.0,False,False
+Kerala,Palakkad,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),35.1,31.2,False,False
+Kerala,Palakkad,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),35.0,29.7,False,False
+Kerala,Palakkad,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),35.2,34.7,False,False
+Kerala,Palakkad,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,95.6,97.5,False,False
+Kerala,Palakkad,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Palakkad,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,95.6,93.2,False,False
+Kerala,Palakkad,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,80.5,51.8,True,False
+Kerala,Palakkad,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),83.3,73.2,True,False
+Kerala,Palakkad,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),97.2,90.2,True,False
+Kerala,Palakkad,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),97.2,90.2,True,False
+Kerala,Palakkad,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),90.5,57.0,True,False
+Kerala,Palakkad,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),80.5,71.0,True,False
+Kerala,Palakkad,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),92.5,77.0,True,False
+Kerala,Palakkad,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),82.9,40.9,True,False
+Kerala,Palakkad,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),84.1,76.0,True,False
+Kerala,Palakkad,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),78.8,11.0,True,False
+Kerala,Palakkad,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),86.1,77.6,False,False
+Kerala,Palakkad,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,94.1,True,False
+Kerala,Palakkad,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,5.9,True,False
+Kerala,Palakkad,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),4.8,2.7,False,False
+Kerala,Palakkad,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.4,1.9,False,False
+Kerala,Palakkad,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,83.2,82.5,True,False
+Kerala,Palakkad,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),78.7,55.2,False,False
+Kerala,Palakkad,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),77.2,*,True,False
+Kerala,Palakkad,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),97.1,*,True,False
+Kerala,Palakkad,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,93.0,*,True,False
+Kerala,Palakkad,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Palakkad,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",10.1,26.8,True,False
+Kerala,Palakkad,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Palakkad,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",11.5,23.7,False,False
+Kerala,Palakkad,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),19.9,29.7,False,False
+Kerala,Palakkad,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),10.9,21.7,False,False
+Kerala,Palakkad,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),2.4,9.0,False,False
+Kerala,Palakkad,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),17.8,27.7,False,False
+Kerala,Palakkad,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),0.5,1.1,False,False
+Kerala,Palakkad,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),15.9,12.9,False,False
+Kerala,Palakkad,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),45.8,32.9,False,False
+Kerala,Palakkad,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),7.3,9.0,False,False
+Kerala,Palakkad,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),15.8,12.8,False,False
+Kerala,Palakkad,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),25.3,24.6,False,False
+Kerala,Palakkad,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),7.9,10.5,False,False
+Kerala,Palakkad,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),17.6,13.0,False,False
+Kerala,Palakkad,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),27.7,26.3,False,False
+Kerala,Palakkad,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),13.9,17.7,False,False
+Kerala,Palakkad,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,7.5,7.8,False,False
+Kerala,Palakkad,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,29.7,32.4,False,False
+Kerala,Palakkad,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.0,22.4,False,False
+Kerala,Palakkad,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,11.2,8.5,False,False
+Kerala,Palakkad,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,38.5,35.3,False,False
+Kerala,Palakkad,Men,87,Women having a bank or savings account that they themselves use (%),88.3,78.7,False,False
+Kerala,Palakkad,Men,88,Women having a mobile phone that they themselves use (%),84.7,85.0,False,False
+Kerala,Palakkad,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),88.0,87.5,False,False
+Kerala,Palakkad,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),5.0,5.1,False,False
+Kerala,Palakkad,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),18.2,22.5,False,False
+Kerala,Palakkad,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.2,0.4,False,False
+Kerala,Palakkad,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),20.6,23.1,False,False
+Kerala,Pathanamthitta,Population and Household Profile,1,Population below age 5 years (%),4.2,4.5,False,False
+Kerala,Pathanamthitta,Population and Household Profile,2,Population below age 15 years (%),15.8,16.4,False,False
+Kerala,Pathanamthitta,Population and Household Profile,3,Population age 60 years and above (%),28.4,25.4,False,False
+Kerala,Pathanamthitta,Population and Household Profile,4,Population living in households with electricity (%),99.9,99.6,False,False
+Kerala,Pathanamthitta,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),93.1,94.1,False,False
+Kerala,Pathanamthitta,Population and Household Profile,6,Households using iodized salt (%),99.8,99.6,False,False
+Kerala,Pathanamthitta,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),56.4,56.6,False,False
+Kerala,Pathanamthitta,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.4,97.3,False,False
+Kerala,Pathanamthitta,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),98.5,97.7,False,False
+Kerala,Pathanamthitta,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),27.9,28.7,False,False
+Kerala,Pathanamthitta,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),73.0,66.4,False,False
+Kerala,Pathanamthitta,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),93.2,84.5,False,False
+Kerala,Pathanamthitta,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),87.9,71.6,False,False
+Kerala,Pathanamthitta,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),87.6,62.5,False,False
+Kerala,Pathanamthitta,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),95.9,73.5,False,False
+Kerala,Pathanamthitta,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),1.7,0.0,False,False
+Kerala,Pathanamthitta,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Pathanamthitta,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.0,0.0,False,False
+Kerala,Pathanamthitta,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.5,0.0,False,False
+Kerala,Pathanamthitta,Marriage and Fertility,20,Any method2 (%),68.5,59.3,False,False
+Kerala,Pathanamthitta,Marriage and Fertility,21,Any modern method2 (%),57.1,54.4,False,False
+Kerala,Pathanamthitta,Marriage and Fertility,22,Any traditional method (%),11.4,4.9,False,False
+Kerala,Pathanamthitta,Marriage and Fertility,23,Female sterilization (%),45.2,47.6,False,False
+Kerala,Pathanamthitta,Marriage and Fertility,24,Male sterilization (%),0.0,0.2,False,False
+Kerala,Pathanamthitta,Marriage and Fertility,25,Total unmet need3 (%),6.5,12.3,False,False
+Kerala,Pathanamthitta,Marriage and Fertility,26,Unmet need for spacing3 (%),5.0,4.8,False,False
+Kerala,Pathanamthitta,Marriage and Fertility,27,Unmet need for limiting3 (%),1.5,7.5,False,False
+Kerala,Pathanamthitta,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),83.7,92.9,False,False
+Kerala,Pathanamthitta,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),88.2,91.4,False,False
+Kerala,Pathanamthitta,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),80.0,83.9,False,False
+Kerala,Pathanamthitta,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),88.3,94.2,False,False
+Kerala,Pathanamthitta,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),87.9,74.7,False,False
+Kerala,Pathanamthitta,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),68.4,58.6,False,False
+Kerala,Pathanamthitta,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),96.1,92.2,False,False
+Kerala,Pathanamthitta,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),99.3,99.1,False,False
+Kerala,Pathanamthitta,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),47.6,36.8,False,False
+Kerala,Pathanamthitta,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),98.2,99.2,False,False
+Kerala,Pathanamthitta,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),57.2,57.6,False,False
+Kerala,Pathanamthitta,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),70.2,61.1,False,False
+Kerala,Pathanamthitta,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),43.9,53.0,False,False
+Kerala,Pathanamthitta,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,93.9,95.2,False,False
+Kerala,Pathanamthitta,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Pathanamthitta,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,95.9,93.2,False,False
+Kerala,Pathanamthitta,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,*,*,True,False
+Kerala,Pathanamthitta,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),*,*,True,False
+Kerala,Pathanamthitta,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),*,*,True,False
+Kerala,Pathanamthitta,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),*,*,True,False
+Kerala,Pathanamthitta,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),*,*,True,False
+Kerala,Pathanamthitta,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),*,*,True,False
+Kerala,Pathanamthitta,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),*,*,True,False
+Kerala,Pathanamthitta,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),*,*,True,False
+Kerala,Pathanamthitta,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),*,*,True,False
+Kerala,Pathanamthitta,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),*,*,True,False
+Kerala,Pathanamthitta,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),89.9,90.9,True,False
+Kerala,Pathanamthitta,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),*,*,True,False
+Kerala,Pathanamthitta,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),*,*,True,False
+Kerala,Pathanamthitta,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.7,4.7,False,False
+Kerala,Pathanamthitta,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),2.1,3.5,False,False
+Kerala,Pathanamthitta,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,82.5,78.6,True,False
+Kerala,Pathanamthitta,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),56.8,65.0,False,False
+Kerala,Pathanamthitta,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Kerala,Pathanamthitta,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Kerala,Pathanamthitta,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Kerala,Pathanamthitta,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Pathanamthitta,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",22.0,54.1,True,False
+Kerala,Pathanamthitta,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Pathanamthitta,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",30.9,50.1,True,False
+Kerala,Pathanamthitta,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),20.6,22.7,False,False
+Kerala,Pathanamthitta,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),13.3,11.4,False,False
+Kerala,Pathanamthitta,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),4.7,3.9,False,False
+Kerala,Pathanamthitta,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),13.8,11.2,False,False
+Kerala,Pathanamthitta,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),8.9,5.0,False,False
+Kerala,Pathanamthitta,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),9.9,12.3,False,False
+Kerala,Pathanamthitta,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),46.2,43.8,False,False
+Kerala,Pathanamthitta,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),8.8,8.5,False,False
+Kerala,Pathanamthitta,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),19.1,17.9,False,False
+Kerala,Pathanamthitta,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),33.0,32.1,False,False
+Kerala,Pathanamthitta,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),7.8,9.2,False,False
+Kerala,Pathanamthitta,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),20.3,20.5,False,False
+Kerala,Pathanamthitta,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),33.2,34.7,False,False
+Kerala,Pathanamthitta,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),17.3,17.6,False,False
+Kerala,Pathanamthitta,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,8.9,11.7,False,False
+Kerala,Pathanamthitta,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,39.4,42.1,False,False
+Kerala,Pathanamthitta,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),21.7,24.0,False,False
+Kerala,Pathanamthitta,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,9.8,9.2,False,False
+Kerala,Pathanamthitta,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,42.9,41.9,False,False
+Kerala,Pathanamthitta,Men,87,Women having a bank or savings account that they themselves use (%),93.5,76.3,False,False
+Kerala,Pathanamthitta,Men,88,Women having a mobile phone that they themselves use (%),93.7,91.5,False,False
+Kerala,Pathanamthitta,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),98.0,97.9,False,False
+Kerala,Pathanamthitta,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),2.1,1.5,False,False
+Kerala,Pathanamthitta,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),18.9,22.3,False,False
+Kerala,Pathanamthitta,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.4,0.2,False,False
+Kerala,Pathanamthitta,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),24.5,23.8,False,False
+Kerala,Thiruvananthapuram,Population and Household Profile,1,Population below age 5 years (%),5.3,5.9,False,False
+Kerala,Thiruvananthapuram,Population and Household Profile,2,Population below age 15 years (%),18.5,20.3,False,False
+Kerala,Thiruvananthapuram,Population and Household Profile,3,Population age 60 years and above (%),21.0,20.2,False,False
+Kerala,Thiruvananthapuram,Population and Household Profile,4,Population living in households with electricity (%),99.7,99.9,False,False
+Kerala,Thiruvananthapuram,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),96.1,92.9,False,False
+Kerala,Thiruvananthapuram,Population and Household Profile,6,Households using iodized salt (%),99.4,99.3,False,False
+Kerala,Thiruvananthapuram,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),62.8,54.9,False,False
+Kerala,Thiruvananthapuram,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),98.8,94.9,False,False
+Kerala,Thiruvananthapuram,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),96.5,94.5,False,False
+Kerala,Thiruvananthapuram,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),39.9,38.1,False,False
+Kerala,Thiruvananthapuram,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),61.7,57.6,False,False
+Kerala,Thiruvananthapuram,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),87.8,83.1,False,False
+Kerala,Thiruvananthapuram,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),83.5,78.8,False,False
+Kerala,Thiruvananthapuram,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),80.9,68.2,False,False
+Kerala,Thiruvananthapuram,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),94.3,79.7,False,False
+Kerala,Thiruvananthapuram,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),0.0,6.2,False,False
+Kerala,Thiruvananthapuram,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Thiruvananthapuram,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),0.6,0.8,False,False
+Kerala,Thiruvananthapuram,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),1.1,4.6,False,False
+Kerala,Thiruvananthapuram,Marriage and Fertility,20,Any method2 (%),72.0,41.3,False,False
+Kerala,Thiruvananthapuram,Marriage and Fertility,21,Any modern method2 (%),64.0,38.5,False,False
+Kerala,Thiruvananthapuram,Marriage and Fertility,22,Any traditional method (%),8.0,2.8,False,False
+Kerala,Thiruvananthapuram,Marriage and Fertility,23,Female sterilization (%),50.9,33.2,False,False
+Kerala,Thiruvananthapuram,Marriage and Fertility,24,Male sterilization (%),0.2,0.0,False,False
+Kerala,Thiruvananthapuram,Marriage and Fertility,25,Total unmet need3 (%),9.5,19.3,False,False
+Kerala,Thiruvananthapuram,Marriage and Fertility,26,Unmet need for spacing3 (%),5.3,9.8,False,False
+Kerala,Thiruvananthapuram,Marriage and Fertility,27,Unmet need for limiting3 (%),4.2,9.5,False,False
+Kerala,Thiruvananthapuram,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),78.9,87.7,False,False
+Kerala,Thiruvananthapuram,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),88.4,65.9,False,False
+Kerala,Thiruvananthapuram,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),81.0,55.3,False,False
+Kerala,Thiruvananthapuram,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),94.4,91.9,False,False
+Kerala,Thiruvananthapuram,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),86.5,71.6,False,False
+Kerala,Thiruvananthapuram,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),77.0,59.9,False,False
+Kerala,Thiruvananthapuram,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),94.5,79.1,False,False
+Kerala,Thiruvananthapuram,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),100.0,99.5,False,False
+Kerala,Thiruvananthapuram,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),48.9,34.7,False,False
+Kerala,Thiruvananthapuram,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),99.8,100.0,False,False
+Kerala,Thiruvananthapuram,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),41.8,32.8,False,False
+Kerala,Thiruvananthapuram,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),47.0,36.0,False,False
+Kerala,Thiruvananthapuram,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),36.3,27.2,False,False
+Kerala,Thiruvananthapuram,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,92.9,86.2,False,False
+Kerala,Thiruvananthapuram,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Thiruvananthapuram,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,92.1,88.0,False,False
+Kerala,Thiruvananthapuram,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,96.3,72.8,True,False
+Kerala,Thiruvananthapuram,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),96.3,*,True,False
+Kerala,Thiruvananthapuram,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),100.0,100.0,True,False
+Kerala,Thiruvananthapuram,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),100.0,100.0,True,False
+Kerala,Thiruvananthapuram,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),98.9,76.3,True,False
+Kerala,Thiruvananthapuram,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),96.3,84.0,True,False
+Kerala,Thiruvananthapuram,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),100.0,93.4,True,False
+Kerala,Thiruvananthapuram,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),88.6,23.9,True,False
+Kerala,Thiruvananthapuram,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),85.5,78.5,True,False
+Kerala,Thiruvananthapuram,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),97.4,11.5,True,False
+Kerala,Thiruvananthapuram,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),89.9,91.8,False,False
+Kerala,Thiruvananthapuram,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),97.2,81.7,True,False
+Kerala,Thiruvananthapuram,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),2.8,14.3,True,False
+Kerala,Thiruvananthapuram,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.4,6.4,False,False
+Kerala,Thiruvananthapuram,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),1.9,4.9,False,False
+Kerala,Thiruvananthapuram,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,80.3,80.8,True,False
+Kerala,Thiruvananthapuram,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),88.3,52.1,False,False
+Kerala,Thiruvananthapuram,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Kerala,Thiruvananthapuram,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Kerala,Thiruvananthapuram,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Kerala,Thiruvananthapuram,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Thiruvananthapuram,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",35.1,31.9,True,False
+Kerala,Thiruvananthapuram,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Thiruvananthapuram,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",39.8,32.3,True,False
+Kerala,Thiruvananthapuram,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),11.7,19.5,False,False
+Kerala,Thiruvananthapuram,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),7.7,17.4,False,False
+Kerala,Thiruvananthapuram,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),0.6,6.3,False,False
+Kerala,Thiruvananthapuram,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),11.1,15.2,False,False
+Kerala,Thiruvananthapuram,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),2.5,2.8,False,False
+Kerala,Thiruvananthapuram,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),9.0,6.6,False,False
+Kerala,Thiruvananthapuram,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),51.7,50.6,False,False
+Kerala,Thiruvananthapuram,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),8.3,6.3,False,False
+Kerala,Thiruvananthapuram,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),18.1,16.5,False,False
+Kerala,Thiruvananthapuram,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),31.7,26.1,False,False
+Kerala,Thiruvananthapuram,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),9.2,10.2,False,False
+Kerala,Thiruvananthapuram,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),17.4,21.1,False,False
+Kerala,Thiruvananthapuram,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),31.5,36.2,False,False
+Kerala,Thiruvananthapuram,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),12.9,12.2,False,False
+Kerala,Thiruvananthapuram,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,6.5,6.0,False,False
+Kerala,Thiruvananthapuram,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,35.0,31.4,False,False
+Kerala,Thiruvananthapuram,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),18.3,14.5,False,False
+Kerala,Thiruvananthapuram,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,7.6,6.9,False,False
+Kerala,Thiruvananthapuram,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,37.5,32.1,False,False
+Kerala,Thiruvananthapuram,Men,87,Women having a bank or savings account that they themselves use (%),93.8,83.8,False,False
+Kerala,Thiruvananthapuram,Men,88,Women having a mobile phone that they themselves use (%),88.1,92.4,False,False
+Kerala,Thiruvananthapuram,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),95.4,98.1,False,False
+Kerala,Thiruvananthapuram,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),1.9,0.8,False,False
+Kerala,Thiruvananthapuram,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),16.4,15.0,False,False
+Kerala,Thiruvananthapuram,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.6,0.0,False,False
+Kerala,Thiruvananthapuram,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),22.9,15.2,False,False
+Kerala,Thrissur,Population and Household Profile,1,Population below age 5 years (%),5.3,5.2,False,False
+Kerala,Thrissur,Population and Household Profile,2,Population below age 15 years (%),19.3,18.8,False,False
+Kerala,Thrissur,Population and Household Profile,3,Population age 60 years and above (%),22.0,21.1,False,False
+Kerala,Thrissur,Population and Household Profile,4,Population living in households with electricity (%),100.0,100.0,False,False
+Kerala,Thrissur,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),96.7,93.7,False,False
+Kerala,Thrissur,Population and Household Profile,6,Households using iodized salt (%),99.5,99.7,False,False
+Kerala,Thrissur,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),54.4,55.1,False,False
+Kerala,Thrissur,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.1,98.0,False,False
+Kerala,Thrissur,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),98.2,97.8,False,False
+Kerala,Thrissur,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),35.8,35.4,False,False
+Kerala,Thrissur,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),54.0,57.7,False,False
+Kerala,Thrissur,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),90.3,79.2,False,False
+Kerala,Thrissur,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),72.5,72.6,False,False
+Kerala,Thrissur,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),90.5,66.6,False,False
+Kerala,Thrissur,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),89.5,78.9,True,False
+Kerala,Thrissur,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),1.5,1.0,False,False
+Kerala,Thrissur,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Thrissur,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),1.2,0.0,False,False
+Kerala,Thrissur,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),1.0,1.0,False,False
+Kerala,Thrissur,Marriage and Fertility,20,Any method2 (%),63.9,69.7,False,False
+Kerala,Thrissur,Marriage and Fertility,21,Any modern method2 (%),54.3,61.5,False,False
+Kerala,Thrissur,Marriage and Fertility,22,Any traditional method (%),9.6,8.2,False,False
+Kerala,Thrissur,Marriage and Fertility,23,Female sterilization (%),43.2,52.9,False,False
+Kerala,Thrissur,Marriage and Fertility,24,Male sterilization (%),0.0,0.0,False,False
+Kerala,Thrissur,Marriage and Fertility,25,Total unmet need3 (%),9.7,10.9,False,False
+Kerala,Thrissur,Marriage and Fertility,26,Unmet need for spacing3 (%),6.7,4.9,False,False
+Kerala,Thrissur,Marriage and Fertility,27,Unmet need for limiting3 (%),3.0,6.0,False,False
+Kerala,Thrissur,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),91.3,97.1,False,False
+Kerala,Thrissur,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),95.2,87.8,False,False
+Kerala,Thrissur,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),88.2,82.4,False,False
+Kerala,Thrissur,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),96.2,95.7,False,False
+Kerala,Thrissur,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),90.5,78.6,False,False
+Kerala,Thrissur,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),75.5,70.8,False,False
+Kerala,Thrissur,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),88.3,87.0,False,False
+Kerala,Thrissur,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),99.3,100.0,False,False
+Kerala,Thrissur,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),30.7,30.9,False,False
+Kerala,Thrissur,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),100.0,100.0,False,False
+Kerala,Thrissur,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),37.7,45.7,False,False
+Kerala,Thrissur,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),41.4,43.0,False,False
+Kerala,Thrissur,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),30.1,51.9,False,False
+Kerala,Thrissur,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,91.5,95.2,False,False
+Kerala,Thrissur,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Thrissur,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,92.7,88.4,False,False
+Kerala,Thrissur,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,94.7,*,True,False
+Kerala,Thrissur,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),96.9,*,True,False
+Kerala,Thrissur,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),97.8,*,True,False
+Kerala,Thrissur,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),97.8,*,True,False
+Kerala,Thrissur,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),94.7,*,True,False
+Kerala,Thrissur,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),97.8,*,True,False
+Kerala,Thrissur,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),97.8,*,True,False
+Kerala,Thrissur,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),92.0,32.1,True,False
+Kerala,Thrissur,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),95.6,*,True,False
+Kerala,Thrissur,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),97.8,*,True,False
+Kerala,Thrissur,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),81.9,87.7,False,False
+Kerala,Thrissur,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),96.3,*,True,False
+Kerala,Thrissur,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),3.7,*,True,False
+Kerala,Thrissur,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),5.1,8.2,False,False
+Kerala,Thrissur,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.4,2.3,False,False
+Kerala,Thrissur,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,70.2,89.4,True,False
+Kerala,Thrissur,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),82.8,69.0,False,False
+Kerala,Thrissur,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),*,*,True,False
+Kerala,Thrissur,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),*,*,True,False
+Kerala,Thrissur,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,*,*,True,False
+Kerala,Thrissur,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Thrissur,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",23.9,11.5,True,False
+Kerala,Thrissur,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Thrissur,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",24.9,14.3,True,False
+Kerala,Thrissur,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),18.4,22.0,False,False
+Kerala,Thrissur,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),14.4,9.6,False,False
+Kerala,Thrissur,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),3.5,3.8,False,False
+Kerala,Thrissur,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),18.4,17.3,False,False
+Kerala,Thrissur,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),3.4,6.1,False,False
+Kerala,Thrissur,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),12.5,10.9,False,False
+Kerala,Thrissur,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),46.5,42.8,False,False
+Kerala,Thrissur,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),6.7,8.9,False,False
+Kerala,Thrissur,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),15.1,15.1,False,False
+Kerala,Thrissur,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),25.7,28.3,False,False
+Kerala,Thrissur,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),10.2,11.0,False,False
+Kerala,Thrissur,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),17.7,16.6,False,False
+Kerala,Thrissur,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),32.9,31.7,False,False
+Kerala,Thrissur,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),11.1,14.3,False,False
+Kerala,Thrissur,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,5.3,6.1,False,False
+Kerala,Thrissur,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,27.4,31.4,False,False
+Kerala,Thrissur,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),19.1,18.1,False,False
+Kerala,Thrissur,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,8.1,8.2,False,False
+Kerala,Thrissur,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,39.9,36.8,False,False
+Kerala,Thrissur,Men,87,Women having a bank or savings account that they themselves use (%),94.3,82.1,False,False
+Kerala,Thrissur,Men,88,Women having a mobile phone that they themselves use (%),90.8,84.1,False,False
+Kerala,Thrissur,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),94.3,87.5,False,False
+Kerala,Thrissur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),1.5,2.3,False,False
+Kerala,Thrissur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),13.7,17.8,False,False
+Kerala,Thrissur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.3,0.2,False,False
+Kerala,Thrissur,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),27.6,26.2,False,False
+Kerala,Wayanad,Population and Household Profile,1,Population below age 5 years (%),7.2,5.9,False,False
+Kerala,Wayanad,Population and Household Profile,2,Population below age 15 years (%),23.5,21.2,False,False
+Kerala,Wayanad,Population and Household Profile,3,Population age 60 years and above (%),17.0,16.1,False,False
+Kerala,Wayanad,Population and Household Profile,4,Population living in households with electricity (%),97.8,97.0,False,False
+Kerala,Wayanad,Population and Household Profile,5,Population living in households with an improved drinking-water source1 (%),95.3,94.1,False,False
+Kerala,Wayanad,Population and Household Profile,6,Households using iodized salt (%),98.1,99.0,False,False
+Kerala,Wayanad,Population and Household Profile,7,Households with any usual member covered under a health insurance/financing scheme (%),64.0,70.0,False,False
+Kerala,Wayanad,Population and Household Profile,8,Households with any usual member having a bank account/post office account (%),99.4,96.7,False,False
+Kerala,Wayanad,Population and Household Profile,9,Female population age 6 years and above who ever attended school (%),90.1,88.2,False,False
+Kerala,Wayanad,Population and Household Profile,10,Households with any usual female members owning a house and/or land (alone or jointly with others) (%),39.8,28.9,False,False
+Kerala,Wayanad,Population and Household Profile,11,Children age 2-4 years who attended pre-school (%),46.3,51.4,False,False
+Kerala,Wayanad,Characteristics of Adults (age 15-49 years),12,Women with 10 or more years of schooling (%),74.2,68.0,False,False
+Kerala,Wayanad,Characteristics of Adults (age 15-49 years),13,Men with 10 or more years of schooling (%),73.0,69.9,False,False
+Kerala,Wayanad,Characteristics of Adults (age 15-49 years),14,Women who have ever used the internet (%),80.8,49.7,False,False
+Kerala,Wayanad,Characteristics of Adults (age 15-49 years),15,Men who have ever used the internet (%),96.1,63.2,False,False
+Kerala,Wayanad,Marriage and Fertility,16,Women age 20-24 years married before age 18 years (%),9.5,8.4,False,False
+Kerala,Wayanad,Marriage and Fertility,17,Men age 25-29 years married before age 21 years (%),*,*,True,False
+Kerala,Wayanad,Marriage and Fertility,18,Three or more births in the 5 years preceding the survey (%),1.6,0.5,False,False
+Kerala,Wayanad,Marriage and Fertility,19,Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),2.2,2.6,False,False
+Kerala,Wayanad,Marriage and Fertility,20,Any method2 (%),70.5,78.9,False,False
+Kerala,Wayanad,Marriage and Fertility,21,Any modern method2 (%),57.4,69.5,False,False
+Kerala,Wayanad,Marriage and Fertility,22,Any traditional method (%),13.1,9.4,False,False
+Kerala,Wayanad,Marriage and Fertility,23,Female sterilization (%),44.9,64.8,False,False
+Kerala,Wayanad,Marriage and Fertility,24,Male sterilization (%),0.7,0.2,False,False
+Kerala,Wayanad,Marriage and Fertility,25,Total unmet need3 (%),8.8,5.6,False,False
+Kerala,Wayanad,Marriage and Fertility,26,Unmet need for spacing3 (%),6.0,4.0,False,False
+Kerala,Wayanad,Marriage and Fertility,27,Unmet need for limiting3 (%),2.8,1.6,False,False
+Kerala,Wayanad,Antenatal Care (for last birth in the 5 years before the survey),28,Mothers who had an antenatal check-up in the first trimester (%),85.4,97.6,False,False
+Kerala,Wayanad,Antenatal Care (for last birth in the 5 years before the survey),29,Mothers who had any antenatal care visits (%),99.6,94.7,False,False
+Kerala,Wayanad,Antenatal Care (for last birth in the 5 years before the survey),30,Mothers who had at least 4 antenatal care visits (%),98.4,94.2,False,False
+Kerala,Wayanad,Antenatal Care (for last birth in the 5 years before the survey),31,Mothers whose last birth was protected against neonatal tetanus4 (%),94.2,99.4,False,False
+Kerala,Wayanad,Antenatal Care (for last birth in the 5 years before the survey),32,Mothers who consumed iron folic acid for 100 days or more when they were pregnant (%),91.2,94.9,False,False
+Kerala,Wayanad,Antenatal Care (for last birth in the 5 years before the survey),33,Mothers who consumed iron folic acid for 180 days or more when they were pregnant (%),80.5,75.3,False,False
+Kerala,Wayanad,Antenatal Care (for last birth in the 5 years before the survey),34,Registered pregnancies for which the mother received a Mother and Child Protection (MCP) card (%),98.7,97.7,False,False
+Kerala,Wayanad,Delivery Care (for births in the 5 years before the survey),35,Institutional births (%),100.0,100.0,False,False
+Kerala,Wayanad,Delivery Care (for births in the 5 years before the survey),36,Institutional births in public facility (%),38.8,37.6,False,False
+Kerala,Wayanad,Delivery Care (for births in the 5 years before the survey),37,Births attended by skilled health personnel5 (%),100.0,100.0,False,False
+Kerala,Wayanad,Delivery Care (for births in the 5 years before the survey),38,Births delivered by caesarean section (%),36.6,25.7,False,False
+Kerala,Wayanad,Delivery Care (for births in the 5 years before the survey),39,Births in a private health facility that were delivered by caesarean section (%),43.0,30.2,False,False
+Kerala,Wayanad,Delivery Care (for births in the 5 years before the survey),40,Births in a public health facility that were delivered by caesarean section (%),26.3,18.4,False,False
+Kerala,Wayanad,Postnatal Care (for last birth in the 5 years before the survey),41,Mothers who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,96.1,95.9,False,False
+Kerala,Wayanad,Postnatal Care (for last birth in the 5 years before the survey),42,Children born at home who were taken to a health facility for a check-up within 24 hours of birth (%),*,*,True,False
+Kerala,Wayanad,Postnatal Care (for last birth in the 5 years before the survey),43,Children who received postnatal care from a doctor/nurse/LHV/ANM/midwife/other health personnel within 2,93.3,97.2,False,False
+Kerala,Wayanad,Child Vaccinations and Vitamin A Supplementation,44,Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's,98.2,86.4,True,False
+Kerala,Wayanad,Child Vaccinations and Vitamin A Supplementation,45,Children age 12-23 months fully vaccinated based on information from vaccination card only7 (%),90.6,88.4,True,False
+Kerala,Wayanad,Child Vaccinations and Vitamin A Supplementation,46,Children age 12-23 months who have received any vaccine (%),98.2,97.7,True,False
+Kerala,Wayanad,Child Vaccinations and Vitamin A Supplementation,47,Children age 12-23 months who have received BCG (%),98.2,97.7,True,False
+Kerala,Wayanad,Child Vaccinations and Vitamin A Supplementation,48,Children age 12-23 months who have received 3 doses of polio vaccine8 (%),98.2,88.8,True,False
+Kerala,Wayanad,Child Vaccinations and Vitamin A Supplementation,49,Children age 12-23 months who have received 3 doses of pentavalent vaccine (%),98.2,86.4,True,False
+Kerala,Wayanad,Child Vaccinations and Vitamin A Supplementation,50,Children age 12-23 months who have received the first dose of measles-containing vaccine (MCV) (%),98.2,90.8,True,False
+Kerala,Wayanad,Child Vaccinations and Vitamin A Supplementation,51,Children age 24-35 months who have received a second dose of measles-containing vaccine (MCV) (%),80.1,52.4,True,False
+Kerala,Wayanad,Child Vaccinations and Vitamin A Supplementation,52,Children age 12-23 months who have received birth dose of hepatitis B vaccine (%),87.9,83.9,True,False
+Kerala,Wayanad,Child Vaccinations and Vitamin A Supplementation,53,Children age 12-23 months who have received 3 doses of rotavirus vaccine (%),95.3,0.0,True,False
+Kerala,Wayanad,Child Vaccinations and Vitamin A Supplementation,54,Children age 9-35 months who received a vitamin A dose in the last 6 months (%),79.9,78.1,False,False
+Kerala,Wayanad,Child Vaccinations and Vitamin A Supplementation,55,Children age 12-23 months who received most of their vaccinations in a public health facility (%),100.0,93.2,True,False
+Kerala,Wayanad,Child Vaccinations and Vitamin A Supplementation,56,Children age 12-23 months who received most of their vaccinations in a private health facility (%),0.0,6.8,True,False
+Kerala,Wayanad,Treatment of Childhood Diseases (children under age 5 years),57,Prevalence of diarrhoea in the 2 weeks preceding the survey (%),6.5,1.4,False,False
+Kerala,Wayanad,Treatment of Childhood Diseases (children under age 5 years),58,Prevalence of symptoms of acute respiratory infection (ARI) in the 2 weeks preceding the survey (%),4.3,1.4,False,False
+Kerala,Wayanad,Treatment of Childhood Diseases (children under age 5 years),59,Children with fever or symptoms of ARI in the 2 weeks preceding the survey taken to a health facility or,83.7,95.5,True,False
+Kerala,Wayanad,Child Feeding Practices and Nutritional Status of Children,60,Children under age 3 years breastfed within one hour of birth9 (%),87.2,60.0,False,False
+Kerala,Wayanad,Child Feeding Practices and Nutritional Status of Children,61,Children under age 6 months exclusively breastfed10 (%),62.9,*,True,False
+Kerala,Wayanad,Child Feeding Practices and Nutritional Status of Children,62,Children under age 6 months currently breastfeeding10 (%),89.4,*,True,False
+Kerala,Wayanad,Child Feeding Practices and Nutritional Status of Children,63,Children under age 6 months exclusively breastfed or breastfeeding and consuming plain water/other,70.7,*,True,False
+Kerala,Wayanad,Child Feeding Practices and Nutritional Status of Children,64,Children age 6-8 months receiving solid or semi-solid food and breastmilk10 (%),*,*,True,False
+Kerala,Wayanad,Child Feeding Practices and Nutritional Status of Children,65,"Breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",35.0,14.8,False,False
+Kerala,Wayanad,Child Feeding Practices and Nutritional Status of Children,66,"Non-breastfeeding children age 6-23 months receiving an adequate diet10, 11 (%)",*,*,True,False
+Kerala,Wayanad,Child Feeding Practices and Nutritional Status of Children,67,"Total children age 6-23 months receiving an adequate diet10, 11 (%)",35.0,14.1,False,False
+Kerala,Wayanad,Child Feeding Practices and Nutritional Status of Children,68,Children under 5 years who are stunted (height-for-age)12 (%),28.4,31.3,False,False
+Kerala,Wayanad,Child Feeding Practices and Nutritional Status of Children,69,Children under 5 years who are wasted (weight-for-height)12 (%),8.7,16.1,False,False
+Kerala,Wayanad,Child Feeding Practices and Nutritional Status of Children,70,Children under 5 years who are severely wasted (weight-for-height)13 (%),1.9,5.3,False,False
+Kerala,Wayanad,Child Feeding Practices and Nutritional Status of Children,71,Children under 5 years who are underweight (weight-for-age)12 (%),27.4,22.5,False,False
+Kerala,Wayanad,Child Feeding Practices and Nutritional Status of Children,72,Children under 5 years who are overweight (weight-for-height)14 (%),1.6,6.5,False,False
+Kerala,Wayanad,Nutritional Status of Adults (age 15-49 years),73,Women whose Body Mass Index (BMI) is below normal (BMI <18.5 kg/m2)15 (%),16.4,14.0,False,False
+Kerala,Wayanad,Nutritional Status of Adults (age 15-49 years),74,Women who are overweight or obese (BMI ≥25.0 kg/m2)15 (%),39.0,26.7,False,False
+Kerala,Wayanad,Women,75,Blood sugar level - high (141-160 mg/dl)16 (%),8.2,7.5,False,False
+Kerala,Wayanad,Women,76,Blood sugar level - very high (>160 mg/dl)16 (%),12.3,8.4,False,False
+Kerala,Wayanad,Women,77,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),23.0,18.3,False,False
+Kerala,Wayanad,Men,78,Blood sugar level - high (141-160 mg/dl)16 (%),6.6,8.2,False,False
+Kerala,Wayanad,Men,79,Blood sugar level - very high (>160 mg/dl)16 (%),13.7,7.9,False,False
+Kerala,Wayanad,Men,80,Blood sugar level - high or very high (>140 mg/dl) or taking medicine to control blood sugar level16 (%),23.0,17.9,False,False
+Kerala,Wayanad,Women,81,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),14.9,15.0,False,False
+Kerala,Wayanad,Women,82,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,7.3,7.2,False,False
+Kerala,Wayanad,Women,83,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,32.5,28.8,False,False
+Kerala,Wayanad,Men,84,Mildly elevated blood pressure (Systolic 140-159 mm of Hg and/or Diastolic 90-99 mm of Hg) (%),18.3,17.7,False,False
+Kerala,Wayanad,Men,85,Moderately or severely elevated blood pressure (Systolic ≥160 mm of Hg and/or Diastolic ≥100 mm,9.3,7.4,False,False
+Kerala,Wayanad,Men,86,Elevated blood pressure (Systolic ≥140 mm of Hg and/or Diastolic ≥90 mm of Hg) or taking medicine to,33.9,28.3,False,False
+Kerala,Wayanad,Men,87,Women having a bank or savings account that they themselves use (%),93.4,74.0,False,False
+Kerala,Wayanad,Men,88,Women having a mobile phone that they themselves use (%),81.9,79.4,False,False
+Kerala,Wayanad,Men,89,Women age 15-24 years who use hygienic methods of protection during their menstrual period17 (%),78.5,85.8,False,False
+Kerala,Wayanad,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),90,Women age 15 years and above who use any kind of tobacco (%),13.5,10.6,False,False
+Kerala,Wayanad,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),91,Men age 15 years and above who use any kind of tobacco (%),25.7,26.0,False,False
+Kerala,Wayanad,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),92,Women age 15 years and above who consume alcohol (%),0.8,1.2,False,False
+Kerala,Wayanad,Tobacco Use and Alcohol Consumption among Adults (age 15 years and above),93,Men age 15 years and above who consume alcohol (%),25.0,23.2,False,False
